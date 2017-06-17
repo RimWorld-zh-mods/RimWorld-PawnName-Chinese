@@ -2,7 +2,7 @@
 <Data>
   <!--Total: 135-->
   <SubMap Name="Adelynn" Category="First" Gender="Female">
-    <Translation>Adelynn</Translation>
+    <Translation>阿达琳</Translation>
     <Fields>
       <Female_Adelynn_Shelton_Addy.first />
     </Fields>
@@ -90,25 +90,25 @@
     </Fields>
   </SubMap>
   <SubMap Name="Bethany" Category="First" Gender="Female">
-    <Translation>Bethany</Translation>
+    <Translation>芭瑟丽</Translation>
     <Fields>
       <Female_Bethany_Andrews_Beth.first />
     </Fields>
   </SubMap>
   <SubMap Name="Brianna" Category="First" Gender="Female">
-    <Translation>Brianna</Translation>
+    <Translation>布里安娜</Translation>
     <Fields>
       <Female_Brianna_Chouinard_EMPTY.first />
     </Fields>
   </SubMap>
   <SubMap Name="CaraLeigh" Category="First" Gender="Female">
-    <Translation>CaraLeigh</Translation>
+    <Translation>卡拉蕾</Translation>
     <Fields>
       <Female_CaraLeigh_Bennett_CaraLeigh.first />
     </Fields>
   </SubMap>
   <SubMap Name="Carrie" Category="First" Gender="Female">
-    <Translation>Carrie</Translation>
+    <Translation>卡丽</Translation>
     <Fields>
       <Female_Carrie_Jones_EMPTY.first />
     </Fields>
@@ -121,7 +121,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Cassie" Category="First" Gender="Female">
-    <Translation>Cassie</Translation>
+    <Translation>凯茜</Translation>
     <Fields>
       <Female_Cassie_Hughes_Chewey.first />
     </Fields>
@@ -147,7 +147,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Charlie" Category="First" Gender="Female">
-    <Translation>Charlie</Translation>
+    <Translation>查莉</Translation>
     <Fields>
       <Female_Charlie_Baxter_Charles.first />
     </Fields>
@@ -165,7 +165,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Claire" Category="First" Gender="Female">
-    <Translation>Claire</Translation>
+    <Translation>克莱尔</Translation>
     <Fields>
       <Female_Claire_Fox_Claire.first />
     </Fields>
@@ -190,13 +190,13 @@
     </Fields>
   </SubMap>
   <SubMap Name="Dezarae" Category="First" Gender="Female">
-    <Translation>Dezarae</Translation>
+    <Translation>德扎丽儿</Translation>
     <Fields>
       <Female_Dezarae_Phoenix_Dez.first />
     </Fields>
   </SubMap>
   <SubMap Name="Dianne" Category="First" Gender="Female">
-    <Translation>Dianne</Translation>
+    <Translation>黛安娜</Translation>
     <Fields>
       <Female_Dianne_Nguyen_Dwi.first />
     </Fields>
@@ -208,7 +208,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Elizabeth" Category="First" Gender="Female">
-    <Translation>Elizabeth</Translation>
+    <Translation>伊丽莎白</Translation>
     <Fields>
       <Female_Elizabeth_Mayercheek_Rascal.first />
       <Female_Elizabeth_Charlton_Lizzie.first />
@@ -263,20 +263,20 @@
     </Fields>
   </SubMap>
   <SubMap Name="Freda" Category="First" Gender="Female">
-    <Translation>Freda</Translation>
+    <Translation>弗蕾妲</Translation>
     <Fields>
       <Female_Freda_Yee_Bunny.first />
     </Fields>
   </SubMap>
   <SubMap Name="Freya" Category="First" Gender="Female">
-    <Translation>Freya</Translation>
+    <Translation>弗蕾娅</Translation>
     <Fields>
       <Female_Freya_Fertile_Freya.first />
       <Female_Freya_Tyo_EMPTY.first />
     </Fields>
   </SubMap>
   <SubMap Name="Futa" Category="First" Gender="Female">
-    <Translation>弗塔</Translation>
+    <Translation>扶她</Translation>
     <Fields>
       <Female_Futa_Welsh_EMPTY.first />
     </Fields>
@@ -300,7 +300,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Hannah" Category="First" Gender="Female">
-    <Translation>Hannah</Translation>
+    <Translation>汉娜</Translation>
     <Fields>
       <Female_Hannah_Williams_Han.first />
     </Fields>
@@ -325,7 +325,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Ivana" Category="First" Gender="Female">
-    <Translation>Ivana</Translation>
+    <Translation>伊凡娜</Translation>
     <Fields>
       <Female_Ivana_Drake_Ivanna.first />
     </Fields>
@@ -337,7 +337,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Jem" Category="First" Gender="Female">
-    <Translation>Jem</Translation>
+    <Translation>杰姆</Translation>
     <Fields>
       <Female_Jem_Anderson_Jem.first />
     </Fields>
@@ -357,19 +357,19 @@
     </Fields>
   </SubMap>
   <SubMap Name="Jess" Category="First" Gender="Female">
-    <Translation>Jess</Translation>
+    <Translation>耶丝</Translation>
     <Fields>
       <Female_Jess_Kavka_Chirpy.first />
     </Fields>
   </SubMap>
   <SubMap Name="Jessy" Category="First" Gender="Female">
-    <Translation>Jessy</Translation>
+    <Translation>杰茜</Translation>
     <Fields>
       <Female_Jessy_Shen_Jessy.first />
     </Fields>
   </SubMap>
   <SubMap Name="Jodie" Category="First" Gender="Female">
-    <Translation>Jodie</Translation>
+    <Translation>朱迪</Translation>
     <Fields>
       <Female_Jodie_King_Sharee.first />
     </Fields>
@@ -401,7 +401,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Kay" Category="First" Gender="Female">
-    <Translation>Kay</Translation>
+    <Translation>凯</Translation>
     <Fields>
       <Female_Kay_Neville_EMPTY.first />
     </Fields>
@@ -414,13 +414,13 @@
     </Fields>
   </SubMap>
   <SubMap Name="Kendra" Category="First" Gender="Female">
-    <Translation>Kendra</Translation>
+    <Translation>肯德拉</Translation>
     <Fields>
       <Female_Kendra_Nichols_Kendra.first />
     </Fields>
   </SubMap>
   <SubMap Name="Khiae" Category="First" Gender="Female">
-    <Translation>Khiae</Translation>
+    <Translation>希尔</Translation>
     <Fields>
       <Female_Khiae_Campbell_Weiss.first />
     </Fields>
@@ -459,13 +459,13 @@
     </Fields>
   </SubMap>
   <SubMap Name="Leila" Category="First" Gender="Female">
-    <Translation>Leila</Translation>
+    <Translation>莱拉</Translation>
     <Fields>
       <Female_Leila_Clark_Parks.first />
     </Fields>
   </SubMap>
   <SubMap Name="Lindsay" Category="First" Gender="Female">
-    <Translation>Lindsay</Translation>
+    <Translation>林赛</Translation>
     <Fields>
       <Female_Lindsay_Logan_Muffins.first />
     </Fields>
@@ -503,13 +503,13 @@
     </Fields>
   </SubMap>
   <SubMap Name="Luxanna" Category="First" Gender="Female">
-    <Translation>Luxanna</Translation>
+    <Translation>露可桑娜</Translation>
     <Fields>
       <Female_Luxanna_Cotter_Lux.first />
     </Fields>
   </SubMap>
   <SubMap Name="Lyn" Category="First" Gender="Female">
-    <Translation>Lyn</Translation>
+    <Translation>琳恩</Translation>
     <Fields>
       <Female_Lyn_Chase_Shrike.first />
       <Female_Lyn_Young_EMPTY.first />
@@ -542,7 +542,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Melanie" Category="First" Gender="Female">
-    <Translation>Melanie</Translation>
+    <Translation>梅拉妮</Translation>
     <Fields>
       <Female_Melanie_Doering_Mel.first />
       <Female_Melanie_McGrath_Melly.first />
@@ -587,7 +587,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Moira" Category="First" Gender="Female">
-    <Translation>Moira</Translation>
+    <Translation>茉伊拉</Translation>
     <Fields>
       <Female_Moira_Burton_EMPTY.first />
     </Fields>
@@ -611,7 +611,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Nyx" Category="First" Gender="Female">
-    <Translation>Nyx</Translation>
+    <Translation>妮克丝</Translation>
     <Fields>
       <Female_Nyx_Silva_EMPTY.first />
     </Fields>
@@ -623,7 +623,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Panzerella" Category="First" Gender="Female">
-    <Translation>Panzerella</Translation>
+    <Translation>潘泽蕾拉</Translation>
     <Fields>
       <Female_Panzerella_Winterbourne_Pan.first />
     </Fields>
@@ -641,7 +641,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Quinn" Category="First" Gender="Female">
-    <Translation>Quinn</Translation>
+    <Translation>奎因</Translation>
     <Fields>
       <Female_Quinn_Valentine_Kitty.first />
     </Fields>
@@ -660,13 +660,13 @@
     </Fields>
   </SubMap>
   <SubMap Name="Rebecka" Category="First" Gender="Female">
-    <Translation>Rebecka</Translation>
+    <Translation>李蓓茶</Translation>
     <Fields>
       <Female_Rebecka_Walker_Becky.first />
     </Fields>
   </SubMap>
   <SubMap Name="Roan" Category="First" Gender="Female">
-    <Translation>Roan</Translation>
+    <Translation>罗恩</Translation>
     <Fields>
       <Female_Roan_Berg_EMPTY.first />
     </Fields>
@@ -687,7 +687,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Samantha" Category="First" Gender="Female">
-    <Translation>Samantha</Translation>
+    <Translation>萨曼莎</Translation>
     <Fields>
       <Female_Samantha_vonAachen_Samantha.first />
       <Female_Samantha_Green_Semi.first />
@@ -705,14 +705,14 @@
     </Fields>
   </SubMap>
   <SubMap Name="Sera" Category="First" Gender="Female">
-    <Translation>Sera</Translation>
+    <Translation>塞拉</Translation>
     <Fields>
       <Female_Sera_Wolfe_Cub.first />
       <Female_Sera_Steiner_Kaleun.first />
     </Fields>
   </SubMap>
   <SubMap Name="Serenity" Category="First" Gender="Female">
-    <Translation>Serenity</Translation>
+    <Translation>塞雷妮蒂</Translation>
     <Fields>
       <Female_Serenity_Williams_Rennie.first />
     </Fields>
@@ -742,13 +742,13 @@
     </Fields>
   </SubMap>
   <SubMap Name="Solveig" Category="First" Gender="Female">
-    <Translation>Solveig</Translation>
+    <Translation>佐尔法伊格</Translation>
     <Fields>
       <Female_Solveig_Harrison_Solange.first />
     </Fields>
   </SubMap>
   <SubMap Name="Sonja" Category="First" Gender="Female">
-    <Translation>Sonja</Translation>
+    <Translation>索尼娅</Translation>
     <Fields>
       <Female_Sonja_Baker_Shonja.first />
     </Fields>
@@ -772,13 +772,13 @@
     </Fields>
   </SubMap>
   <SubMap Name="Subira" Category="First" Gender="Female">
-    <Translation>Subira</Translation>
+    <Translation>苏维拉</Translation>
     <Fields>
       <Female_Subira_Astari_Stars.first />
     </Fields>
   </SubMap>
   <SubMap Name="Sydney" Category="First" Gender="Female">
-    <Translation>Sydney</Translation>
+    <Translation>悉妮</Translation>
     <Fields>
       <Female_Sydney_Ashcraft_Syd.first />
     </Fields>
@@ -790,19 +790,19 @@
     </Fields>
   </SubMap>
   <SubMap Name="Tacita" Category="First" Gender="Female">
-    <Translation>Tacita</Translation>
+    <Translation>塔琪塔</Translation>
     <Fields>
       <Female_Tacita_Pawlak_Taci.first />
     </Fields>
   </SubMap>
   <SubMap Name="Tam" Category="First" Gender="Female">
-    <Translation>Tam</Translation>
+    <Translation>潭慕</Translation>
     <Fields>
       <Female_Tam_Jones_Blue.first />
     </Fields>
   </SubMap>
   <SubMap Name="Tatanna" Category="First" Gender="Female">
-    <Translation>Tatanna</Translation>
+    <Translation>塔叹娜</Translation>
     <Fields>
       <Female_Tatanna_Drake_Taya.first />
     </Fields>
@@ -833,7 +833,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Xiao" Category="First" Gender="Female">
-    <Translation>Xiao</Translation>
+    <Translation>筱</Translation>
     <Fields>
       <Female_Xiao_Li_Ally.first />
     </Fields>
@@ -845,7 +845,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Zara" Category="First" Gender="Female">
-    <Translation>Zara</Translation>
+    <Translation>扎拉</Translation>
     <Fields>
       <Female_Zara_LeBlanc_Zoodles.first />
     </Fields>
@@ -863,7 +863,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Zurine" Category="First" Gender="Female">
-    <Translation>Zurine</Translation>
+    <Translation>祖琳</Translation>
     <Fields>
       <Female_Zurine_Howell_EMPTY.first />
     </Fields>
