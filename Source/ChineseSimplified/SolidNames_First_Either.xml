@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Data>
+  <!--Total: 41-->
+  <SubMap Name="Aaron" Category="First" Gender="Either">
+    <Translation>阿隆</Translation>
+    <Fields>
+      <Either_Aaron_Stoll_EMPTY.first />
+    </Fields>
+  </SubMap>
+  <SubMap Name="Adrian" Category="First" Gender="Either">
+    <Translation>阿德里安</Translation>
+    <Fields>
+      <Either_Adrian_Boss_AJ.first />
+      <Either_Adrian_Clarke_AJ.first />
+    </Fields>
+  </SubMap>
+  <SubMap Name="Alex" Category="First" Gender="Either">
+    <Translation>亚历克斯</Translation>
+    <Fields>
+      <Either_Alex_Boyle_Gundozer.first />
+      <Either_Alex_Beaulieu_EMPTY.first />
+      <Either_Alex_DiNardo_EMPTY.first />
+    </Fields>
+  </SubMap>
+  <SubMap Name="Alexander" Category="First" Gender="Either">
+    <Translation>Alexander</Translation>
+    <Fields>
+      <Either_Alexander_Richards_Alex.first />
+    </Fields>
+  </SubMap>
+  <SubMap Name="Alyas" Category="First" Gender="Either">
+    <Translation>Alyas</Translation>
+    <Fields>
+      <Either_Alyas_Grey_Alyas.first />
+    </Fields>
+  </SubMap>
+  <SubMap Name="Autumn" Category="First" Gender="Either">
+    <Translation>秋</Translation>
+    <Fields>
+      <Either_Autumn_Brown_Red.first />
+    </Fields>
+  </SubMap>
+  <SubMap Name="Charlie" Category="First" Gender="Either">
+    <Translation>查利</Translation>
+    <Fields>
+      <Either_Charlie_Cross_Cross.first />
+    </Fields>
+  </SubMap>
+  <SubMap Name="Chris" Category="First" Gender="Either">
+    <Translation>克里斯</Translation>
+    <Fields>
+      <Either_Chris_Rhodes_Dusty.first />
+      <Either_Chris_Buchan_Doofer.first />
+    </Fields>
+  </SubMap>
+  <SubMap Name="Claus" Category="First" Gender="Either">
+    <Translation>克劳斯</Translation>
+    <Fields>
+      <Either_Claus_Pedersen_Snap.first />
+    </Fields>
+  </SubMap>
+  <SubMap Name="Curlly" Category="First" Gender="Either">
+    <Translation>Curlly</Translation>
+    <Fields>
+      <Either_Curlly_Curry_Cray.first />
+    </Fields>
+  </SubMap>
+  <SubMap Name="Dan" Category="First" Gender="Either">
+    <Translation>Dan</Translation>
+    <Fields>
+      <Either_Dan_Thierry_Teary.first />
+    </Fields>
+  </SubMap>
+  <SubMap Name="Dane" Category="First" Gender="Either">
+    <Translation>Dane</Translation>
+    <Fields>
+      <Either_Dane_Blue_Nelson.first />
+    </Fields>
+  </SubMap>
+  <SubMap Name="Ezra" Category="First" Gender="Either">
+    <Translation>埃兹拉</Translation>
+    <Fields>
+      <Either_Ezra_Style_Ezra.first />
+      <Either_Ezra_Hegarty_Nipz.first />
+    </Fields>
+  </SubMap>
+  <SubMap Name="Fredrik" Category="First" Gender="Either">
+    <Translation>弗雷德里克</Translation>
+    <Fields>
+      <Either_Fredrik_Lindberg_EMPTY.first />
+    </Fields>
+  </SubMap>
+  <SubMap Name="Hansol" Category="First" Gender="Either">
+    <Translation>Hansol</Translation>
+    <Fields>
+      <Either_Hansol_Lee_Alice.first />
+    </Fields>
+  </SubMap>
+  <SubMap Name="Inigo" Category="First" Gender="Either">
+    <Translation>伊尼戈</Translation>
+    <Fields>
+      <Either_Inigo_Jones_Inigo.first />
+    </Fields>
+  </SubMap>
+  <SubMap Name="Jack" Category="First" Gender="Either">
+    <Translation>杰克</Translation>
+    <Fields>
+      <Either_Jack_Skagnetti_Skagnetti.first />
+      <Either_Jack_Quartertooth_EMPTY.first />
+    </Fields>
+  </SubMap>
+  <SubMap Name="James" Category="First" Gender="Either">
+    <Translation>詹姆斯</Translation>
+    <Fields>
+      <Either_James_Cole_Coley.first />
+    </Fields>
+  </SubMap>
+  <SubMap Name="JD" Category="First" Gender="Either">
+    <Translation>JD</Translation>
+    <Fields>
+      <Either_JD_Cohen_EMPTY.first />
+    </Fields>
+  </SubMap>
+  <SubMap Name="Kerri" Category="First" Gender="Either">
+    <Translation>克里</Translation>
+    <Fields>
+      <Either_Kerri_Coffey_Jude.first />
+    </Fields>
+  </SubMap>
+  <SubMap Name="Lewinsai" Category="First" Gender="Either">
+    <Translation>莱文塞</Translation>
+    <Fields>
+      <Either_Lewinsai_Williams_Lewin.first />
+    </Fields>
+  </SubMap>
+  <SubMap Name="Liam" Category="First" Gender="Either">
+    <Translation>利亚姆</Translation>
+    <Fields>
+      <Either_Liam_Kelly_Hawk.first />
+    </Fields>
+  </SubMap>
+  <SubMap Name="Mads" Category="First" Gender="Either">
+    <Translation>Mads</Translation>
+    <Fields>
+      <Either_Mads_Hansen_Slag.first />
+    </Fields>
+  </SubMap>
+  <SubMap Name="Michael" Category="First" Gender="Either">
+    <Translation>迈克尔</Translation>
+    <Fields>
+      <Either_Michael_Carlson_Chicken.first />
+      <Either_Michael_Hunt_Mike.first />
+    </Fields>
+  </SubMap>
+  <SubMap Name="Nelson" Category="First" Gender="Either">
+    <Translation>Nelson</Translation>
+    <Fields>
+      <Either_Nelson_Ramos_Nelly.first />
+    </Fields>
+  </SubMap>
+  <SubMap Name="Peter" Category="First" Gender="Either">
+    <Translation>Peter</Translation>
+    <Fields>
+      <Either_Peter_Taylor_EMPTY.first />
+    </Fields>
+  </SubMap>
+  <SubMap Name="Raymond" Category="First" Gender="Either">
+    <Translation>Raymond</Translation>
+    <Fields>
+      <Either_Raymond_Morgan_Ray.first />
+    </Fields>
+  </SubMap>
+  <SubMap Name="Reagan" Category="First" Gender="Either">
+    <Translation>里根</Translation>
+    <Fields>
+      <Either_Reagan_Stiller_Boots.first />
+    </Fields>
+  </SubMap>
+  <SubMap Name="Richard" Category="First" Gender="Either">
+    <Translation>理查德</Translation>
+    <Fields>
+      <Either_Richard_Parker_Devlin.first />
+    </Fields>
+  </SubMap>
+  <SubMap Name="Robin" Category="First" Gender="Either">
+    <Translation>罗宾</Translation>
+    <Fields>
+      <Either_Robin_Pearson_EMPTY.first />
+    </Fields>
+  </SubMap>
+  <SubMap Name="Rowan" Category="First" Gender="Either">
+    <Translation>罗恩</Translation>
+    <Fields>
+      <Either_Rowan_Noor_Needles.first />
+      <Either_Rowan_Buckley_Rowan.first />
+    </Fields>
+  </SubMap>
+  <SubMap Name="Sanghun" Category="First" Gender="Either">
+    <Translation>桑辉</Translation>
+    <Fields>
+      <Either_Sanghun_Gu_Hun.first />
+    </Fields>
+  </SubMap>
+  <SubMap Name="Shakuon" Category="First" Gender="Either">
+    <Translation>Shakuon</Translation>
+    <Fields>
+      <Either_Shakuon_Morgan_EMPTY.first />
+    </Fields>
+  </SubMap>
+  <SubMap Name="Sheng" Category="First" Gender="Either">
+    <Translation>Sheng</Translation>
+    <Fields>
+      <Either_Sheng_Huang_EMPTY.first />
+    </Fields>
+  </SubMap>
+  <SubMap Name="Soder" Category="First" Gender="Either">
+    <Translation>索德</Translation>
+    <Fields>
+      <Either_Soder_Berg_Soda.first />
+    </Fields>
+  </SubMap>
+  <SubMap Name="Synth" Category="First" Gender="Either">
+    <Translation>塞恩斯</Translation>
+    <Fields>
+      <Either_Synth_Lockheart_EMPTY.first />
+    </Fields>
+  </SubMap>
+  <SubMap Name="Tazren" Category="First" Gender="Either">
+    <Translation>塔兹伦</Translation>
+    <Fields>
+      <Either_Tazren_Roberts_Taz.first />
+    </Fields>
+  </SubMap>
+  <SubMap Name="Theodore" Category="First" Gender="Either">
+    <Translation>西奥多</Translation>
+    <Fields>
+      <Either_Theodore_Smith_Theo.first />
+    </Fields>
+  </SubMap>
+  <SubMap Name="Tyler" Category="First" Gender="Either">
+    <Translation>泰勒</Translation>
+    <Fields>
+      <Either_Tyler_Hodges_Lazy.first />
+    </Fields>
+  </SubMap>
+  <SubMap Name="Tyson" Category="First" Gender="Either">
+    <Translation>泰森</Translation>
+    <Fields>
+      <Either_Tyson_Butler_Toll.first />
+    </Fields>
+  </SubMap>
+  <SubMap Name="Ye" Category="First" Gender="Either">
+    <Translation>叶</Translation>
+    <Fields>
+      <Either_Ye_Huang_Mickey.first />
+    </Fields>
+  </SubMap>
+</Data>
