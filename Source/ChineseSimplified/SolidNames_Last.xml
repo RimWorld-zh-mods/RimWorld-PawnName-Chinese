@@ -13340,7 +13340,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Stapleton" Category="Last">
-    <Translation>Stapleton</Translation>
+    <Translation>斯特普尔顿</Translation>
     <Fields>
       <Male_Matthew_Stapleton_Matt.last />
     </Fields>
@@ -13352,19 +13352,19 @@
     </Fields>
   </SubMap>
   <SubMap Name="Staudinger" Category="Last">
-    <Translation>Staudinger</Translation>
+    <Translation>斯陶丁格</Translation>
     <Fields>
       <Male_David_Staudinger_Dac.last />
     </Fields>
   </SubMap>
   <SubMap Name="Steadman" Category="Last">
-    <Translation>Steadman</Translation>
+    <Translation>斯特德曼</Translation>
     <Fields>
       <Male_Chad_Steadman_EMPTY.last />
     </Fields>
   </SubMap>
   <SubMap Name="Stebih" Category="Last">
-    <Translation>Stebih</Translation>
+    <Translation>斯特比</Translation>
     <Fields>
       <Male_Tommy_Stebih_Tommy.last />
     </Fields>
@@ -13379,7 +13379,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Steiner" Category="Last">
-    <Translation>Steiner</Translation>
+    <Translation>斯坦纳</Translation>
     <Fields>
       <Female_Sera_Steiner_Kaleun.last />
     </Fields>
@@ -13409,7 +13409,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Steventon" Category="Last">
-    <Translation>Steventon</Translation>
+    <Translation>史蒂文顿</Translation>
     <Fields>
       <Male_Mark_Steventon_Blue.last />
     </Fields>
@@ -13440,19 +13440,19 @@
     </Fields>
   </SubMap>
   <SubMap Name="Stirkul" Category="Last">
-    <Translation>Stirkul</Translation>
+    <Translation>斯德库尔</Translation>
     <Fields>
       <Male_Jake_Stirkul_Snake.last />
     </Fields>
   </SubMap>
   <SubMap Name="Stockley" Category="Last">
-    <Translation>Stockley</Translation>
+    <Translation>斯托克利</Translation>
     <Fields>
       <Male_Thomas_Stockley_Tommy.last />
     </Fields>
   </SubMap>
   <SubMap Name="Stoeier" Category="Last">
-    <Translation>Stoeier</Translation>
+    <Translation>斯多埃尔</Translation>
     <Fields>
       <Male_Michael_Stoeier_EMPTY.last />
     </Fields>
@@ -13480,13 +13480,13 @@
     </Fields>
   </SubMap>
   <SubMap Name="Stoneman" Category="Last">
-    <Translation>Stoneman</Translation>
+    <Translation>斯通曼</Translation>
     <Fields>
       <Male_Kieran_Stoneman_Scotsman.last />
     </Fields>
   </SubMap>
   <SubMap Name="Storch" Category="Last">
-    <Translation>Storch</Translation>
+    <Translation>斯托奇</Translation>
     <Fields>
       <Male_Nico_Storch_EMPTY.last />
     </Fields>
@@ -13498,7 +13498,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Storm" Category="Last">
-    <Translation>Storm</Translation>
+    <Translation>斯冬</Translation>
     <Fields>
       <Male_Huron_Storm_EMPTY.last />
       <Male_Mason_Storm_EMPTY.last />
@@ -13523,7 +13523,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Strabel" Category="Last">
-    <Translation>Strabel</Translation>
+    <Translation>斯爪贝尔</Translation>
     <Fields>
       <Male_Michal_Strabel_Ene.last />
     </Fields>
@@ -13559,7 +13559,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Streit" Category="Last">
-    <Translation>Streit</Translation>
+    <Translation>斯特赖特</Translation>
     <Fields>
       <Male_Duncan_Streit_Duncan.last />
     </Fields>
@@ -13578,26 +13578,26 @@
     </Fields>
   </SubMap>
   <SubMap Name="Strider" Category="Last">
-    <Translation>Strider</Translation>
+    <Translation>斯拽德</Translation>
     <Fields>
       <Male_Leo_Strider_EMPTY.last />
     </Fields>
   </SubMap>
   <SubMap Name="Striker" Category="Last">
-    <Translation>Striker</Translation>
+    <Translation>斯拽克</Translation>
     <Fields>
       <Male_Jonathan_Striker_Jonny.last />
     </Fields>
   </SubMap>
   <SubMap Name="Strine" Category="Last">
-    <Translation>Strine</Translation>
+    <Translation>斯郡</Translation>
     <Fields>
       <Male_John_Strine_Rutabaga.last />
       <Male_Chet_Strine_EMPTY.last />
     </Fields>
   </SubMap>
   <SubMap Name="Strubel" Category="Last">
-    <Translation>Strubel</Translation>
+    <Translation>施特鲁贝尔</Translation>
     <Fields>
       <Male_David_Strubel_David.last />
     </Fields>
@@ -13610,7 +13610,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Studdart" Category="Last">
-    <Translation>Studdart</Translation>
+    <Translation>斯图达特</Translation>
     <Fields>
       <Male_Adam_Studdart_EMPTY.last />
     </Fields>
@@ -13628,7 +13628,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Styers" Category="Last">
-    <Translation>Styers</Translation>
+    <Translation>斯泰尔斯</Translation>
     <Fields>
       <Male_Jackson_Styers_Jack.last />
     </Fields>
@@ -13648,13 +13648,13 @@
     </Fields>
   </SubMap>
   <SubMap Name="Sunbin" Category="Last">
-    <Translation>Sunbin</Translation>
+    <Translation>森宾</Translation>
     <Fields>
       <Male_Pan_Sunbin_Pan.last />
     </Fields>
   </SubMap>
   <SubMap Name="Sunshine" Category="Last">
-    <Translation>Sunshine</Translation>
+    <Translation>森夏恩</Translation>
     <Fields>
       <Male_Robert_Sunshine_Sunny.last />
     </Fields>
@@ -13666,7 +13666,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Svejgaard" Category="Last">
-    <Translation>Svejgaard</Translation>
+    <Translation>斯弗伽德</Translation>
     <Fields>
       <Male_Benjamin_Svejgaard_Svejgaard.last />
     </Fields>
@@ -13684,7 +13684,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Swain" Category="Last">
-    <Translation>Swain</Translation>
+    <Translation>斯温</Translation>
     <Fields>
       <Male_James_Swain_EMPTY.last />
     </Fields>
@@ -13714,20 +13714,20 @@
     </Fields>
   </SubMap>
   <SubMap Name="Szymczyk" Category="Last">
-    <Translation>Szymczyk</Translation>
+    <Translation>希姆奇克</Translation>
     <Fields>
       <Male_Fenix_Szymczyk_Fenix.last />
     </Fields>
   </SubMap>
   <SubMap Name="T" Category="Last">
-    <Translation>大T</Translation>
+    <Translation>T</Translation>
     <Fields>
       <Male_Alex_T_CK.last />
       <Male_Kevin_T_EMPTY.last />
     </Fields>
   </SubMap>
   <SubMap Name="Taasaas" Category="Last">
-    <Translation>Taasaas</Translation>
+    <Translation>塔萨斯</Translation>
     <Fields>
       <Male_Christopher_Taasaas_EMPTY.last />
     </Fields>
@@ -13757,7 +13757,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Talbot" Category="Last">
-    <Translation>Talbot</Translation>
+    <Translation>塔尔博特</Translation>
     <Fields>
       <Male_James_Talbot_Talbot.last />
     </Fields>
@@ -13769,7 +13769,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Tallman" Category="Last">
-    <Translation>Tallman</Translation>
+    <Translation>托尔曼</Translation>
     <Fields>
       <Male_Martin_Tallman_Marty.last />
     </Fields>
@@ -13788,7 +13788,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Tangwall" Category="Last">
-    <Translation>Tangwall</Translation>
+    <Translation>汤维尔</Translation>
     <Fields>
       <Male_Sean_Tangwall_Tango.last />
     </Fields>
@@ -13800,7 +13800,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Tavius" Category="Last">
-    <Translation>Tavius</Translation>
+    <Translation>塔维斯</Translation>
     <Fields>
       <Male_Terry_Tavius_EMPTY.last />
     </Fields>
@@ -13818,7 +13818,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Teasdale" Category="Last">
-    <Translation>Teasdale</Translation>
+    <Translation>蒂斯代尔</Translation>
     <Fields>
       <Male_Andrew_Teasdale_Talo.last />
     </Fields>
@@ -13842,7 +13842,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Teixeira" Category="Last">
-    <Translation>Teixeira</Translation>
+    <Translation>特谢拉</Translation>
     <Fields>
       <Male_Diogo_Teixeira_Mike.last />
     </Fields>
@@ -13860,19 +13860,19 @@
     </Fields>
   </SubMap>
   <SubMap Name="Teodorescu" Category="Last">
-    <Translation>Teodorescu</Translation>
+    <Translation>特奥多雷斯库</Translation>
     <Fields>
       <Male_Ian_Teodorescu_EMPTY.last />
     </Fields>
   </SubMap>
   <SubMap Name="Tepezcuintle" Category="Last">
-    <Translation>Tepezcuintle</Translation>
+    <Translation>特普群特尔</Translation>
     <Fields>
       <Male_Vladimir_Tepezcuintle_Vlad.last />
     </Fields>
   </SubMap>
   <SubMap Name="Ternent" Category="Last">
-    <Translation>Ternent</Translation>
+    <Translation>特南特</Translation>
     <Fields>
       <Male_Cameron_Ternent_James.last />
     </Fields>
@@ -13914,7 +13914,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Tharp" Category="Last">
-    <Translation>Tharp</Translation>
+    <Translation>撒普</Translation>
     <Fields>
       <Male_Tom_Tharp_Pianoman.last />
     </Fields>
@@ -13927,7 +13927,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Thelin" Category="Last">
-    <Translation>Thelin</Translation>
+    <Translation>特林</Translation>
     <Fields>
       <Male_Maximilian_Thelin_Max.last />
     </Fields>
@@ -13976,13 +13976,13 @@
     </Fields>
   </SubMap>
   <SubMap Name="Thomson" Category="Last">
-    <Translation>Thomson</Translation>
+    <Translation>汤姆松</Translation>
     <Fields>
       <Male_Lewis_Thomson_Falcon.last />
     </Fields>
   </SubMap>
   <SubMap Name="Thor" Category="Last">
-    <Translation>Thor</Translation>
+    <Translation>托尔</Translation>
     <Fields>
       <Male_Garrett_Thor_EMPTY.last />
     </Fields>
@@ -14000,7 +14000,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Thresher" Category="Last">
-    <Translation>Thresher</Translation>
+    <Translation>思雷舍</Translation>
     <Fields>
       <Male_Clayton_Thresher_Bog.last />
     </Fields>
@@ -14018,13 +14018,13 @@
     </Fields>
   </SubMap>
   <SubMap Name="Tigress" Category="Last">
-    <Translation>Tigress</Translation>
+    <Translation>蒂格里斯</Translation>
     <Fields>
       <Male_Chris_Tigress_Stonewall.last />
     </Fields>
   </SubMap>
   <SubMap Name="Timlin" Category="Last">
-    <Translation>Timlin</Translation>
+    <Translation>蒂姆林</Translation>
     <Fields>
       <Male_Conor_Timlin_Timmy.last />
     </Fields>
@@ -14036,13 +14036,13 @@
     </Fields>
   </SubMap>
   <SubMap Name="Timmins" Category="Last">
-    <Translation>Timmins</Translation>
+    <Translation>蒂明斯</Translation>
     <Fields>
       <Male_Nathan_Timmins_Grimm.last />
     </Fields>
   </SubMap>
   <SubMap Name="Tishberg" Category="Last">
-    <Translation>Tishberg</Translation>
+    <Translation>蒂施伯格</Translation>
     <Fields>
       <Male_David_Tishberg_Tishberg.last />
     </Fields>
@@ -14054,13 +14054,13 @@
     </Fields>
   </SubMap>
   <SubMap Name="Tjore" Category="Last">
-    <Translation>Tjore</Translation>
+    <Translation>忒尔</Translation>
     <Fields>
       <Male_Robin_Tjore_EMPTY.last />
     </Fields>
   </SubMap>
   <SubMap Name="Tobin" Category="Last">
-    <Translation>Tobin</Translation>
+    <Translation>托宾</Translation>
     <Fields>
       <Male_Chris_Tobin_Almost.last />
       <Male_Bryan_Tobin_EMPTY.last />
@@ -14075,13 +14075,13 @@
     </Fields>
   </SubMap>
   <SubMap Name="Tofferman" Category="Last">
-    <Translation>Tofferman</Translation>
+    <Translation>托菲曼</Translation>
     <Fields>
       <Male_Nick_Tofferman_Toffi.last />
     </Fields>
   </SubMap>
   <SubMap Name="Toft" Category="Last">
-    <Translation>Toft</Translation>
+    <Translation>托夫特</Translation>
     <Fields>
       <Male_Christian_Toft_EMPTY.last />
     </Fields>
@@ -14093,7 +14093,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Tollfree" Category="Last">
-    <Translation>Tollfree</Translation>
+    <Translation>托尔弗利</Translation>
     <Fields>
       <Male_Neil_Tollfree_Trinder.last />
     </Fields>
@@ -14105,7 +14105,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Tolstoy" Category="Last">
-    <Translation>Tolstoy</Translation>
+    <Translation>托尔斯泰</Translation>
     <Fields>
       <Male_Leo_Tolstoy_EMPTY.last />
     </Fields>
@@ -14117,7 +14117,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Tomlin" Category="Last">
-    <Translation>Tomlin</Translation>
+    <Translation>汤姆林</Translation>
     <Fields>
       <Male_Jim_Tomlin_Basher.last />
     </Fields>
@@ -14129,19 +14129,19 @@
     </Fields>
   </SubMap>
   <SubMap Name="Tomsinski" Category="Last">
-    <Translation>Tomsinski</Translation>
+    <Translation>汤姆辛基</Translation>
     <Fields>
       <Male_Matthew_Tomsinski_Matt.last />
     </Fields>
   </SubMap>
   <SubMap Name="Tong" Category="Last">
-    <Translation>Tong</Translation>
+    <Translation>唐</Translation>
     <Fields>
       <Male_Bruce_Tong_Bruce.last />
     </Fields>
   </SubMap>
   <SubMap Name="Tönniges" Category="Last">
-    <Translation>Tönniges</Translation>
+    <Translation>唐尼奇斯</Translation>
     <Fields>
       <Male_Robin_Tönniges_Robin.last />
     </Fields>
@@ -14159,7 +14159,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Topley" Category="Last">
-    <Translation>Topley</Translation>
+    <Translation>托普利</Translation>
     <Fields>
       <Male_Andy_Topley_EMPTY.last />
     </Fields>
@@ -14171,7 +14171,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Torgerson" Category="Last">
-    <Translation>Torgerson</Translation>
+    <Translation>托格森</Translation>
     <Fields>
       <Male_Travis_Torgerson_T-Bone.last />
     </Fields>
@@ -14262,13 +14262,13 @@
     </Fields>
   </SubMap>
   <SubMap Name="Trondsen" Category="Last">
-    <Translation>Trondsen</Translation>
+    <Translation>特朗森</Translation>
     <Fields>
       <Male_Per_Trondsen_Per.last />
     </Fields>
   </SubMap>
   <SubMap Name="Trotter" Category="Last">
-    <Translation>Trotter</Translation>
+    <Translation>特罗特</Translation>
     <Fields>
       <Male_Patrick_Trotter_Trot.last />
     </Fields>
@@ -14286,7 +14286,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Trucker" Category="Last">
-    <Translation>Trucker</Translation>
+    <Translation>特拉克</Translation>
     <Fields>
       <Male_Thomas_Trucker_Taxman.last />
     </Fields>
@@ -14318,7 +14318,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Tuffs" Category="Last">
-    <Translation>Tuffs</Translation>
+    <Translation>图弗斯</Translation>
     <Fields>
       <Male_Harry_Tuffs_Mayfair.last />
     </Fields>
@@ -14349,7 +14349,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Twizell" Category="Last">
-    <Translation>Twizell</Translation>
+    <Translation>忒泽尔</Translation>
     <Fields>
       <Male_Max_Twizell_EMPTY.last />
     </Fields>
@@ -14373,7 +14373,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Tyo" Category="Last">
-    <Translation>Tyo</Translation>
+    <Translation>提奥</Translation>
     <Fields>
       <Female_Freya_Tyo_EMPTY.last />
     </Fields>
@@ -14403,13 +14403,13 @@
     </Fields>
   </SubMap>
   <SubMap Name="Urbansky" Category="Last">
-    <Translation>Urbansky</Translation>
+    <Translation>奥班斯基</Translation>
     <Fields>
       <Male_Steve_Urbansky_Bansky.last />
     </Fields>
   </SubMap>
   <SubMap Name="Usher" Category="Last">
-    <Translation>Usher</Translation>
+    <Translation>乌谢尔</Translation>
     <Fields>
       <Male_Liam_Usher_Gnat.last />
     </Fields>
@@ -14439,7 +14439,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Valdimer" Category="Last">
-    <Translation>Valdimer</Translation>
+    <Translation>瓦尔丁默</Translation>
     <Fields>
       <Male_Wade_Valdimer_Lennin.last />
     </Fields>
@@ -14465,7 +14465,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Valgrez" Category="Last">
-    <Translation>Valgrez</Translation>
+    <Translation>瓦尔格雷兹</Translation>
     <Fields>
       <Male_Julio_Valgrez_Rez.last />
     </Fields>
@@ -14477,44 +14477,44 @@
     </Fields>
   </SubMap>
   <SubMap Name="Valley" Category="Last">
-    <Translation>Valley</Translation>
+    <Translation>瓦利</Translation>
     <Fields>
       <Male_William_Valley_Shifty.last />
     </Fields>
   </SubMap>
   <SubMap Name="van Alphen" Category="Last">
-    <Translation>van Alphen</Translation>
+    <Translation>凡阿尔芬</Translation>
     <Fields>
       <Male_Mark_vanAlphen_EMPTY.last />
     </Fields>
   </SubMap>
   <SubMap Name="van den Ende" Category="Last">
-    <Translation>van den Ende</Translation>
+    <Translation>凡登恩德</Translation>
     <Fields>
       <Male_Michael_vandenEnde_Shark.last />
     </Fields>
   </SubMap>
   <SubMap Name="van Diepen" Category="Last">
-    <Translation>范迪本</Translation>
+    <Translation>凡迪本</Translation>
     <Fields>
       <Male_Christian_vanDiepen_Chris.last />
     </Fields>
   </SubMap>
   <SubMap Name="Van Dusen" Category="Last">
-    <Translation>Van Dusen</Translation>
+    <Translation>凡杜森</Translation>
     <Fields>
       <Male_Jordan_VanDusen_Doozy.last />
       <Male_Patrick_VanDusen_Remington.last />
     </Fields>
   </SubMap>
   <SubMap Name="Van Dyck" Category="Last">
-    <Translation>Van Dyck</Translation>
+    <Translation>凡戴克</Translation>
     <Fields>
       <Male_Tommy_VanDyck_Tommy.last />
     </Fields>
   </SubMap>
   <SubMap Name="van Loon" Category="Last">
-    <Translation>van Loon</Translation>
+    <Translation>凡隆</Translation>
     <Fields>
       <Male_Nathan_vanLoon_EMPTY.last />
     </Fields>
@@ -14526,13 +14526,13 @@
     </Fields>
   </SubMap>
   <SubMap Name="van Noort" Category="Last">
-    <Translation>范 诺尔德</Translation>
+    <Translation>凡诺尔德</Translation>
     <Fields>
       <Male_Simon_vanNoort_Simon.last />
     </Fields>
   </SubMap>
   <SubMap Name="van Tongeren" Category="Last">
-    <Translation>van Tongeren</Translation>
+    <Translation>凡通厄伦</Translation>
     <Fields>
       <Male_Brian_vanTongeren_Brian.last />
     </Fields>
@@ -14544,13 +14544,13 @@
     </Fields>
   </SubMap>
   <SubMap Name="Vanvelk" Category="Last">
-    <Translation>Vanvelk</Translation>
+    <Translation>凡威尔克</Translation>
     <Fields>
       <Male_Thomas_Vanvelk_Wheels.last />
     </Fields>
   </SubMap>
   <SubMap Name="Varney" Category="Last">
-    <Translation>Varney</Translation>
+    <Translation>瓦尼</Translation>
     <Fields>
       <Male_Jack_Varney_Rocket.last />
     </Fields>
@@ -14562,7 +14562,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Vector" Category="Last">
-    <Translation>Vector</Translation>
+    <Translation>维克托</Translation>
     <Fields>
       <Male_Phillip_Vector_Vector.last />
     </Fields>
@@ -14574,7 +14574,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Vela" Category="Last">
-    <Translation>Vela</Translation>
+    <Translation>维拉</Translation>
     <Fields>
       <Male_Matthew_Vela_Matt.last />
     </Fields>
@@ -14586,13 +14586,13 @@
     </Fields>
   </SubMap>
   <SubMap Name="Vent" Category="Last">
-    <Translation>Vent</Translation>
+    <Translation>文特</Translation>
     <Fields>
       <Female_Erin_Vent_EMPTY.last />
     </Fields>
   </SubMap>
   <SubMap Name="Ventura" Category="Last">
-    <Translation>Ventura</Translation>
+    <Translation>文图拉</Translation>
     <Fields>
       <Male_Christopher_Ventura_Venti.last />
     </Fields>
@@ -14616,7 +14616,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Verzosa" Category="Last">
-    <Translation>Verzosa</Translation>
+    <Translation>贝尔索萨</Translation>
     <Fields>
       <Male_Tristan_Verzosa_EMPTY.last />
     </Fields>
@@ -14640,19 +14640,19 @@
     </Fields>
   </SubMap>
   <SubMap Name="Vidovic" Category="Last">
-    <Translation>Vidovic</Translation>
+    <Translation>维多威客</Translation>
     <Fields>
       <Male_Dennis_Vidovic_Denny.last />
     </Fields>
   </SubMap>
   <SubMap Name="Vienna" Category="Last">
-    <Translation>Vienna</Translation>
+    <Translation>维恩纳</Translation>
     <Fields>
       <Female_Elsie_Vienna_Vienna.last />
     </Fields>
   </SubMap>
   <SubMap Name="Vilenger" Category="Last">
-    <Translation>Vilenger</Translation>
+    <Translation>维纶折</Translation>
     <Fields>
       <Male_Louis_Vilenger_Puppeteer.last />
     </Fields>
@@ -14677,7 +14677,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Vines" Category="Last">
-    <Translation>Vines</Translation>
+    <Translation>瓦因斯</Translation>
     <Fields>
       <Male_Jose_Vines_Pepe.last />
     </Fields>
@@ -14726,25 +14726,25 @@
     </Fields>
   </SubMap>
   <SubMap Name="von Aachen" Category="Last">
-    <Translation>von Aachen</Translation>
+    <Translation>冯阿辰</Translation>
     <Fields>
       <Female_Samantha_vonAachen_Samantha.last />
     </Fields>
   </SubMap>
   <SubMap Name="von Beimler" Category="Last">
-    <Translation>von Beimler</Translation>
+    <Translation>冯拜姆勒</Translation>
     <Fields>
       <Male_Ryan_vonBeimler_VonB.last />
     </Fields>
   </SubMap>
   <SubMap Name="von Katze" Category="Last">
-    <Translation>凡卡泽</Translation>
+    <Translation>冯卡泽</Translation>
     <Fields>
       <Male_Lewis_vonKatze_Madcat.last />
     </Fields>
   </SubMap>
   <SubMap Name="von Lewinski" Category="Last">
-    <Translation>冯 莱温斯基</Translation>
+    <Translation>冯莱温斯基</Translation>
     <Fields>
       <Male_Sebastian_vonLewinski_Sepp.last />
     </Fields>
@@ -14756,7 +14756,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="von Rogue" Category="Last">
-    <Translation>von Rogue</Translation>
+    <Translation>冯罗格</Translation>
     <Fields>
       <Male_Jack_vonRogue_Jack.last />
     </Fields>
@@ -14768,19 +14768,19 @@
     </Fields>
   </SubMap>
   <SubMap Name="Vondra" Category="Last">
-    <Translation>Vondra</Translation>
+    <Translation>冯德拉</Translation>
     <Fields>
       <Male_George_Vondra_Wolf.last />
     </Fields>
   </SubMap>
   <SubMap Name="Vondukes" Category="Last">
-    <Translation>Vondukes</Translation>
+    <Translation>冯杜克</Translation>
     <Fields>
       <Male_Earl_Vondukes_EMPTY.last />
     </Fields>
   </SubMap>
   <SubMap Name="Vos" Category="Last">
-    <Translation>Vos</Translation>
+    <Translation>沃斯</Translation>
     <Fields>
       <Male_Nicholas_Vos_Fuzzy.last />
     </Fields>
@@ -14810,7 +14810,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Waddell" Category="Last">
-    <Translation>Waddell</Translation>
+    <Translation>沃德尔</Translation>
     <Fields>
       <Male_Joseph_Waddell_Joe.last />
     </Fields>
@@ -14822,7 +14822,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Wagener" Category="Last">
-    <Translation>Wagener</Translation>
+    <Translation>瓦格纳</Translation>
     <Fields>
       <Male_Jacob_Wagener_Cob.last />
     </Fields>
@@ -14834,13 +14834,13 @@
     </Fields>
   </SubMap>
   <SubMap Name="Waidbacher" Category="Last">
-    <Translation>Waidbacher</Translation>
+    <Translation>韦德贝彻</Translation>
     <Fields>
       <Male_Benedikt_Waidbacher_Ben.last />
     </Fields>
   </SubMap>
   <SubMap Name="Wakefield" Category="Last">
-    <Translation>Wakefield</Translation>
+    <Translation>维克菲尔德</Translation>
     <Fields>
       <Male_Lucas_Wakefield_Blackjack.last />
     </Fields>
@@ -14880,7 +14880,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Wallen" Category="Last">
-    <Translation>Wallen</Translation>
+    <Translation>瓦伦</Translation>
     <Fields>
       <Male_Joshua_Wallen_EMPTY.last />
     </Fields>
@@ -14892,7 +14892,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Walluscheck" Category="Last">
-    <Translation>Walluscheck</Translation>
+    <Translation>瓦路斯谢克</Translation>
     <Fields>
       <Male_David_Walluscheck_EMPTY.last />
     </Fields>
@@ -14910,7 +14910,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Walther" Category="Last">
-    <Translation>Walther</Translation>
+    <Translation>沃尔瑟</Translation>
     <Fields>
       <Male_Anton_Walther_Waltz.last />
     </Fields>
@@ -14929,7 +14929,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Wanser" Category="Last">
-    <Translation>Wanser</Translation>
+    <Translation>万瑟</Translation>
     <Fields>
       <Male_Joel_Wanser_Mailman.last />
     </Fields>
@@ -14948,7 +14948,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Wardle" Category="Last">
-    <Translation>Wardle</Translation>
+    <Translation>沃德尔</Translation>
     <Fields>
       <Male_Matthew_Wardle_Matty.last />
     </Fields>
@@ -14960,7 +14960,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Warthog" Category="Last">
-    <Translation>Warthog</Translation>
+    <Translation>疣猪</Translation>
     <Fields>
       <Male_Nick_Warthog_Nuke.last />
     </Fields>
@@ -14972,7 +14972,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Watanabe" Category="Last">
-    <Translation>Watanabe</Translation>
+    <Translation>瓦塔纳贝</Translation>
     <Fields>
       <Male_Takashi_Watanabe_Wasabi.last />
     </Fields>
@@ -14993,7 +14993,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Watterworth" Category="Last">
-    <Translation>Watterworth</Translation>
+    <Translation>瓦特沃斯</Translation>
     <Fields>
       <Male_Liam_Watterworth_EMPTY.last />
     </Fields>
@@ -15019,7 +15019,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Webber" Category="Last">
-    <Translation>Webber</Translation>
+    <Translation>维伯</Translation>
     <Fields>
       <Male_Travis_Webber_EMPTY.last />
     </Fields>
@@ -15031,7 +15031,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Webley" Category="Last">
-    <Translation>Webley</Translation>
+    <Translation>韦伯利</Translation>
     <Fields>
       <Male_Daniel_Webley_EMPTY.last />
     </Fields>
@@ -15044,7 +15044,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Weems" Category="Last">
-    <Translation>Weems</Translation>
+    <Translation>威姆斯</Translation>
     <Fields>
       <Male_Caleb_Weems_Mortus.last />
     </Fields>
@@ -15058,7 +15058,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Weigel" Category="Last">
-    <Translation>Weigel</Translation>
+    <Translation>韦格尔</Translation>
     <Fields>
       <Male_Thorsten_Weigel_Thodian.last />
     </Fields>
@@ -15104,7 +15104,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Wendel" Category="Last">
-    <Translation>Wendel</Translation>
+    <Translation>文德尔</Translation>
     <Fields>
       <Male_Daniel_Wendel_Oposum.last />
     </Fields>
@@ -15140,13 +15140,13 @@
     </Fields>
   </SubMap>
   <SubMap Name="Western" Category="Last">
-    <Translation>Western</Translation>
+    <Translation>韦斯顿</Translation>
     <Fields>
       <Male_Rory_Western_Cowboy.last />
     </Fields>
   </SubMap>
   <SubMap Name="Westhrin" Category="Last">
-    <Translation>Westhrin</Translation>
+    <Translation>威斯林</Translation>
     <Fields>
       <Male_Marius_Westhrin_Westhrin.last />
     </Fields>
@@ -15164,13 +15164,13 @@
     </Fields>
   </SubMap>
   <SubMap Name="Wheater" Category="Last">
-    <Translation>Wheater</Translation>
+    <Translation>惠特</Translation>
     <Fields>
       <Male_Tom_Wheater_Tomo.last />
     </Fields>
   </SubMap>
   <SubMap Name="Whelan" Category="Last">
-    <Translation>Whelan</Translation>
+    <Translation>惠兰</Translation>
     <Fields>
       <Male_Cameron_Whelan_Jester.last />
     </Fields>
@@ -15201,7 +15201,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Whitehouse" Category="Last">
-    <Translation>Whitehouse</Translation>
+    <Translation>怀特豪斯</Translation>
     <Fields>
       <Male_John_Whitehouse_Trigger.last />
     </Fields>
@@ -15225,7 +15225,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Wicker" Category="Last">
-    <Translation>Wicker</Translation>
+    <Translation>威克</Translation>
     <Fields>
       <Male_Jordan_Wicker_Wally.last />
     </Fields>
@@ -15249,13 +15249,13 @@
     </Fields>
   </SubMap>
   <SubMap Name="Wienholz" Category="Last">
-    <Translation>Wienholz</Translation>
+    <Translation>维恩霍斯</Translation>
     <Fields>
       <Male_Markus_Wienholz_Markus.last />
     </Fields>
   </SubMap>
   <SubMap Name="Wieserman" Category="Last">
-    <Translation>Wieserman</Translation>
+    <Translation>维瑟曼</Translation>
     <Fields>
       <Male_Ian_Wieserman_Wid.last />
     </Fields>
@@ -15293,7 +15293,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Wilhelmsson" Category="Last">
-    <Translation>Wilhelmsson</Translation>
+    <Translation>威廉松</Translation>
     <Fields>
       <Male_Per_Wilhelmsson_Pelle.last />
     </Fields>
@@ -15357,7 +15357,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Wilshire" Category="Last">
-    <Translation>Wilshire</Translation>
+    <Translation>威尔希尔</Translation>
     <Fields>
       <Male_Alexander_Wilshire_Crunchy.last />
     </Fields>
@@ -15392,25 +15392,25 @@
     </Fields>
   </SubMap>
   <SubMap Name="Wimpensen" Category="Last">
-    <Translation>Wimpensen</Translation>
+    <Translation>温朋森</Translation>
     <Fields>
       <Male_Scott_Wimpensen_Wimp.last />
     </Fields>
   </SubMap>
   <SubMap Name="Wingfield" Category="Last">
-    <Translation>Wingfield</Translation>
+    <Translation>温菲尔德</Translation>
     <Fields>
       <Male_Brandon_Wingfield_EMPTY.last />
     </Fields>
   </SubMap>
   <SubMap Name="Winn" Category="Last">
-    <Translation>Winn</Translation>
+    <Translation>温</Translation>
     <Fields>
       <Male_Jackson_Winn_Winn.last />
     </Fields>
   </SubMap>
   <SubMap Name="Winski" Category="Last">
-    <Translation>Winski</Translation>
+    <Translation>温斯基</Translation>
     <Fields>
       <Male_Michael_Winski_Catfish.last />
     </Fields>
@@ -15443,7 +15443,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Wissa" Category="Last">
-    <Translation>Wissa</Translation>
+    <Translation>维萨</Translation>
     <Fields>
       <Male_Sam_Wissa_Nerhesi.last />
     </Fields>
@@ -15479,13 +15479,13 @@
     </Fields>
   </SubMap>
   <SubMap Name="Woernle" Category="Last">
-    <Translation>Woernle</Translation>
+    <Translation>沃恩讷</Translation>
     <Fields>
       <Male_Marc_Woernle_EMPTY.last />
     </Fields>
   </SubMap>
   <SubMap Name="Woitena" Category="Last">
-    <Translation>Woitena</Translation>
+    <Translation>维滕纳</Translation>
     <Fields>
       <Male_Andrew_Woitena_Woitena.last />
     </Fields>
@@ -15506,7 +15506,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Wolff" Category="Last">
-    <Translation>Wolff</Translation>
+    <Translation>沃尔弗</Translation>
     <Fields>
       <Male_Sebastian_Wolff_Basti.last />
     </Fields>
@@ -15543,7 +15543,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Wollstein" Category="Last">
-    <Translation>Wollstein</Translation>
+    <Translation>沃尔斯坦</Translation>
     <Fields>
       <Male_Scott_Wollstein_EMPTY.last />
     </Fields>
@@ -15582,7 +15582,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Woodcock" Category="Last">
-    <Translation>Woodcock</Translation>
+    <Translation>伍德科克</Translation>
     <Fields>
       <Male_Samuel_Woodcock_Sam.last />
     </Fields>
@@ -15594,13 +15594,13 @@
     </Fields>
   </SubMap>
   <SubMap Name="Woodhead" Category="Last">
-    <Translation>Woodhead</Translation>
+    <Translation>伍德黑德</Translation>
     <Fields>
       <Male_Leigh_Woodhead_Woddles.last />
     </Fields>
   </SubMap>
   <SubMap Name="Woodruff" Category="Last">
-    <Translation>Woodruff</Translation>
+    <Translation>伍德拉夫</Translation>
     <Fields>
       <Male_Richard_Woodruff_Trick.last />
     </Fields>
@@ -15613,7 +15613,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Woodthorpe" Category="Last">
-    <Translation>Woodthorpe</Translation>
+    <Translation>伍德索普</Translation>
     <Fields>
       <Male_Tom_Woodthorpe_Woody.last />
     </Fields>
@@ -15625,7 +15625,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Woolums" Category="Last">
-    <Translation>Woolums</Translation>
+    <Translation>伍伦姆斯</Translation>
     <Fields>
       <Male_Benjamin_Woolums_Ben.last />
     </Fields>
@@ -15643,7 +15643,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Woycke" Category="Last">
-    <Translation>Woycke</Translation>
+    <Translation>韦克</Translation>
     <Fields>
       <Male_Michael_Woycke_Mason.last />
     </Fields>
@@ -15655,7 +15655,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Wray" Category="Last">
-    <Translation>Wray</Translation>
+    <Translation>雷</Translation>
     <Fields>
       <Male_David_Wray_Grey.last />
     </Fields>
@@ -15683,7 +15683,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Wyeth" Category="Last">
-    <Translation>Wyeth</Translation>
+    <Translation>韦思</Translation>
     <Fields>
       <Male_Lane_Wyeth_Goose.last />
     </Fields>
@@ -15695,13 +15695,13 @@
     </Fields>
   </SubMap>
   <SubMap Name="Xavier" Category="Last">
-    <Translation>Xavier</Translation>
+    <Translation>泽维尔</Translation>
     <Fields>
       <Male_Colin_Xavier_Alex.last />
     </Fields>
   </SubMap>
   <SubMap Name="Xian" Category="Last">
-    <Translation>Xian</Translation>
+    <Translation>闲</Translation>
     <Fields>
       <Male_Wu_Xian_Amu.last />
     </Fields>
@@ -15771,7 +15771,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Yocum" Category="Last">
-    <Translation>Yocum</Translation>
+    <Translation>约克姆</Translation>
     <Fields>
       <Male_Bryan_Yocum_Yocum.last />
     </Fields>
@@ -15783,7 +15783,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Yotty" Category="Last">
-    <Translation>Yotty</Translation>
+    <Translation>约蒂</Translation>
     <Fields>
       <Male_Jake_Yotty_Yotty.last />
     </Fields>
@@ -15804,7 +15804,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Zach" Category="Last">
-    <Translation>Zach</Translation>
+    <Translation>扎克</Translation>
     <Fields>
       <Male_Aaron_Zach_Parm.last />
     </Fields>
@@ -15816,7 +15816,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Zappigan" Category="Last">
-    <Translation>Zappigan</Translation>
+    <Translation>扎皮甘</Translation>
     <Fields>
       <Male_Brad_Zappigan_EMPTY.last />
     </Fields>
@@ -15866,7 +15866,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Zhuravskiy" Category="Last">
-    <Translation>Zhuravskiy</Translation>
+    <Translation>朱拉夫斯基</Translation>
     <Fields>
       <Male_Vladimir_Zhuravskiy_Zhorik.last />
     </Fields>
@@ -15879,7 +15879,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Zillioner" Category="Last">
-    <Translation>Zillioner</Translation>
+    <Translation>吉林恩讷</Translation>
     <Fields>
       <Male_Charles_Zillioner_Charlzie.last />
     </Fields>
@@ -15903,7 +15903,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Zink" Category="Last">
-    <Translation>Zink</Translation>
+    <Translation>津克</Translation>
     <Fields>
       <Male_Hugo_Zink_Hugh.last />
     </Fields>
@@ -15915,7 +15915,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Zirrus" Category="Last">
-    <Translation>Zirrus</Translation>
+    <Translation>济鲁斯</Translation>
     <Fields>
       <Male_Fred_Zirrus_Red.last />
     </Fields>
@@ -15933,7 +15933,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Zuk" Category="Last">
-    <Translation>Zuk</Translation>
+    <Translation>朱克</Translation>
     <Fields>
       <Male_Alexey_Zuk_Foreman.last />
     </Fields>
