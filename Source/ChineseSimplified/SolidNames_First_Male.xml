@@ -2357,7 +2357,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Hoyul" Category="First" Gender="Male">
-    <Translation>Hoyul</Translation>
+    <Translation>辉耀</Translation>
     <Fields>
       <Male_Hoyul_Lee_Yul.first />
     </Fields>
@@ -2393,7 +2393,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Hyong Ouk" Category="First" Gender="Male">
-    <Translation>Hyong Ouk</Translation>
+    <Translation>宏培</Translation>
     <Fields>
       <Male_HyongOuk_Kim_HO.first />
     </Fields>
@@ -2521,7 +2521,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Jaehun" Category="First" Gender="Male">
-    <Translation>Jaehun</Translation>
+    <Translation>在勋</Translation>
     <Fields>
       <Male_Jaehun_Lee_Dream.first />
     </Fields>
@@ -3292,7 +3292,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Kallahan" Category="First" Gender="Male">
-    <Translation>Kallahan</Translation>
+    <Translation>卡拉翰</Translation>
     <Fields>
       <Male_Kallahan_Jett_Kal.first />
     </Fields>
@@ -3555,7 +3555,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Kyu-bum" Category="First" Gender="Male">
-    <Translation>Kyu-bum</Translation>
+    <Translation>秋邦</Translation>
     <Fields>
       <Male_Kyu-bum_Lee_EMPTY.first />
     </Fields>

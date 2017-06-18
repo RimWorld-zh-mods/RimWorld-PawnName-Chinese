@@ -563,7 +563,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Meowski" Category="First" Gender="Female">
-    <Translation>Meowski</Translation>
+    <Translation>梅尔斯基</Translation>
     <Fields>
       <Female_Meowski_Davidson_Meowski.first />
     </Fields>
