@@ -88,9 +88,9 @@
     <Male_Vargas_Aaron_Esaron.nick>埃萨隆</Male_Vargas_Aaron_Esaron.nick>
   </li>
   <li Gender="Male" first="Tsume" last="Shiro" nick="Tsume">
-    <Male_Tsume_Shiro_Tsume.first>Tsume</Male_Tsume_Shiro_Tsume.first>
-    <Male_Tsume_Shiro_Tsume.last>Shiro</Male_Tsume_Shiro_Tsume.last>
-    <Male_Tsume_Shiro_Tsume.nick>Tsume</Male_Tsume_Shiro_Tsume.nick>
+    <Male_Tsume_Shiro_Tsume.first>爪</Male_Tsume_Shiro_Tsume.first>
+    <Male_Tsume_Shiro_Tsume.last>四郎</Male_Tsume_Shiro_Tsume.last>
+    <Male_Tsume_Shiro_Tsume.nick>爪</Male_Tsume_Shiro_Tsume.nick>
   </li>
   <li Gender="Male" first="Zureal" last="McOdiv" nick="Ox">
     <Male_Zureal_McOdiv_Ox.first>祖里尔</Male_Zureal_McOdiv_Ox.first>
@@ -123,7 +123,7 @@
     <Either_Ian_Hinck_Ian.nick>伊恩</Either_Ian_Hinck_Ian.nick>
   </li>
   <li Gender="Male" first="Helge" last="Holm">
-    <Male_Helge_Holm_EMPTY.first>黑尔格</Male_Helge_Holm_EMPTY.first>
+    <Male_Helge_Holm_EMPTY.first>海尔吉</Male_Helge_Holm_EMPTY.first>
     <Male_Helge_Holm_EMPTY.last>霍尔姆</Male_Helge_Holm_EMPTY.last>
   </li>
   <li Gender="Male" first="Woong Gun" last="Choi" nick="Gun">
@@ -132,9 +132,9 @@
     <Male_WoongGun_Choi_Gun.nick>乾</Male_WoongGun_Choi_Gun.nick>
   </li>
   <li Gender="Male" first="Yuriika" last="Takahashi" nick="Yuri">
-    <Male_Yuriika_Takahashi_Yuri.first>Yuriika</Male_Yuriika_Takahashi_Yuri.first>
-    <Male_Yuriika_Takahashi_Yuri.last>Takahashi</Male_Yuriika_Takahashi_Yuri.last>
-    <Male_Yuriika_Takahashi_Yuri.nick>Yuri</Male_Yuriika_Takahashi_Yuri.nick>
+    <Male_Yuriika_Takahashi_Yuri.first>友理香</Male_Yuriika_Takahashi_Yuri.first>
+    <Male_Yuriika_Takahashi_Yuri.last>高橋</Male_Yuriika_Takahashi_Yuri.last>
+    <Male_Yuriika_Takahashi_Yuri.nick>友理</Male_Yuriika_Takahashi_Yuri.nick>
   </li>
   <li Gender="Male" first="Morten" last="Nyrup" nick="Nyppe">
     <Male_Morten_Nyrup_Nyppe.first>莫滕</Male_Morten_Nyrup_Nyppe.first>
@@ -686,8 +686,8 @@
     <Male_Abel_Savard_Abe.nick>Abe</Male_Abel_Savard_Abe.nick>
   </li>
   <li Gender="Male" first="Tetsuya" last="Iitsuka">
-    <Male_Tetsuya_Iitsuka_EMPTY.first>Tetsuya</Male_Tetsuya_Iitsuka_EMPTY.first>
-    <Male_Tetsuya_Iitsuka_EMPTY.last>Iitsuka</Male_Tetsuya_Iitsuka_EMPTY.last>
+    <Male_Tetsuya_Iitsuka_EMPTY.first>哲也</Male_Tetsuya_Iitsuka_EMPTY.first>
+    <Male_Tetsuya_Iitsuka_EMPTY.last>律</Male_Tetsuya_Iitsuka_EMPTY.last>
   </li>
   <li Gender="Female" first="Kathrin" last="Unger">
     <Female_Kathrin_Unger_EMPTY.first>Kathrin</Female_Kathrin_Unger_EMPTY.first>
