@@ -1,6 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <!-- NOTE: The names disallow duplicates in the same file. Total: 308. -->
+
   <First_Female_0.shuffledNames.0>巴菲</First_Female_0.shuffledNames.0>
   <First_Female_0.shuffledNames.1>佩特拉</First_Female_0.shuffledNames.1>
   <First_Female_0.shuffledNames.2>安德莉亚</First_Female_0.shuffledNames.2>

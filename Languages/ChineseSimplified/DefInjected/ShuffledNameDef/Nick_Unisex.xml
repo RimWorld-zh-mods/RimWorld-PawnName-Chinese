@@ -1,6 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <!-- NOTE: The names disallow duplicates in the same file. Total: 48. -->
+
   <Nick_Unisex_0.shuffledNames.0>跳跳</Nick_Unisex_0.shuffledNames.0>
   <Nick_Unisex_0.shuffledNames.1>幸运星</Nick_Unisex_0.shuffledNames.1>
   <Nick_Unisex_0.shuffledNames.2>窝囊废</Nick_Unisex_0.shuffledNames.2>

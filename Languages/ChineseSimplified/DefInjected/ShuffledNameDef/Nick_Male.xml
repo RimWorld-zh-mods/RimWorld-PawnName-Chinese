@@ -1,6 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <!-- NOTE: The names disallow duplicates in the same file. Total: 24. -->
+
   <Nick_Male_0.shuffledNames.0>阿升</Nick_Male_0.shuffledNames.0>
   <Nick_Male_0.shuffledNames.1>摇摆</Nick_Male_0.shuffledNames.1>
   <Nick_Male_0.shuffledNames.2>老酒</Nick_Male_0.shuffledNames.2>

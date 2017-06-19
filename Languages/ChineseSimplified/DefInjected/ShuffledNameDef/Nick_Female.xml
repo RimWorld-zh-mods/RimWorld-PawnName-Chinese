@@ -1,6 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <!-- NOTE: The names disallow duplicates in the same file. Total: 32. -->
+
   <Nick_Female_0.shuffledNames.0>斑马</Nick_Female_0.shuffledNames.0>
   <Nick_Female_0.shuffledNames.1>蕨菜</Nick_Female_0.shuffledNames.1>
   <Nick_Female_0.shuffledNames.2>美人</Nick_Female_0.shuffledNames.2>
