@@ -5594,7 +5594,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Steve" Category="First" Gender="Male">
-    <Translation>斯特韦</Translation>
+    <Translation>史蒂夫</Translation>
     <Fields>
       <Male_Steve_Harvey_EMPTY.first />
       <Male_Steve_Grainger_Steve.first />
