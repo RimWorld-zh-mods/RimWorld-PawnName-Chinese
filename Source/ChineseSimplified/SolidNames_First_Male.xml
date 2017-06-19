@@ -949,7 +949,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Charles" Category="First" Gender="Male">
-    <Translation>查理</Translation>
+    <Translation>查理斯</Translation>
     <Fields>
       <Male_Charles_Nycand_Mem.first />
       <Male_Charles_Corbett_Chas.first />
