@@ -9008,7 +9008,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="McBride" Category="Last">
-    <Translation>麦克布赖德</Translation>
+    <Translation>麦布赖德</Translation>
     <Fields>
       <Male_Brandon_McBride_EMPTY.last></Male_Brandon_McBride_EMPTY.last>
     </Fields>
@@ -9095,7 +9095,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="McDonald" Category="Last">
-    <Translation>麦克唐纳</Translation>
+    <Translation>麦唐纳</Translation>
     <Fields>
       <Male_Anthony_McDonald_Macca.last></Male_Anthony_McDonald_Macca.last>
       <Male_Sam_McDonald_Samden.last></Male_Sam_McDonald_Samden.last>
@@ -15789,7 +15789,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Young" Category="Last">
-    <Translation>余</Translation>
+    <Translation>扬</Translation>
     <Fields>
       <Female_Emily_Young_Emmie.last></Female_Emily_Young_Emmie.last>
       <Male_Mark_Young_Youngy.last></Male_Mark_Young_Youngy.last>
