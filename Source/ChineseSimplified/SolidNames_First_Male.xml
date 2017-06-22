@@ -2889,7 +2889,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Jiunwei" Category="First" Gender="Male">
-    <Translation>俊文</Translation>
+    <Translation>俊维</Translation>
     <Fields>
       <Male_Jiunwei_Chen_Rooks.first />
     </Fields>
