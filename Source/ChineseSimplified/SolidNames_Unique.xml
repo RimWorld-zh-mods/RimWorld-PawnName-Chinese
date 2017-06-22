@@ -817,7 +817,7 @@
   </li>
   <li Gender="Male" first="Marshal" last="Van Black">
     <Male_Marshal_VanBlack_EMPTY.first>马歇尔</Male_Marshal_VanBlack_EMPTY.first>
-    <Male_Marshal_VanBlack_EMPTY.last>冯 布莱克</Male_Marshal_VanBlack_EMPTY.last>
+    <Male_Marshal_VanBlack_EMPTY.last>冯布莱克</Male_Marshal_VanBlack_EMPTY.last>
   </li>
   <li Gender="Male" first="Klaus" last="Austerlitz" nick="Rulant">
     <Male_Klaus_Austerlitz_Rulant.first>克劳斯</Male_Klaus_Austerlitz_Rulant.first>
@@ -886,7 +886,7 @@
   </li>
   <li Gender="Male" first="Mazeo" last="Ar Korrigan" nick="Arko">
     <Male_Mazeo_ArKorrigan_Arko.first>马吉欧</Male_Mazeo_ArKorrigan_Arko.first>
-    <Male_Mazeo_ArKorrigan_Arko.last>阿尔 卡瑞根</Male_Mazeo_ArKorrigan_Arko.last>
+    <Male_Mazeo_ArKorrigan_Arko.last>阿尔卡瑞根</Male_Mazeo_ArKorrigan_Arko.last>
     <Male_Mazeo_ArKorrigan_Arko.nick>阿克</Male_Mazeo_ArKorrigan_Arko.nick>
   </li>
   <li Gender="Male" first="Heart" last="Koor">
@@ -908,7 +908,7 @@
   </li>
   <li Gender="Male" first="Alaster" last="De Mare" nick="Alaster">
     <Male_Alaster_DeMare_Alaster.first>阿勒斯特</Male_Alaster_DeMare_Alaster.first>
-    <Male_Alaster_DeMare_Alaster.last>德 梅尔</Male_Alaster_DeMare_Alaster.last>
+    <Male_Alaster_DeMare_Alaster.last>德梅尔</Male_Alaster_DeMare_Alaster.last>
     <Male_Alaster_DeMare_Alaster.nick>阿勒斯特</Male_Alaster_DeMare_Alaster.nick>
   </li>
   <li Gender="Male" first="Trafford" last="Silvery" nick="Floater">
@@ -945,7 +945,7 @@
   </li>
   <li Gender="Male" first="Resok" last="D'Moren">
     <Male_Resok_DMoren_EMPTY.first>瑞萨</Male_Resok_DMoren_EMPTY.first>
-    <Male_Resok_DMoren_EMPTY.last>德 莫伦</Male_Resok_DMoren_EMPTY.last>
+    <Male_Resok_DMoren_EMPTY.last>德莫伦</Male_Resok_DMoren_EMPTY.last>
   </li>
   <li Gender="Male" first="Zeno" last="Truax">
     <Male_Zeno_Truax_EMPTY.first>泽诺</Male_Zeno_Truax_EMPTY.first>
@@ -975,7 +975,7 @@
   </li>
   <li Gender="Male" first="Chadwick" last="O'Hagan">
     <Male_Chadwick_OHagan_EMPTY.first>查德威克</Male_Chadwick_OHagan_EMPTY.first>
-    <Male_Chadwick_OHagan_EMPTY.last>范 海根</Male_Chadwick_OHagan_EMPTY.last>
+    <Male_Chadwick_OHagan_EMPTY.last>奥海根</Male_Chadwick_OHagan_EMPTY.last>
   </li>
   <li Gender="Male" first="Pétur" last="Johannes" nick="PJ">
     <Male_Pétur_Johannes_PJ.first>佩罗</Male_Pétur_Johannes_PJ.first>
@@ -1113,7 +1113,7 @@
   </li>
   <li Gender="Male" first="Aric" last="van Selous">
     <Male_Aric_vanSelous_EMPTY.first>阿瑞克</Male_Aric_vanSelous_EMPTY.first>
-    <Male_Aric_vanSelous_EMPTY.last>冯 塞卢斯</Male_Aric_vanSelous_EMPTY.last>
+    <Male_Aric_vanSelous_EMPTY.last>冯塞卢斯</Male_Aric_vanSelous_EMPTY.last>
   </li>
   <li Gender="Male" first="Ulysses" last="Gonzalez" nick="Uly">
     <Male_Ulysses_Gonzalez_Uly.first>尤利西斯</Male_Ulysses_Gonzalez_Uly.first>
@@ -1150,7 +1150,7 @@
   </li>
   <li Gender="Male" first="Sprocket" last="Von Napier" nick="Sprox">
     <Male_Sprocket_VonNapier_Sprox.first>斯波特克</Male_Sprocket_VonNapier_Sprox.first>
-    <Male_Sprocket_VonNapier_Sprox.last>冯 纳皮尔</Male_Sprocket_VonNapier_Sprox.last>
+    <Male_Sprocket_VonNapier_Sprox.last>冯纳皮尔</Male_Sprocket_VonNapier_Sprox.last>
     <Male_Sprocket_VonNapier_Sprox.nick>斯波克斯</Male_Sprocket_VonNapier_Sprox.nick>
   </li>
   <li Gender="Male" first="Mateusz" last="Piak" nick="Myzder">
@@ -1238,8 +1238,8 @@
     <Male_Arkfreith_Metcalfe_Arkyll.nick>阿西尔</Male_Arkfreith_Metcalfe_Arkyll.nick>
   </li>
   <li Gender="Male" first="Wan Zulfikri" last="Wan Yusoff" nick="Wan">
-    <Male_WanZulfikri_WanYusoff_Wan.first>冯 菲克力</Male_WanZulfikri_WanYusoff_Wan.first>
-    <Male_WanZulfikri_WanYusoff_Wan.last>冯 优素福</Male_WanZulfikri_WanYusoff_Wan.last>
+    <Male_WanZulfikri_WanYusoff_Wan.first>冯菲克力</Male_WanZulfikri_WanYusoff_Wan.first>
+    <Male_WanZulfikri_WanYusoff_Wan.last>冯优素福</Male_WanZulfikri_WanYusoff_Wan.last>
     <Male_WanZulfikri_WanYusoff_Wan.nick>冯</Male_WanZulfikri_WanYusoff_Wan.nick>
   </li>
   <li Gender="Male" first="Nahku" last="Kerman">
@@ -1299,7 +1299,7 @@
   </li>
   <li Gender="Either" first="Agerra" last="T'rel">
     <Either_Agerra_Trel_EMPTY.first>阿格瑞亚</Either_Agerra_Trel_EMPTY.first>
-    <Either_Agerra_Trel_EMPTY.last>T'瑞尔</Either_Agerra_Trel_EMPTY.last>
+    <Either_Agerra_Trel_EMPTY.last>特瑞尔</Either_Agerra_Trel_EMPTY.last>
   </li>
   <li Gender="Male" first="Eriks" last="Mickevics" nick="Erik">
     <Male_Eriks_Mickevics_Erik.first>艾瑞克</Male_Eriks_Mickevics_Erik.first>
@@ -1521,7 +1521,7 @@
   </li>
   <li Gender="Male" first="Egbert" last="de Boer" nick="Bertus">
     <Male_Egbert_deBoer_Bertus.first>埃格伯特</Male_Egbert_deBoer_Bertus.first>
-    <Male_Egbert_deBoer_Bertus.last>德 波尔</Male_Egbert_deBoer_Bertus.last>
+    <Male_Egbert_deBoer_Bertus.last>德波尔</Male_Egbert_deBoer_Bertus.last>
     <Male_Egbert_deBoer_Bertus.nick>拜尔图什</Male_Egbert_deBoer_Bertus.nick>
   </li>
   <li Gender="Female" first="Alys" last="Pavais" nick="Chalys">
@@ -1571,7 +1571,7 @@
   </li>
   <li Gender="Male" first="Horstmann" last="von Wutzing" nick="Hinkel">
     <Male_Horstmann_vonWutzing_Hinkel.first>霍斯特曼</Male_Horstmann_vonWutzing_Hinkel.first>
-    <Male_Horstmann_vonWutzing_Hinkel.last>冯 武青</Male_Horstmann_vonWutzing_Hinkel.last>
+    <Male_Horstmann_vonWutzing_Hinkel.last>冯武青</Male_Horstmann_vonWutzing_Hinkel.last>
     <Male_Horstmann_vonWutzing_Hinkel.nick>欣克尔</Male_Horstmann_vonWutzing_Hinkel.nick>
   </li>
   <li Gender="Either" first="Rush" last="Toy">
@@ -1807,7 +1807,7 @@
   </li>
   <li Gender="Male" first="Ahmed" last="El Gendy">
     <Male_Ahmed_ElGendy_EMPTY.first>艾哈迈德</Male_Ahmed_ElGendy_EMPTY.first>
-    <Male_Ahmed_ElGendy_EMPTY.last>艾尔 珍迪</Male_Ahmed_ElGendy_EMPTY.last>
+    <Male_Ahmed_ElGendy_EMPTY.last>艾尔珍迪</Male_Ahmed_ElGendy_EMPTY.last>
   </li>
   <li Gender="Male" first="Jozsef" last="Seres" nick="Remete">
     <Male_Jozsef_Seres_Remete.first>若策夫</Male_Jozsef_Seres_Remete.first>
@@ -1968,7 +1968,7 @@
   </li>
   <li Gender="Female" first="Tewi" last="Von Doom">
     <Female_Tewi_VonDoom_EMPTY.first>忒薇</Female_Tewi_VonDoom_EMPTY.first>
-    <Female_Tewi_VonDoom_EMPTY.last>冯 杜姆</Female_Tewi_VonDoom_EMPTY.last>
+    <Female_Tewi_VonDoom_EMPTY.last>冯杜姆</Female_Tewi_VonDoom_EMPTY.last>
   </li>
   <li Gender="Male" first="Tyco" last="Loco">
     <Male_Tyco_Loco_EMPTY.first>泰科</Male_Tyco_Loco_EMPTY.first>
@@ -2019,7 +2019,7 @@
   <li Gender="Male" first="Jani" last="Martikainen" nick="Jii">
     <Male_Jani_Martikainen_Jii.first>贾尼</Male_Jani_Martikainen_Jii.first>
     <Male_Jani_Martikainen_Jii.last>马蒂凯宁</Male_Jani_Martikainen_Jii.last>
-    <Male_Jani_Martikainen_Jii.nick>Jii</Male_Jani_Martikainen_Jii.nick>
+    <Male_Jani_Martikainen_Jii.nick>集</Male_Jani_Martikainen_Jii.nick>
   </li>
   <li Gender="Male" first="Dimitri" last="Rastovskia" nick="Dima">
     <Male_Dimitri_Rastovskia_Dima.first>季米特里</Male_Dimitri_Rastovskia_Dima.first>
@@ -2057,7 +2057,7 @@
   <li Gender="Male" first="Ekybob" last="Sirron" nick="Ek">
     <Male_Ekybob_Sirron_Ek.first>埃基鲍勃</Male_Ekybob_Sirron_Ek.first>
     <Male_Ekybob_Sirron_Ek.last>希隆</Male_Ekybob_Sirron_Ek.last>
-    <Male_Ekybob_Sirron_Ek.nick>Ek</Male_Ekybob_Sirron_Ek.nick>
+    <Male_Ekybob_Sirron_Ek.nick>埃克</Male_Ekybob_Sirron_Ek.nick>
   </li>
   <li Gender="Male" first="Jorge" last="Paredes" nick="JP">
     <Male_Jorge_Paredes_JP.first>豪尔赫</Male_Jorge_Paredes_JP.first>
@@ -2762,11 +2762,11 @@
   <li Gender="Female" first="Fujiko" last="Himeoka" nick="Foozie">
     <Female_Fujiko_Himeoka_Foozie.first>藤子</Female_Fujiko_Himeoka_Foozie.first>
     <Female_Fujiko_Himeoka_Foozie.last>氷見岡</Female_Fujiko_Himeoka_Foozie.last>
-    <Female_Fujiko_Himeoka_Foozie.nick>FOO子</Female_Fujiko_Himeoka_Foozie.nick>
+    <Female_Fujiko_Himeoka_Foozie.nick>芙子</Female_Fujiko_Himeoka_Foozie.nick>
   </li>
   <li Gender="Female" first="Mariana" last="C da Silva" nick="Miana">
     <Female_Mariana_CdaSilva_Miana.first>玛丽安娜</Female_Mariana_CdaSilva_Miana.first>
-    <Female_Mariana_CdaSilva_Miana.last>C.达.希瓦</Female_Mariana_CdaSilva_Miana.last>
+    <Female_Mariana_CdaSilva_Miana.last>达希瓦</Female_Mariana_CdaSilva_Miana.last>
     <Female_Mariana_CdaSilva_Miana.nick>米亚纳</Female_Mariana_CdaSilva_Miana.nick>
   </li>
   <li Gender="Male" first="Andreu" last="Breton" nick="Goat">
@@ -2847,7 +2847,7 @@
   </li>
   <li Gender="Male" first="Einachten" last="van Hase" nick="Eina">
     <Male_Einachten_vanHase_Eina.first>尹纳齐藤</Male_Einachten_vanHase_Eina.first>
-    <Male_Einachten_vanHase_Eina.last>范 哈泽</Male_Einachten_vanHase_Eina.last>
+    <Male_Einachten_vanHase_Eina.last>范哈泽</Male_Einachten_vanHase_Eina.last>
     <Male_Einachten_vanHase_Eina.nick>尹纳</Male_Einachten_vanHase_Eina.nick>
   </li>
   <li Gender="Male" first="Wilson" last="Chu" nick="Lortex">
@@ -2925,7 +2925,7 @@
   <li Gender="Male" first="Sigurd" last="Klastrup" nick="Sig Sig">
     <Male_Sigurd_Klastrup_SigSig.first>西格德</Male_Sigurd_Klastrup_SigSig.first>
     <Male_Sigurd_Klastrup_SigSig.last>克拉斯特拉普</Male_Sigurd_Klastrup_SigSig.last>
-    <Male_Sigurd_Klastrup_SigSig.nick>西格 西格</Male_Sigurd_Klastrup_SigSig.nick>
+    <Male_Sigurd_Klastrup_SigSig.nick>西西</Male_Sigurd_Klastrup_SigSig.nick>
   </li>
   <li Gender="Either" first="Ash" last="Temples" nick="Bramble">
     <Either_Ash_Temples_Bramble.first>阿什</Either_Ash_Temples_Bramble.first>
@@ -3027,7 +3027,7 @@
   </li>
   <li Gender="Male" first="WillIam" last="De Sota" nick="Bozz">
     <Male_WillIam_DeSota_Bozz.first>威廉姆</Male_WillIam_DeSota_Bozz.first>
-    <Male_WillIam_DeSota_Bozz.last>德 索塔</Male_WillIam_DeSota_Bozz.last>
+    <Male_WillIam_DeSota_Bozz.last>德索塔</Male_WillIam_DeSota_Bozz.last>
     <Male_WillIam_DeSota_Bozz.nick>嗡嗡</Male_WillIam_DeSota_Bozz.nick>
   </li>
   <li Gender="Male" first="Cletus" last="Romansky" nick="Guignol">
@@ -3150,7 +3150,7 @@
   </li>
   <li Gender="Male" first="Elrithil" last="El Nadir" nick="Elri">
     <Male_Elrithil_ElNadir_Elri.first>艾尔里希尔</Male_Elrithil_ElNadir_Elri.first>
-    <Male_Elrithil_ElNadir_Elri.last>艾尔 纳迪尔</Male_Elrithil_ElNadir_Elri.last>
+    <Male_Elrithil_ElNadir_Elri.last>艾尔纳迪尔</Male_Elrithil_ElNadir_Elri.last>
     <Male_Elrithil_ElNadir_Elri.nick>艾尔里</Male_Elrithil_ElNadir_Elri.nick>
   </li>
   <li Gender="Male" first="Bertt" last="Wycheck">
@@ -3197,7 +3197,7 @@
   </li>
   <li Gender="Male" first="Ezequiel" last="De Arriba" nick="Zeze">
     <Male_Ezequiel_DeArriba_Zeze.first>埃斯奎雷尔</Male_Ezequiel_DeArriba_Zeze.first>
-    <Male_Ezequiel_DeArriba_Zeze.last>德 阿里巴</Male_Ezequiel_DeArriba_Zeze.last>
+    <Male_Ezequiel_DeArriba_Zeze.last>德阿里巴</Male_Ezequiel_DeArriba_Zeze.last>
     <Male_Ezequiel_DeArriba_Zeze.nick>泽泽</Male_Ezequiel_DeArriba_Zeze.nick>
   </li>
   <li Gender="Male" first="Ola" last="Oakbranch" nick="Oak">
@@ -3236,7 +3236,7 @@
   </li>
   <li Gender="Male" first="Svennson" last="Van Webingen" nick="Webster">
     <Male_Svennson_VanWebingen_Webster.first>斯文森</Male_Svennson_VanWebingen_Webster.first>
-    <Male_Svennson_VanWebingen_Webster.last>范 维宾根</Male_Svennson_VanWebingen_Webster.last>
+    <Male_Svennson_VanWebingen_Webster.last>范维宾根</Male_Svennson_VanWebingen_Webster.last>
     <Male_Svennson_VanWebingen_Webster.nick>韦伯斯特</Male_Svennson_VanWebingen_Webster.nick>
   </li>
   <li Gender="Male" first="Dorian" last="Thériez" nick="Dode">
@@ -3363,7 +3363,7 @@
   </li>
   <li Gender="Male" first="Rolf" last="Caesar Torp">
     <Male_Rolf_CaesarTorp_EMPTY.first>罗尔夫</Male_Rolf_CaesarTorp_EMPTY.first>
-    <Male_Rolf_CaesarTorp_EMPTY.last>凯撒 拓尔普</Male_Rolf_CaesarTorp_EMPTY.last>
+    <Male_Rolf_CaesarTorp_EMPTY.last>凯撒-拓尔普</Male_Rolf_CaesarTorp_EMPTY.last>
   </li>
   <li Gender="Male" first="Lachlan" last="Kearns">
     <Male_Lachlan_Kearns_EMPTY.first>拉克伦</Male_Lachlan_Kearns_EMPTY.first>
@@ -3397,7 +3397,7 @@
   </li>
   <li Gender="Male" first="Burt" last="du Preez">
     <Male_Burt_duPreez_EMPTY.first>伯特</Male_Burt_duPreez_EMPTY.first>
-    <Male_Burt_duPreez_EMPTY.last>杜 普里兹</Male_Burt_duPreez_EMPTY.last>
+    <Male_Burt_duPreez_EMPTY.last>杜普里兹</Male_Burt_duPreez_EMPTY.last>
   </li>
   <li Gender="Male" first="Mauro" last="Amado">
     <Male_Mauro_Amado_EMPTY.first>莫罗</Male_Mauro_Amado_EMPTY.first>
@@ -3470,7 +3470,7 @@
   </li>
   <li Gender="Male" first="Hugues" last="de Vuyst" nick="UG">
     <Male_Hugues_deVuyst_UG.first>乌格斯</Male_Hugues_deVuyst_UG.first>
-    <Male_Hugues_deVuyst_UG.last>德 乌斯特</Male_Hugues_deVuyst_UG.last>
+    <Male_Hugues_deVuyst_UG.last>德乌斯特</Male_Hugues_deVuyst_UG.last>
     <Male_Hugues_deVuyst_UG.nick>UG</Male_Hugues_deVuyst_UG.nick>
   </li>
   <li Gender="Male" first="Santiago" last="Alonso" nick="Victor">

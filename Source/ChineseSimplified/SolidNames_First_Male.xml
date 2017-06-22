@@ -3224,7 +3224,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Julian Eric" Category="First" Gender="Male">
-    <Translation>朱利安 埃里克</Translation>
+    <Translation>朱利安-埃里克</Translation>
     <Fields>
       <Male_JulianEric_White_Jules.first></Male_JulianEric_White_Jules.first>
     </Fields>
@@ -5911,7 +5911,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Toni" Category="First" Gender="Male">
-    <Translation>托尼;托妮(女名)</Translation>
+    <Translation>托尼</Translation>
     <Fields>
       <Male_Toni_Karppinen_Toni.first></Male_Toni_Karppinen_Toni.first>
       <Male_Toni_Kurt_EMPTY.first></Male_Toni_Kurt_EMPTY.first>
