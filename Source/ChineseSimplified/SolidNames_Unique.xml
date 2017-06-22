@@ -4516,8 +4516,8 @@
     <Female_April_Jauhal_EMPTY.last>乔哈尔</Female_April_Jauhal_EMPTY.last>
   </li>
   <li Gender="Female" first="Rika" last="Voort">
-    <Female_Rika_Voort_EMPTY.first>Rika</Female_Rika_Voort_EMPTY.first>
-    <Female_Rika_Voort_EMPTY.last>Voort</Female_Rika_Voort_EMPTY.last>
+    <Female_Rika_Voort_EMPTY.first>丽卡</Female_Rika_Voort_EMPTY.first>
+    <Female_Rika_Voort_EMPTY.last>福尔特</Female_Rika_Voort_EMPTY.last>
   </li>
   <li Gender="Either" first="Waykes" last="Wolfier" nick="Wolf">
     <Either_Waykes_Wolfier_Wolf.first>维科斯</Either_Waykes_Wolfier_Wolf.first>
@@ -4651,9 +4651,9 @@
     <Male_Velius_Ayalp_Veli.nick>韦利</Male_Velius_Ayalp_Veli.nick>
   </li>
   <li Gender="Either" first="Rvlakia" last="Kavair" nick="Kia">
-    <Either_Rvlakia_Kavair_Kia.first>Rvlakia</Either_Rvlakia_Kavair_Kia.first>
-    <Either_Rvlakia_Kavair_Kia.last>Kavair</Either_Rvlakia_Kavair_Kia.last>
-    <Either_Rvlakia_Kavair_Kia.nick>Kia</Either_Rvlakia_Kavair_Kia.nick>
+    <Either_Rvlakia_Kavair_Kia.first>吕拉齐亚</Either_Rvlakia_Kavair_Kia.first>
+    <Either_Rvlakia_Kavair_Kia.last>卡维尔</Either_Rvlakia_Kavair_Kia.last>
+    <Either_Rvlakia_Kavair_Kia.nick>齐亚</Either_Rvlakia_Kavair_Kia.nick>
   </li>
   <li Gender="Female" first="Delilah" last="O'riordan">
     <Female_Delilah_Oriordan_EMPTY.first>德莉拉</Female_Delilah_Oriordan_EMPTY.first>
@@ -4670,1610 +4670,1610 @@
     <Female_Yuu_Ito_Hakuja.nick>白雀</Female_Yuu_Ito_Hakuja.nick>
   </li>
   <li Gender="Male" first="Columbus" last="Henzelstein" nick="Danger">
-    <Male_Columbus_Henzelstein_Danger.first>Columbus</Male_Columbus_Henzelstein_Danger.first>
-    <Male_Columbus_Henzelstein_Danger.last>Henzelstein</Male_Columbus_Henzelstein_Danger.last>
-    <Male_Columbus_Henzelstein_Danger.nick>Danger</Male_Columbus_Henzelstein_Danger.nick>
+    <Male_Columbus_Henzelstein_Danger.first>哥伦布</Male_Columbus_Henzelstein_Danger.first>
+    <Male_Columbus_Henzelstein_Danger.last>亨泽施泰因</Male_Columbus_Henzelstein_Danger.last>
+    <Male_Columbus_Henzelstein_Danger.nick>威胁</Male_Columbus_Henzelstein_Danger.nick>
   </li>
   <li Gender="Either" first="Andrew" last="Klobucher" nick="Klob">
-    <Either_Andrew_Klobucher_Klob.first>Andrew</Either_Andrew_Klobucher_Klob.first>
-    <Either_Andrew_Klobucher_Klob.last>Klobucher</Either_Andrew_Klobucher_Klob.last>
-    <Either_Andrew_Klobucher_Klob.nick>Klob</Either_Andrew_Klobucher_Klob.nick>
+    <Either_Andrew_Klobucher_Klob.first>安德鲁</Either_Andrew_Klobucher_Klob.first>
+    <Either_Andrew_Klobucher_Klob.last>克洛布赫</Either_Andrew_Klobucher_Klob.last>
+    <Either_Andrew_Klobucher_Klob.nick>克洛布</Either_Andrew_Klobucher_Klob.nick>
   </li>
   <li Gender="Male" first="Josiah" last="Landgraf" nick="Landgraf">
-    <Male_Josiah_Landgraf_Landgraf.first>Josiah</Male_Josiah_Landgraf_Landgraf.first>
-    <Male_Josiah_Landgraf_Landgraf.last>Landgraf</Male_Josiah_Landgraf_Landgraf.last>
-    <Male_Josiah_Landgraf_Landgraf.nick>Landgraf</Male_Josiah_Landgraf_Landgraf.nick>
+    <Male_Josiah_Landgraf_Landgraf.first>乔赛亚</Male_Josiah_Landgraf_Landgraf.first>
+    <Male_Josiah_Landgraf_Landgraf.last>兰德格拉夫</Male_Josiah_Landgraf_Landgraf.last>
+    <Male_Josiah_Landgraf_Landgraf.nick>兰德格拉夫</Male_Josiah_Landgraf_Landgraf.nick>
   </li>
   <li Gender="Male" first="Bizmack" last="Biyombo" nick="Biz">
-    <Male_Bizmack_Biyombo_Biz.first>Bizmack</Male_Bizmack_Biyombo_Biz.first>
-    <Male_Bizmack_Biyombo_Biz.last>Biyombo</Male_Bizmack_Biyombo_Biz.last>
-    <Male_Bizmack_Biyombo_Biz.nick>Biz</Male_Bizmack_Biyombo_Biz.nick>
+    <Male_Bizmack_Biyombo_Biz.first>俾兹麦</Male_Bizmack_Biyombo_Biz.first>
+    <Male_Bizmack_Biyombo_Biz.last>毕永博</Male_Bizmack_Biyombo_Biz.last>
+    <Male_Bizmack_Biyombo_Biz.nick>俾兹</Male_Bizmack_Biyombo_Biz.nick>
   </li>
   <li Gender="Male" first="Bryson" last="Ezell">
-    <Male_Bryson_Ezell_EMPTY.first>Bryson</Male_Bryson_Ezell_EMPTY.first>
-    <Male_Bryson_Ezell_EMPTY.last>Ezell</Male_Bryson_Ezell_EMPTY.last>
+    <Male_Bryson_Ezell_EMPTY.first>布赖森</Male_Bryson_Ezell_EMPTY.first>
+    <Male_Bryson_Ezell_EMPTY.last>埃泽尔</Male_Bryson_Ezell_EMPTY.last>
   </li>
   <li Gender="Male" first="Seylor" last="Hamaker" nick="Hammer">
-    <Male_Seylor_Hamaker_Hammer.first>Seylor</Male_Seylor_Hamaker_Hammer.first>
-    <Male_Seylor_Hamaker_Hammer.last>Hamaker</Male_Seylor_Hamaker_Hammer.last>
-    <Male_Seylor_Hamaker_Hammer.nick>Hammer</Male_Seylor_Hamaker_Hammer.nick>
+    <Male_Seylor_Hamaker_Hammer.first>赛勒</Male_Seylor_Hamaker_Hammer.first>
+    <Male_Seylor_Hamaker_Hammer.last>哈梅克</Male_Seylor_Hamaker_Hammer.last>
+    <Male_Seylor_Hamaker_Hammer.nick>锤子</Male_Seylor_Hamaker_Hammer.nick>
   </li>
   <li Gender="Male" first="Ang" last="Gao" nick="Codex">
-    <Male_Ang_Gao_Codex.first>Ang</Male_Ang_Gao_Codex.first>
-    <Male_Ang_Gao_Codex.last>Gao</Male_Ang_Gao_Codex.last>
-    <Male_Ang_Gao_Codex.nick>Codex</Male_Ang_Gao_Codex.nick>
+    <Male_Ang_Gao_Codex.first>昂</Male_Ang_Gao_Codex.first>
+    <Male_Ang_Gao_Codex.last>高</Male_Ang_Gao_Codex.last>
+    <Male_Ang_Gao_Codex.nick>法典</Male_Ang_Gao_Codex.nick>
   </li>
   <li Gender="Male" first="Sadoon" last="Al-Obaidi" nick="Doon">
-    <Male_Sadoon_Al-Obaidi_Doon.first>Sadoon</Male_Sadoon_Al-Obaidi_Doon.first>
-    <Male_Sadoon_Al-Obaidi_Doon.last>Al-Obaidi</Male_Sadoon_Al-Obaidi_Doon.last>
-    <Male_Sadoon_Al-Obaidi_Doon.nick>Doon</Male_Sadoon_Al-Obaidi_Doon.nick>
+    <Male_Sadoon_Al-Obaidi_Doon.first>萨东</Male_Sadoon_Al-Obaidi_Doon.first>
+    <Male_Sadoon_Al-Obaidi_Doon.last>艾奥贝迪</Male_Sadoon_Al-Obaidi_Doon.last>
+    <Male_Sadoon_Al-Obaidi_Doon.nick>东</Male_Sadoon_Al-Obaidi_Doon.nick>
   </li>
   <li Gender="Female" first="Saylin" last="Rice">
-    <Female_Saylin_Rice_EMPTY.first>Saylin</Female_Saylin_Rice_EMPTY.first>
-    <Female_Saylin_Rice_EMPTY.last>Rice</Female_Saylin_Rice_EMPTY.last>
+    <Female_Saylin_Rice_EMPTY.first>赛琳</Female_Saylin_Rice_EMPTY.first>
+    <Female_Saylin_Rice_EMPTY.last>赖斯</Female_Saylin_Rice_EMPTY.last>
   </li>
   <li Gender="Male" first="Roan" last="Bubbagoh">
-    <Male_Roan_Bubbagoh_EMPTY.first>Roan</Male_Roan_Bubbagoh_EMPTY.first>
-    <Male_Roan_Bubbagoh_EMPTY.last>Bubbagoh</Male_Roan_Bubbagoh_EMPTY.last>
+    <Male_Roan_Bubbagoh_EMPTY.first>罗安</Male_Roan_Bubbagoh_EMPTY.first>
+    <Male_Roan_Bubbagoh_EMPTY.last>巴布格欧</Male_Roan_Bubbagoh_EMPTY.last>
   </li>
   <li Gender="Either" first="Joshua" last="Marjot" nick="Marjot">
-    <Either_Joshua_Marjot_Marjot.first>Joshua</Either_Joshua_Marjot_Marjot.first>
-    <Either_Joshua_Marjot_Marjot.last>Marjot</Either_Joshua_Marjot_Marjot.last>
-    <Either_Joshua_Marjot_Marjot.nick>Marjot</Either_Joshua_Marjot_Marjot.nick>
+    <Either_Joshua_Marjot_Marjot.first>约书亚</Either_Joshua_Marjot_Marjot.first>
+    <Either_Joshua_Marjot_Marjot.last>马里奥特</Either_Joshua_Marjot_Marjot.last>
+    <Either_Joshua_Marjot_Marjot.nick>马里奥特</Either_Joshua_Marjot_Marjot.nick>
   </li>
   <li Gender="Male" first="Jori" last="Kemppi">
-    <Male_Jori_Kemppi_EMPTY.first>Jori</Male_Jori_Kemppi_EMPTY.first>
-    <Male_Jori_Kemppi_EMPTY.last>Kemppi</Male_Jori_Kemppi_EMPTY.last>
+    <Male_Jori_Kemppi_EMPTY.first>约里</Male_Jori_Kemppi_EMPTY.first>
+    <Male_Jori_Kemppi_EMPTY.last>肯皮</Male_Jori_Kemppi_EMPTY.last>
   </li>
   <li Gender="Male" first="Barnaby" last="Malaj">
-    <Male_Barnaby_Malaj_EMPTY.first>Barnaby</Male_Barnaby_Malaj_EMPTY.first>
-    <Male_Barnaby_Malaj_EMPTY.last>Malaj</Male_Barnaby_Malaj_EMPTY.last>
+    <Male_Barnaby_Malaj_EMPTY.first>巴纳比</Male_Barnaby_Malaj_EMPTY.first>
+    <Male_Barnaby_Malaj_EMPTY.last>马拉</Male_Barnaby_Malaj_EMPTY.last>
   </li>
   <li Gender="Male" first="Nikau" last="Wineera">
-    <Male_Nikau_Wineera_EMPTY.first>Nikau</Male_Nikau_Wineera_EMPTY.first>
-    <Male_Nikau_Wineera_EMPTY.last>Wineera</Male_Nikau_Wineera_EMPTY.last>
+    <Male_Nikau_Wineera_EMPTY.first>尼考</Male_Nikau_Wineera_EMPTY.first>
+    <Male_Nikau_Wineera_EMPTY.last>瓦内加</Male_Nikau_Wineera_EMPTY.last>
   </li>
   <li Gender="Male" first="Takaaki" last="Sugiura">
-    <Male_Takaaki_Sugiura_EMPTY.first>Takaaki</Male_Takaaki_Sugiura_EMPTY.first>
-    <Male_Takaaki_Sugiura_EMPTY.last>Sugiura</Male_Takaaki_Sugiura_EMPTY.last>
+    <Male_Takaaki_Sugiura_EMPTY.first>博明</Male_Takaaki_Sugiura_EMPTY.first>
+    <Male_Takaaki_Sugiura_EMPTY.last>杉田</Male_Takaaki_Sugiura_EMPTY.last>
   </li>
   <li Gender="Male" first="Lardon" last="Benedict" nick="Lardon">
-    <Male_Lardon_Benedict_Lardon.first>Lardon</Male_Lardon_Benedict_Lardon.first>
-    <Male_Lardon_Benedict_Lardon.last>Benedict</Male_Lardon_Benedict_Lardon.last>
-    <Male_Lardon_Benedict_Lardon.nick>Lardon</Male_Lardon_Benedict_Lardon.nick>
+    <Male_Lardon_Benedict_Lardon.first>拉东</Male_Lardon_Benedict_Lardon.first>
+    <Male_Lardon_Benedict_Lardon.last>本尼迪克特</Male_Lardon_Benedict_Lardon.last>
+    <Male_Lardon_Benedict_Lardon.nick>拉东</Male_Lardon_Benedict_Lardon.nick>
   </li>
   <li Gender="Male" first="Cédric" last="Glauser" nick="Cedi">
-    <Male_Cédric_Glauser_Cedi.first>Cédric</Male_Cédric_Glauser_Cedi.first>
-    <Male_Cédric_Glauser_Cedi.last>Glauser</Male_Cédric_Glauser_Cedi.last>
-    <Male_Cédric_Glauser_Cedi.nick>Cedi</Male_Cédric_Glauser_Cedi.nick>
+    <Male_Cédric_Glauser_Cedi.first>塞德里克</Male_Cédric_Glauser_Cedi.first>
+    <Male_Cédric_Glauser_Cedi.last>格洛塞</Male_Cédric_Glauser_Cedi.last>
+    <Male_Cédric_Glauser_Cedi.nick>塞迪</Male_Cédric_Glauser_Cedi.nick>
   </li>
   <li Gender="Female" first="Sarai" last="Tang" nick="Sarai">
-    <Female_Sarai_Tang_Sarai.first>Sarai</Female_Sarai_Tang_Sarai.first>
-    <Female_Sarai_Tang_Sarai.last>Tang</Female_Sarai_Tang_Sarai.last>
-    <Female_Sarai_Tang_Sarai.nick>Sarai</Female_Sarai_Tang_Sarai.nick>
+    <Female_Sarai_Tang_Sarai.first>萨莱</Female_Sarai_Tang_Sarai.first>
+    <Female_Sarai_Tang_Sarai.last>唐</Female_Sarai_Tang_Sarai.last>
+    <Female_Sarai_Tang_Sarai.nick>萨莱</Female_Sarai_Tang_Sarai.nick>
   </li>
   <li Gender="Male" first="Alastor" last="Slain">
-    <Male_Alastor_Slain_EMPTY.first>Alastor</Male_Alastor_Slain_EMPTY.first>
-    <Male_Alastor_Slain_EMPTY.last>Slain</Male_Alastor_Slain_EMPTY.last>
+    <Male_Alastor_Slain_EMPTY.first>阿拉斯托</Male_Alastor_Slain_EMPTY.first>
+    <Male_Alastor_Slain_EMPTY.last>斯莱恩</Male_Alastor_Slain_EMPTY.last>
   </li>
   <li Gender="Female" first="Satsuki" last="Kiryuin">
-    <Female_Satsuki_Kiryuin_EMPTY.first>Satsuki</Female_Satsuki_Kiryuin_EMPTY.first>
-    <Female_Satsuki_Kiryuin_EMPTY.last>Kiryuin</Female_Satsuki_Kiryuin_EMPTY.last>
+    <Female_Satsuki_Kiryuin_EMPTY.first>皐月</Female_Satsuki_Kiryuin_EMPTY.first>
+    <Female_Satsuki_Kiryuin_EMPTY.last>鬼龍院</Female_Satsuki_Kiryuin_EMPTY.last>
   </li>
   <li Gender="Either" first="Sarah" last="Randlett" nick="Paisley">
-    <Either_Sarah_Randlett_Paisley.first>Sarah</Either_Sarah_Randlett_Paisley.first>
-    <Either_Sarah_Randlett_Paisley.last>Randlett</Either_Sarah_Randlett_Paisley.last>
-    <Either_Sarah_Randlett_Paisley.nick>Paisley</Either_Sarah_Randlett_Paisley.nick>
+    <Either_Sarah_Randlett_Paisley.first>萨拉</Either_Sarah_Randlett_Paisley.first>
+    <Either_Sarah_Randlett_Paisley.last>兰德利特</Either_Sarah_Randlett_Paisley.last>
+    <Either_Sarah_Randlett_Paisley.nick>佩斯利</Either_Sarah_Randlett_Paisley.nick>
   </li>
   <li Gender="Male" first="Jhonen" last="Claes">
-    <Male_Jhonen_Claes_EMPTY.first>Jhonen</Male_Jhonen_Claes_EMPTY.first>
-    <Male_Jhonen_Claes_EMPTY.last>Claes</Male_Jhonen_Claes_EMPTY.last>
+    <Male_Jhonen_Claes_EMPTY.first>乔恩</Male_Jhonen_Claes_EMPTY.first>
+    <Male_Jhonen_Claes_EMPTY.last>克拉斯</Male_Jhonen_Claes_EMPTY.last>
   </li>
   <li Gender="Male" first="Yoshihide" last="Toda" nick="Mosui">
-    <Male_Yoshihide_Toda_Mosui.first>Yoshihide</Male_Yoshihide_Toda_Mosui.first>
-    <Male_Yoshihide_Toda_Mosui.last>Toda</Male_Yoshihide_Toda_Mosui.last>
-    <Male_Yoshihide_Toda_Mosui.nick>Mosui</Male_Yoshihide_Toda_Mosui.nick>
+    <Male_Yoshihide_Toda_Mosui.first>义秀</Male_Yoshihide_Toda_Mosui.first>
+    <Male_Yoshihide_Toda_Mosui.last>户田</Male_Yoshihide_Toda_Mosui.last>
+    <Male_Yoshihide_Toda_Mosui.nick>茂睡</Male_Yoshihide_Toda_Mosui.nick>
   </li>
   <li Gender="Male" first="Braden" last="Racz" nick="Braden">
-    <Male_Braden_Racz_Braden.first>Braden</Male_Braden_Racz_Braden.first>
-    <Male_Braden_Racz_Braden.last>Racz</Male_Braden_Racz_Braden.last>
-    <Male_Braden_Racz_Braden.nick>Braden</Male_Braden_Racz_Braden.nick>
+    <Male_Braden_Racz_Braden.first>布雷登</Male_Braden_Racz_Braden.first>
+    <Male_Braden_Racz_Braden.last>拉奇</Male_Braden_Racz_Braden.last>
+    <Male_Braden_Racz_Braden.nick>布雷登</Male_Braden_Racz_Braden.nick>
   </li>
   <li Gender="Female" first="Phoebe" last="Kennedy" nick="Feeb">
-    <Female_Phoebe_Kennedy_Feeb.first>Phoebe</Female_Phoebe_Kennedy_Feeb.first>
-    <Female_Phoebe_Kennedy_Feeb.last>Kennedy</Female_Phoebe_Kennedy_Feeb.last>
-    <Female_Phoebe_Kennedy_Feeb.nick>Feeb</Female_Phoebe_Kennedy_Feeb.nick>
+    <Female_Phoebe_Kennedy_Feeb.first>菲比</Female_Phoebe_Kennedy_Feeb.first>
+    <Female_Phoebe_Kennedy_Feeb.last>肯尼迪</Female_Phoebe_Kennedy_Feeb.last>
+    <Female_Phoebe_Kennedy_Feeb.nick>菲布</Female_Phoebe_Kennedy_Feeb.nick>
   </li>
   <li Gender="Male" first="Sherman" last="Morningside" nick="Wormie">
-    <Male_Sherman_Morningside_Wormie.first>Sherman</Male_Sherman_Morningside_Wormie.first>
-    <Male_Sherman_Morningside_Wormie.last>Morningside</Male_Sherman_Morningside_Wormie.last>
-    <Male_Sherman_Morningside_Wormie.nick>Wormie</Male_Sherman_Morningside_Wormie.nick>
+    <Male_Sherman_Morningside_Wormie.first>谢尔曼</Male_Sherman_Morningside_Wormie.first>
+    <Male_Sherman_Morningside_Wormie.last>莫宁赛德</Male_Sherman_Morningside_Wormie.last>
+    <Male_Sherman_Morningside_Wormie.nick>小虫</Male_Sherman_Morningside_Wormie.nick>
   </li>
   <li Gender="Male" first="Chester" last="Montgomery">
-    <Male_Chester_Montgomery_EMPTY.first>Chester</Male_Chester_Montgomery_EMPTY.first>
-    <Male_Chester_Montgomery_EMPTY.last>Montgomery</Male_Chester_Montgomery_EMPTY.last>
+    <Male_Chester_Montgomery_EMPTY.first>切斯特</Male_Chester_Montgomery_EMPTY.first>
+    <Male_Chester_Montgomery_EMPTY.last>蒙哥马利</Male_Chester_Montgomery_EMPTY.last>
   </li>
   <li Gender="Male" first="Bigler" last="Brinkle" nick="Bink">
-    <Male_Bigler_Brinkle_Bink.first>Bigler</Male_Bigler_Brinkle_Bink.first>
-    <Male_Bigler_Brinkle_Bink.last>Brinkle</Male_Bigler_Brinkle_Bink.last>
-    <Male_Bigler_Brinkle_Bink.nick>Bink</Male_Bigler_Brinkle_Bink.nick>
+    <Male_Bigler_Brinkle_Bink.first>比格勒</Male_Bigler_Brinkle_Bink.first>
+    <Male_Bigler_Brinkle_Bink.last>布林克勒</Male_Bigler_Brinkle_Bink.last>
+    <Male_Bigler_Brinkle_Bink.nick>宾克</Male_Bigler_Brinkle_Bink.nick>
   </li>
   <li Gender="Male" first="Sweet" last="Randall">
-    <Male_Sweet_Randall_EMPTY.first>Sweet</Male_Sweet_Randall_EMPTY.first>
-    <Male_Sweet_Randall_EMPTY.last>Randall</Male_Sweet_Randall_EMPTY.last>
+    <Male_Sweet_Randall_EMPTY.first>斯威特</Male_Sweet_Randall_EMPTY.first>
+    <Male_Sweet_Randall_EMPTY.last>兰德尔</Male_Sweet_Randall_EMPTY.last>
   </li>
   <li Gender="Male" first="Jeremie" last="Gatchalian" nick="Jer">
-    <Male_Jeremie_Gatchalian_Jer.first>Jeremie</Male_Jeremie_Gatchalian_Jer.first>
-    <Male_Jeremie_Gatchalian_Jer.last>Gatchalian</Male_Jeremie_Gatchalian_Jer.last>
-    <Male_Jeremie_Gatchalian_Jer.nick>Jer</Male_Jeremie_Gatchalian_Jer.nick>
+    <Male_Jeremie_Gatchalian_Jer.first>杰雷米</Male_Jeremie_Gatchalian_Jer.first>
+    <Male_Jeremie_Gatchalian_Jer.last>盖沙里昂</Male_Jeremie_Gatchalian_Jer.last>
+    <Male_Jeremie_Gatchalian_Jer.nick>杰</Male_Jeremie_Gatchalian_Jer.nick>
   </li>
   <li Gender="Male" first="Kjetil" last="Joergensen">
-    <Male_Kjetil_Joergensen_EMPTY.first>Kjetil</Male_Kjetil_Joergensen_EMPTY.first>
-    <Male_Kjetil_Joergensen_EMPTY.last>Joergensen</Male_Kjetil_Joergensen_EMPTY.last>
+    <Male_Kjetil_Joergensen_EMPTY.first>谢蒂尔</Male_Kjetil_Joergensen_EMPTY.first>
+    <Male_Kjetil_Joergensen_EMPTY.last>约根森</Male_Kjetil_Joergensen_EMPTY.last>
   </li>
   <li Gender="Female" first="Rowan" last="Abott" nick="Rowan">
-    <Female_Rowan_Abott_Rowan.first>Rowan</Female_Rowan_Abott_Rowan.first>
-    <Female_Rowan_Abott_Rowan.last>Abott</Female_Rowan_Abott_Rowan.last>
-    <Female_Rowan_Abott_Rowan.nick>Rowan</Female_Rowan_Abott_Rowan.nick>
+    <Female_Rowan_Abott_Rowan.first>罗恩</Female_Rowan_Abott_Rowan.first>
+    <Female_Rowan_Abott_Rowan.last>艾伯特</Female_Rowan_Abott_Rowan.last>
+    <Female_Rowan_Abott_Rowan.nick>罗恩</Female_Rowan_Abott_Rowan.nick>
   </li>
   <li Gender="Either" first="Erin" last="Sidrian" nick="Erin">
-    <Either_Erin_Sidrian_Erin.first>Erin</Either_Erin_Sidrian_Erin.first>
-    <Either_Erin_Sidrian_Erin.last>Sidrian</Either_Erin_Sidrian_Erin.last>
-    <Either_Erin_Sidrian_Erin.nick>Erin</Either_Erin_Sidrian_Erin.nick>
+    <Either_Erin_Sidrian_Erin.first>艾琳</Either_Erin_Sidrian_Erin.first>
+    <Either_Erin_Sidrian_Erin.last>希德瑞恩</Either_Erin_Sidrian_Erin.last>
+    <Either_Erin_Sidrian_Erin.nick>艾琳</Either_Erin_Sidrian_Erin.nick>
   </li>
   <li Gender="Male" first="Vance" last="Gordon" nick="Gemini">
-    <Male_Vance_Gordon_Gemini.first>Vance</Male_Vance_Gordon_Gemini.first>
-    <Male_Vance_Gordon_Gemini.last>Gordon</Male_Vance_Gordon_Gemini.last>
-    <Male_Vance_Gordon_Gemini.nick>Gemini</Male_Vance_Gordon_Gemini.nick>
+    <Male_Vance_Gordon_Gemini.first>万斯</Male_Vance_Gordon_Gemini.first>
+    <Male_Vance_Gordon_Gemini.last>戈登</Male_Vance_Gordon_Gemini.last>
+    <Male_Vance_Gordon_Gemini.nick>双子座</Male_Vance_Gordon_Gemini.nick>
   </li>
   <li Gender="Male" first="Usama" last="Ahmedovitch">
-    <Male_Usama_Ahmedovitch_EMPTY.first>Usama</Male_Usama_Ahmedovitch_EMPTY.first>
-    <Male_Usama_Ahmedovitch_EMPTY.last>Ahmedovitch</Male_Usama_Ahmedovitch_EMPTY.last>
+    <Male_Usama_Ahmedovitch_EMPTY.first>乌萨马</Male_Usama_Ahmedovitch_EMPTY.first>
+    <Male_Usama_Ahmedovitch_EMPTY.last>阿莫多维奇</Male_Usama_Ahmedovitch_EMPTY.last>
   </li>
   <li Gender="Female" first="Ryla" last="Arrentiel" nick="Ryla">
-    <Female_Ryla_Arrentiel_Ryla.first>Ryla</Female_Ryla_Arrentiel_Ryla.first>
-    <Female_Ryla_Arrentiel_Ryla.last>Arrentiel</Female_Ryla_Arrentiel_Ryla.last>
-    <Female_Ryla_Arrentiel_Ryla.nick>Ryla</Female_Ryla_Arrentiel_Ryla.nick>
+    <Female_Ryla_Arrentiel_Ryla.first>莱拉</Female_Ryla_Arrentiel_Ryla.first>
+    <Female_Ryla_Arrentiel_Ryla.last>阿兰提尔</Female_Ryla_Arrentiel_Ryla.last>
+    <Female_Ryla_Arrentiel_Ryla.nick>莱拉</Female_Ryla_Arrentiel_Ryla.nick>
   </li>
   <li Gender="Male" first="Pride" last="St Clair" nick="Pride">
-    <Male_Pride_StClair_Pride.first>Pride</Male_Pride_StClair_Pride.first>
-    <Male_Pride_StClair_Pride.last>St Clair</Male_Pride_StClair_Pride.last>
-    <Male_Pride_StClair_Pride.nick>Pride</Male_Pride_StClair_Pride.nick>
+    <Male_Pride_StClair_Pride.first>普赖德</Male_Pride_StClair_Pride.first>
+    <Male_Pride_StClair_Pride.last>圣克莱尔</Male_Pride_StClair_Pride.last>
+    <Male_Pride_StClair_Pride.nick>普赖德</Male_Pride_StClair_Pride.nick>
   </li>
   <li Gender="Either" first="Payton" last="Firelli">
-    <Either_Payton_Firelli_EMPTY.first>Payton</Either_Payton_Firelli_EMPTY.first>
-    <Either_Payton_Firelli_EMPTY.last>Firelli</Either_Payton_Firelli_EMPTY.last>
+    <Either_Payton_Firelli_EMPTY.first>佩顿</Either_Payton_Firelli_EMPTY.first>
+    <Either_Payton_Firelli_EMPTY.last>费拉里</Either_Payton_Firelli_EMPTY.last>
   </li>
   <li Gender="Either" first="Ransak" last="Blackfell">
-    <Either_Ransak_Blackfell_EMPTY.first>Ransak</Either_Ransak_Blackfell_EMPTY.first>
-    <Either_Ransak_Blackfell_EMPTY.last>Blackfell</Either_Ransak_Blackfell_EMPTY.last>
+    <Either_Ransak_Blackfell_EMPTY.first>兰萨克</Either_Ransak_Blackfell_EMPTY.first>
+    <Either_Ransak_Blackfell_EMPTY.last>布莱克费尔</Either_Ransak_Blackfell_EMPTY.last>
   </li>
   <li Gender="Either" first="Sam" last="Gerador" nick="Sammy">
-    <Either_Sam_Gerador_Sammy.first>Sam</Either_Sam_Gerador_Sammy.first>
-    <Either_Sam_Gerador_Sammy.last>Gerador</Either_Sam_Gerador_Sammy.last>
-    <Either_Sam_Gerador_Sammy.nick>Sammy</Either_Sam_Gerador_Sammy.nick>
+    <Either_Sam_Gerador_Sammy.first>萨姆</Either_Sam_Gerador_Sammy.first>
+    <Either_Sam_Gerador_Sammy.last>杰拉多</Either_Sam_Gerador_Sammy.last>
+    <Either_Sam_Gerador_Sammy.nick>萨米</Either_Sam_Gerador_Sammy.nick>
   </li>
   <li Gender="Male" first="Texonidas" last="Andersen" nick="Tex">
-    <Male_Texonidas_Andersen_Tex.first>Texonidas</Male_Texonidas_Andersen_Tex.first>
-    <Male_Texonidas_Andersen_Tex.last>Andersen</Male_Texonidas_Andersen_Tex.last>
-    <Male_Texonidas_Andersen_Tex.nick>Tex</Male_Texonidas_Andersen_Tex.nick>
+    <Male_Texonidas_Andersen_Tex.first>泰克斯艾迪斯</Male_Texonidas_Andersen_Tex.first>
+    <Male_Texonidas_Andersen_Tex.last>安德森</Male_Texonidas_Andersen_Tex.last>
+    <Male_Texonidas_Andersen_Tex.nick>泰克斯</Male_Texonidas_Andersen_Tex.nick>
   </li>
   <li Gender="Male" first="Arun" last="Menon" nick="Shrink">
-    <Male_Arun_Menon_Shrink.first>Arun</Male_Arun_Menon_Shrink.first>
-    <Male_Arun_Menon_Shrink.last>Menon</Male_Arun_Menon_Shrink.last>
-    <Male_Arun_Menon_Shrink.nick>Shrink</Male_Arun_Menon_Shrink.nick>
+    <Male_Arun_Menon_Shrink.first>阿伦</Male_Arun_Menon_Shrink.first>
+    <Male_Arun_Menon_Shrink.last>梅农</Male_Arun_Menon_Shrink.last>
+    <Male_Arun_Menon_Shrink.nick>胆小鬼</Male_Arun_Menon_Shrink.nick>
   </li>
   <li Gender="Male" first="Radu" last="Orlandea" nick="Rads">
-    <Male_Radu_Orlandea_Rads.first>Radu</Male_Radu_Orlandea_Rads.first>
-    <Male_Radu_Orlandea_Rads.last>Orlandea</Male_Radu_Orlandea_Rads.last>
-    <Male_Radu_Orlandea_Rads.nick>Rads</Male_Radu_Orlandea_Rads.nick>
+    <Male_Radu_Orlandea_Rads.first>拉杜</Male_Radu_Orlandea_Rads.first>
+    <Male_Radu_Orlandea_Rads.last>奥兰德</Male_Radu_Orlandea_Rads.last>
+    <Male_Radu_Orlandea_Rads.nick>拉杜</Male_Radu_Orlandea_Rads.nick>
   </li>
   <li Gender="Either" first="Claes" last="Elfszoon" nick="Saegge">
-    <Either_Claes_Elfszoon_Saegge.first>Claes</Either_Claes_Elfszoon_Saegge.first>
-    <Either_Claes_Elfszoon_Saegge.last>Elfszoon</Either_Claes_Elfszoon_Saegge.last>
-    <Either_Claes_Elfszoon_Saegge.nick>Saegge</Either_Claes_Elfszoon_Saegge.nick>
+    <Either_Claes_Elfszoon_Saegge.first>克拉斯</Either_Claes_Elfszoon_Saegge.first>
+    <Either_Claes_Elfszoon_Saegge.last>埃尔夫佐恩</Either_Claes_Elfszoon_Saegge.last>
+    <Either_Claes_Elfszoon_Saegge.nick>萨艾赫</Either_Claes_Elfszoon_Saegge.nick>
   </li>
   <li Gender="Male" first="Malachai" last="Rabenhertz" nick="Lachi">
-    <Male_Malachai_Rabenhertz_Lachi.first>Malachai</Male_Malachai_Rabenhertz_Lachi.first>
-    <Male_Malachai_Rabenhertz_Lachi.last>Rabenhertz</Male_Malachai_Rabenhertz_Lachi.last>
-    <Male_Malachai_Rabenhertz_Lachi.nick>Lachi</Male_Malachai_Rabenhertz_Lachi.nick>
+    <Male_Malachai_Rabenhertz_Lachi.first>马拉盖</Male_Malachai_Rabenhertz_Lachi.first>
+    <Male_Malachai_Rabenhertz_Lachi.last>鲁宾赫兹</Male_Malachai_Rabenhertz_Lachi.last>
+    <Male_Malachai_Rabenhertz_Lachi.nick>拉基</Male_Malachai_Rabenhertz_Lachi.nick>
   </li>
   <li Gender="Female" first="Natalia" last="Insolitus" nick="Nat">
-    <Female_Natalia_Insolitus_Nat.first>Natalia</Female_Natalia_Insolitus_Nat.first>
-    <Female_Natalia_Insolitus_Nat.last>Insolitus</Female_Natalia_Insolitus_Nat.last>
-    <Female_Natalia_Insolitus_Nat.nick>Nat</Female_Natalia_Insolitus_Nat.nick>
+    <Female_Natalia_Insolitus_Nat.first>纳塔利娅</Female_Natalia_Insolitus_Nat.first>
+    <Female_Natalia_Insolitus_Nat.last>因索里蒂斯</Female_Natalia_Insolitus_Nat.last>
+    <Female_Natalia_Insolitus_Nat.nick>纳特</Female_Natalia_Insolitus_Nat.nick>
   </li>
   <li Gender="Male" first="Nikolay" last="Padyukov" nick="Niko">
-    <Male_Nikolay_Padyukov_Niko.first>Nikolay</Male_Nikolay_Padyukov_Niko.first>
-    <Male_Nikolay_Padyukov_Niko.last>Padyukov</Male_Nikolay_Padyukov_Niko.last>
-    <Male_Nikolay_Padyukov_Niko.nick>Niko</Male_Nikolay_Padyukov_Niko.nick>
+    <Male_Nikolay_Padyukov_Niko.first>尼古拉</Male_Nikolay_Padyukov_Niko.first>
+    <Male_Nikolay_Padyukov_Niko.last>帕尤科夫</Male_Nikolay_Padyukov_Niko.last>
+    <Male_Nikolay_Padyukov_Niko.nick>尼科</Male_Nikolay_Padyukov_Niko.nick>
   </li>
   <li Gender="Male" first="Frankie" last="Figgs" nick="Grief">
-    <Male_Frankie_Figgs_Grief.first>Frankie</Male_Frankie_Figgs_Grief.first>
-    <Male_Frankie_Figgs_Grief.last>Figgs</Male_Frankie_Figgs_Grief.last>
-    <Male_Frankie_Figgs_Grief.nick>Grief</Male_Frankie_Figgs_Grief.nick>
+    <Male_Frankie_Figgs_Grief.first>弗兰克</Male_Frankie_Figgs_Grief.first>
+    <Male_Frankie_Figgs_Grief.last>费格斯</Male_Frankie_Figgs_Grief.last>
+    <Male_Frankie_Figgs_Grief.nick>格瑞夫</Male_Frankie_Figgs_Grief.nick>
   </li>
   <li Gender="Male" first="Stu" last="Fletcher" nick="Stubert">
-    <Male_Stu_Fletcher_Stubert.first>Stu</Male_Stu_Fletcher_Stubert.first>
-    <Male_Stu_Fletcher_Stubert.last>Fletcher</Male_Stu_Fletcher_Stubert.last>
-    <Male_Stu_Fletcher_Stubert.nick>Stubert</Male_Stu_Fletcher_Stubert.nick>
+    <Male_Stu_Fletcher_Stubert.first>斯图</Male_Stu_Fletcher_Stubert.first>
+    <Male_Stu_Fletcher_Stubert.last>弗莱彻</Male_Stu_Fletcher_Stubert.last>
+    <Male_Stu_Fletcher_Stubert.nick>斯图伯特</Male_Stu_Fletcher_Stubert.nick>
   </li>
   <li Gender="Female" first="Gaige" last="Mc'Row" nick="Lucca">
-    <Female_Gaige_McRow_Lucca.first>Gaige</Female_Gaige_McRow_Lucca.first>
-    <Female_Gaige_McRow_Lucca.last>Mc'Row</Female_Gaige_McRow_Lucca.last>
-    <Female_Gaige_McRow_Lucca.nick>Lucca</Female_Gaige_McRow_Lucca.nick>
+    <Female_Gaige_McRow_Lucca.first>盖奇</Female_Gaige_McRow_Lucca.first>
+    <Female_Gaige_McRow_Lucca.last>麦克罗</Female_Gaige_McRow_Lucca.last>
+    <Female_Gaige_McRow_Lucca.nick>露卡</Female_Gaige_McRow_Lucca.nick>
   </li>
   <li Gender="Male" first="Sibiescke" last="Morton">
-    <Male_Sibiescke_Morton_EMPTY.first>Sibiescke</Male_Sibiescke_Morton_EMPTY.first>
-    <Male_Sibiescke_Morton_EMPTY.last>Morton</Male_Sibiescke_Morton_EMPTY.last>
+    <Male_Sibiescke_Morton_EMPTY.first>西比亚思克</Male_Sibiescke_Morton_EMPTY.first>
+    <Male_Sibiescke_Morton_EMPTY.last>莫顿</Male_Sibiescke_Morton_EMPTY.last>
   </li>
   <li Gender="Female" first="Isabella" last="Nystrom" nick="Izzy">
-    <Female_Isabella_Nystrom_Izzy.first>Isabella</Female_Isabella_Nystrom_Izzy.first>
-    <Female_Isabella_Nystrom_Izzy.last>Nystrom</Female_Isabella_Nystrom_Izzy.last>
-    <Female_Isabella_Nystrom_Izzy.nick>Izzy</Female_Isabella_Nystrom_Izzy.nick>
+    <Female_Isabella_Nystrom_Izzy.first>伊莎贝拉</Female_Isabella_Nystrom_Izzy.first>
+    <Female_Isabella_Nystrom_Izzy.last>尼斯特伦</Female_Isabella_Nystrom_Izzy.last>
+    <Female_Isabella_Nystrom_Izzy.nick>伊姬</Female_Isabella_Nystrom_Izzy.nick>
   </li>
   <li Gender="Male" first="Zanthril" last="Farren">
-    <Male_Zanthril_Farren_EMPTY.first>Zanthril</Male_Zanthril_Farren_EMPTY.first>
-    <Male_Zanthril_Farren_EMPTY.last>Farren</Male_Zanthril_Farren_EMPTY.last>
+    <Male_Zanthril_Farren_EMPTY.first>赞特里</Male_Zanthril_Farren_EMPTY.first>
+    <Male_Zanthril_Farren_EMPTY.last>法伦</Male_Zanthril_Farren_EMPTY.last>
   </li>
   <li Gender="Female" first="Ryoko" last="Minese" nick="Onesan">
-    <Female_Ryoko_Minese_Onesan.first>Ryoko</Female_Ryoko_Minese_Onesan.first>
-    <Female_Ryoko_Minese_Onesan.last>Minese</Female_Ryoko_Minese_Onesan.last>
-    <Female_Ryoko_Minese_Onesan.nick>Onesan</Female_Ryoko_Minese_Onesan.nick>
+    <Female_Ryoko_Minese_Onesan.first>凉子</Female_Ryoko_Minese_Onesan.first>
+    <Female_Ryoko_Minese_Onesan.last>水無瀬</Female_Ryoko_Minese_Onesan.last>
+    <Female_Ryoko_Minese_Onesan.nick>姐姐</Female_Ryoko_Minese_Onesan.nick>
   </li>
   <li Gender="Male" first="Hiralie" last="Kedai" nick="Hirara">
-    <Male_Hiralie_Kedai_Hirara.first>Hiralie</Male_Hiralie_Kedai_Hirara.first>
-    <Male_Hiralie_Kedai_Hirara.last>Kedai</Male_Hiralie_Kedai_Hirara.last>
-    <Male_Hiralie_Kedai_Hirara.nick>Hirara</Male_Hiralie_Kedai_Hirara.nick>
+    <Male_Hiralie_Kedai_Hirara.first>希拉利</Male_Hiralie_Kedai_Hirara.first>
+    <Male_Hiralie_Kedai_Hirara.last>凯达</Male_Hiralie_Kedai_Hirara.last>
+    <Male_Hiralie_Kedai_Hirara.nick>希拉拉</Male_Hiralie_Kedai_Hirara.nick>
   </li>
   <li Gender="Either" first="Marrion" last="Paraiso" nick="Marrion">
-    <Either_Marrion_Paraiso_Marrion.first>Marrion</Either_Marrion_Paraiso_Marrion.first>
-    <Either_Marrion_Paraiso_Marrion.last>Paraiso</Either_Marrion_Paraiso_Marrion.last>
-    <Either_Marrion_Paraiso_Marrion.nick>Marrion</Either_Marrion_Paraiso_Marrion.nick>
+    <Either_Marrion_Paraiso_Marrion.first>马里恩</Either_Marrion_Paraiso_Marrion.first>
+    <Either_Marrion_Paraiso_Marrion.last>帕莱索</Either_Marrion_Paraiso_Marrion.last>
+    <Either_Marrion_Paraiso_Marrion.nick>马里恩</Either_Marrion_Paraiso_Marrion.nick>
   </li>
   <li Gender="Male" first="Jiseng" last="So" nick="Ginseng">
-    <Male_Jiseng_So_Ginseng.first>Jiseng</Male_Jiseng_So_Ginseng.first>
-    <Male_Jiseng_So_Ginseng.last>So</Male_Jiseng_So_Ginseng.last>
-    <Male_Jiseng_So_Ginseng.nick>Ginseng</Male_Jiseng_So_Ginseng.nick>
+    <Male_Jiseng_So_Ginseng.first>智盛</Male_Jiseng_So_Ginseng.first>
+    <Male_Jiseng_So_Ginseng.last>宋</Male_Jiseng_So_Ginseng.last>
+    <Male_Jiseng_So_Ginseng.nick>金盛</Male_Jiseng_So_Ginseng.nick>
   </li>
   <li Gender="Male" first="Ramon" last="Xu">
-    <Male_Ramon_Xu_EMPTY.first>Ramon</Male_Ramon_Xu_EMPTY.first>
-    <Male_Ramon_Xu_EMPTY.last>Xu</Male_Ramon_Xu_EMPTY.last>
+    <Male_Ramon_Xu_EMPTY.first>拉蒙</Male_Ramon_Xu_EMPTY.first>
+    <Male_Ramon_Xu_EMPTY.last>许</Male_Ramon_Xu_EMPTY.last>
   </li>
   <li Gender="Male" first="Govert" last="Versluis" nick="Grove">
-    <Male_Govert_Versluis_Grove.first>Govert</Male_Govert_Versluis_Grove.first>
-    <Male_Govert_Versluis_Grove.last>Versluis</Male_Govert_Versluis_Grove.last>
-    <Male_Govert_Versluis_Grove.nick>Grove</Male_Govert_Versluis_Grove.nick>
+    <Male_Govert_Versluis_Grove.first>霍弗特</Male_Govert_Versluis_Grove.first>
+    <Male_Govert_Versluis_Grove.last>弗斯莱斯</Male_Govert_Versluis_Grove.last>
+    <Male_Govert_Versluis_Grove.nick>格罗夫</Male_Govert_Versluis_Grove.nick>
   </li>
   <li Gender="Male" first="Jayan" last="Sventinyn" nick="Jay">
-    <Male_Jayan_Sventinyn_Jay.first>Jayan</Male_Jayan_Sventinyn_Jay.first>
-    <Male_Jayan_Sventinyn_Jay.last>Sventinyn</Male_Jayan_Sventinyn_Jay.last>
-    <Male_Jayan_Sventinyn_Jay.nick>Jay</Male_Jayan_Sventinyn_Jay.nick>
+    <Male_Jayan_Sventinyn_Jay.first>杰恩</Male_Jayan_Sventinyn_Jay.first>
+    <Male_Jayan_Sventinyn_Jay.last>斯文特赛宁</Male_Jayan_Sventinyn_Jay.last>
+    <Male_Jayan_Sventinyn_Jay.nick>杰</Male_Jayan_Sventinyn_Jay.nick>
   </li>
   <li Gender="Male" first="Cael" last="Cothan" nick="Coth">
-    <Male_Cael_Cothan_Coth.first>Cael</Male_Cael_Cothan_Coth.first>
-    <Male_Cael_Cothan_Coth.last>Cothan</Male_Cael_Cothan_Coth.last>
-    <Male_Cael_Cothan_Coth.nick>Coth</Male_Cael_Cothan_Coth.nick>
+    <Male_Cael_Cothan_Coth.first>卡埃尔</Male_Cael_Cothan_Coth.first>
+    <Male_Cael_Cothan_Coth.last>卡赞</Male_Cael_Cothan_Coth.last>
+    <Male_Cael_Cothan_Coth.nick>卡斯</Male_Cael_Cothan_Coth.nick>
   </li>
   <li Gender="Male" first="Stolando" last="De'Doggo" nick="Stolid">
-    <Male_Stolando_DeDoggo_Stolid.first>Stolando</Male_Stolando_DeDoggo_Stolid.first>
-    <Male_Stolando_DeDoggo_Stolid.last>De'Doggo</Male_Stolando_DeDoggo_Stolid.last>
-    <Male_Stolando_DeDoggo_Stolid.nick>Stolid</Male_Stolando_DeDoggo_Stolid.nick>
+    <Male_Stolando_DeDoggo_Stolid.first>斯托兰多</Male_Stolando_DeDoggo_Stolid.first>
+    <Male_Stolando_DeDoggo_Stolid.last>德多格</Male_Stolando_DeDoggo_Stolid.last>
+    <Male_Stolando_DeDoggo_Stolid.nick>斯托莱德</Male_Stolando_DeDoggo_Stolid.nick>
   </li>
   <li Gender="Female" first="Mausami" last="Halstead" nick="Mau">
-    <Female_Mausami_Halstead_Mau.first>Mausami</Female_Mausami_Halstead_Mau.first>
-    <Female_Mausami_Halstead_Mau.last>Halstead</Female_Mausami_Halstead_Mau.last>
-    <Female_Mausami_Halstead_Mau.nick>Mau</Female_Mausami_Halstead_Mau.nick>
+    <Female_Mausami_Halstead_Mau.first>莫萨米</Female_Mausami_Halstead_Mau.first>
+    <Female_Mausami_Halstead_Mau.last>霍尔斯特德</Female_Mausami_Halstead_Mau.last>
+    <Female_Mausami_Halstead_Mau.nick>莫尔</Female_Mausami_Halstead_Mau.nick>
   </li>
   <li Gender="Male" first="Mohamed" last="Nagy">
-    <Male_Mohamed_Nagy_EMPTY.first>Mohamed</Male_Mohamed_Nagy_EMPTY.first>
-    <Male_Mohamed_Nagy_EMPTY.last>Nagy</Male_Mohamed_Nagy_EMPTY.last>
+    <Male_Mohamed_Nagy_EMPTY.first>默罕默德</Male_Mohamed_Nagy_EMPTY.first>
+    <Male_Mohamed_Nagy_EMPTY.last>纳吉</Male_Mohamed_Nagy_EMPTY.last>
   </li>
   <li Gender="Male" first="Ignacio" last="Cartes" nick="Galli">
-    <Male_Ignacio_Cartes_Galli.first>Ignacio</Male_Ignacio_Cartes_Galli.first>
-    <Male_Ignacio_Cartes_Galli.last>Cartes</Male_Ignacio_Cartes_Galli.last>
-    <Male_Ignacio_Cartes_Galli.nick>Galli</Male_Ignacio_Cartes_Galli.nick>
+    <Male_Ignacio_Cartes_Galli.first>伊格纳西奥</Male_Ignacio_Cartes_Galli.first>
+    <Male_Ignacio_Cartes_Galli.last>卡特斯</Male_Ignacio_Cartes_Galli.last>
+    <Male_Ignacio_Cartes_Galli.nick>加利</Male_Ignacio_Cartes_Galli.nick>
   </li>
   <li Gender="Female" first="Skye" last="Lorne" nick="Skye">
-    <Female_Skye_Lorne_Skye.first>Skye</Female_Skye_Lorne_Skye.first>
-    <Female_Skye_Lorne_Skye.last>Lorne</Female_Skye_Lorne_Skye.last>
-    <Female_Skye_Lorne_Skye.nick>Skye</Female_Skye_Lorne_Skye.nick>
+    <Female_Skye_Lorne_Skye.first>思凯</Female_Skye_Lorne_Skye.first>
+    <Female_Skye_Lorne_Skye.last>洛恩</Female_Skye_Lorne_Skye.last>
+    <Female_Skye_Lorne_Skye.nick>思凯</Female_Skye_Lorne_Skye.nick>
   </li>
   <li Gender="Male" first="Pops" last="Ramsey">
-    <Male_Pops_Ramsey_EMPTY.first>Pops</Male_Pops_Ramsey_EMPTY.first>
-    <Male_Pops_Ramsey_EMPTY.last>Ramsey</Male_Pops_Ramsey_EMPTY.last>
+    <Male_Pops_Ramsey_EMPTY.first>波普斯</Male_Pops_Ramsey_EMPTY.first>
+    <Male_Pops_Ramsey_EMPTY.last>拉姆齐</Male_Pops_Ramsey_EMPTY.last>
   </li>
   <li Gender="Male" first="Lenny" last="Lukaszewski" nick="Lenny">
-    <Male_Lenny_Lukaszewski_Lenny.first>Lenny</Male_Lenny_Lukaszewski_Lenny.first>
-    <Male_Lenny_Lukaszewski_Lenny.last>Lukaszewski</Male_Lenny_Lukaszewski_Lenny.last>
-    <Male_Lenny_Lukaszewski_Lenny.nick>Lenny</Male_Lenny_Lukaszewski_Lenny.nick>
+    <Male_Lenny_Lukaszewski_Lenny.first>伦尼</Male_Lenny_Lukaszewski_Lenny.first>
+    <Male_Lenny_Lukaszewski_Lenny.last>卢卡谢夫斯基</Male_Lenny_Lukaszewski_Lenny.last>
+    <Male_Lenny_Lukaszewski_Lenny.nick>伦尼</Male_Lenny_Lukaszewski_Lenny.nick>
   </li>
   <li Gender="Female" first="Brittni" last="Moffatt" nick="Brit">
-    <Female_Brittni_Moffatt_Brit.first>Brittni</Female_Brittni_Moffatt_Brit.first>
-    <Female_Brittni_Moffatt_Brit.last>Moffatt</Female_Brittni_Moffatt_Brit.last>
-    <Female_Brittni_Moffatt_Brit.nick>Brit</Female_Brittni_Moffatt_Brit.nick>
+    <Female_Brittni_Moffatt_Brit.first>布里特妮</Female_Brittni_Moffatt_Brit.first>
+    <Female_Brittni_Moffatt_Brit.last>莫法特</Female_Brittni_Moffatt_Brit.last>
+    <Female_Brittni_Moffatt_Brit.nick>布里特</Female_Brittni_Moffatt_Brit.nick>
   </li>
   <li Gender="Male" first="Tonnie" last="Hovanec" nick="Sparky">
-    <Male_Tonnie_Hovanec_Sparky.first>Tonnie</Male_Tonnie_Hovanec_Sparky.first>
-    <Male_Tonnie_Hovanec_Sparky.last>Hovanec</Male_Tonnie_Hovanec_Sparky.last>
-    <Male_Tonnie_Hovanec_Sparky.nick>Sparky</Male_Tonnie_Hovanec_Sparky.nick>
+    <Male_Tonnie_Hovanec_Sparky.first>托尼</Male_Tonnie_Hovanec_Sparky.first>
+    <Male_Tonnie_Hovanec_Sparky.last>霍瓦内茨</Male_Tonnie_Hovanec_Sparky.last>
+    <Male_Tonnie_Hovanec_Sparky.nick>斯帕基</Male_Tonnie_Hovanec_Sparky.nick>
   </li>
   <li Gender="Female" first="Loreen" last="Paradies" nick="Loreen">
-    <Female_Loreen_Paradies_Loreen.first>Loreen</Female_Loreen_Paradies_Loreen.first>
-    <Female_Loreen_Paradies_Loreen.last>Paradies</Female_Loreen_Paradies_Loreen.last>
-    <Female_Loreen_Paradies_Loreen.nick>Loreen</Female_Loreen_Paradies_Loreen.nick>
+    <Female_Loreen_Paradies_Loreen.first>罗琳</Female_Loreen_Paradies_Loreen.first>
+    <Female_Loreen_Paradies_Loreen.last>帕拉迪斯</Female_Loreen_Paradies_Loreen.last>
+    <Female_Loreen_Paradies_Loreen.nick>罗琳</Female_Loreen_Paradies_Loreen.nick>
   </li>
   <li Gender="Male" first="Robbert" last="Laxson" nick="Robo">
-    <Male_Robbert_Laxson_Robo.first>Robbert</Male_Robbert_Laxson_Robo.first>
-    <Male_Robbert_Laxson_Robo.last>Laxson</Male_Robbert_Laxson_Robo.last>
-    <Male_Robbert_Laxson_Robo.nick>Robo</Male_Robbert_Laxson_Robo.nick>
+    <Male_Robbert_Laxson_Robo.first>罗伯特</Male_Robbert_Laxson_Robo.first>
+    <Male_Robbert_Laxson_Robo.last>拉克森</Male_Robbert_Laxson_Robo.last>
+    <Male_Robbert_Laxson_Robo.nick>罗博</Male_Robbert_Laxson_Robo.nick>
   </li>
   <li Gender="Either" first="Kit" last="Ticktum">
-    <Either_Kit_Ticktum_EMPTY.first>Kit</Either_Kit_Ticktum_EMPTY.first>
-    <Either_Kit_Ticktum_EMPTY.last>Ticktum</Either_Kit_Ticktum_EMPTY.last>
+    <Either_Kit_Ticktum_EMPTY.first>基特</Either_Kit_Ticktum_EMPTY.first>
+    <Either_Kit_Ticktum_EMPTY.last>蒂克特姆</Either_Kit_Ticktum_EMPTY.last>
   </li>
   <li Gender="Male" first="Graeme" last="Debbel">
-    <Male_Graeme_Debbel_EMPTY.first>Graeme</Male_Graeme_Debbel_EMPTY.first>
-    <Male_Graeme_Debbel_EMPTY.last>Debbel</Male_Graeme_Debbel_EMPTY.last>
+    <Male_Graeme_Debbel_EMPTY.first>格雷姆</Male_Graeme_Debbel_EMPTY.first>
+    <Male_Graeme_Debbel_EMPTY.last>达波尔</Male_Graeme_Debbel_EMPTY.last>
   </li>
   <li Gender="Female" first="Setsuna" last="Isenra" nick="Setsu">
-    <Female_Setsuna_Isenra_Setsu.first>Setsuna</Female_Setsuna_Isenra_Setsu.first>
-    <Female_Setsuna_Isenra_Setsu.last>Isenra</Female_Setsuna_Isenra_Setsu.last>
-    <Female_Setsuna_Isenra_Setsu.nick>Setsu</Female_Setsuna_Isenra_Setsu.nick>
+    <Female_Setsuna_Isenra_Setsu.first>雪菜</Female_Setsuna_Isenra_Setsu.first>
+    <Female_Setsuna_Isenra_Setsu.last>伊仙</Female_Setsuna_Isenra_Setsu.last>
+    <Female_Setsuna_Isenra_Setsu.nick>小雪</Female_Setsuna_Isenra_Setsu.nick>
   </li>
   <li Gender="Male" first="Gills" last="Minnow" nick="Minnow">
-    <Male_Gills_Minnow_Minnow.first>Gills</Male_Gills_Minnow_Minnow.first>
-    <Male_Gills_Minnow_Minnow.last>Minnow</Male_Gills_Minnow_Minnow.last>
-    <Male_Gills_Minnow_Minnow.nick>Minnow</Male_Gills_Minnow_Minnow.nick>
+    <Male_Gills_Minnow_Minnow.first>吉尔斯</Male_Gills_Minnow_Minnow.first>
+    <Male_Gills_Minnow_Minnow.last>米诺</Male_Gills_Minnow_Minnow.last>
+    <Male_Gills_Minnow_Minnow.nick>米诺</Male_Gills_Minnow_Minnow.nick>
   </li>
   <li Gender="Male" first="Arion" last="Gobeil">
-    <Male_Arion_Gobeil_EMPTY.first>Arion</Male_Arion_Gobeil_EMPTY.first>
-    <Male_Arion_Gobeil_EMPTY.last>Gobeil</Male_Arion_Gobeil_EMPTY.last>
+    <Male_Arion_Gobeil_EMPTY.first>阿里翁</Male_Arion_Gobeil_EMPTY.first>
+    <Male_Arion_Gobeil_EMPTY.last>戈贝伊</Male_Arion_Gobeil_EMPTY.last>
   </li>
   <li Gender="Male" first="Jaymz" last="Ferro" nick="Ferro">
-    <Male_Jaymz_Ferro_Ferro.first>Jaymz</Male_Jaymz_Ferro_Ferro.first>
-    <Male_Jaymz_Ferro_Ferro.last>Ferro</Male_Jaymz_Ferro_Ferro.last>
-    <Male_Jaymz_Ferro_Ferro.nick>Ferro</Male_Jaymz_Ferro_Ferro.nick>
+    <Male_Jaymz_Ferro_Ferro.first>詹姆兹</Male_Jaymz_Ferro_Ferro.first>
+    <Male_Jaymz_Ferro_Ferro.last>费罗</Male_Jaymz_Ferro_Ferro.last>
+    <Male_Jaymz_Ferro_Ferro.nick>费罗</Male_Jaymz_Ferro_Ferro.nick>
   </li>
   <li Gender="Female" first="Ame" last="Aziere" nick="Ame">
-    <Female_Ame_Aziere_Ame.first>Ame</Female_Ame_Aziere_Ame.first>
-    <Female_Ame_Aziere_Ame.last>Aziere</Female_Ame_Aziere_Ame.last>
-    <Female_Ame_Aziere_Ame.nick>Ame</Female_Ame_Aziere_Ame.nick>
+    <Female_Ame_Aziere_Ame.first>阿梅</Female_Ame_Aziere_Ame.first>
+    <Female_Ame_Aziere_Ame.last>阿齐埃</Female_Ame_Aziere_Ame.last>
+    <Female_Ame_Aziere_Ame.nick>阿梅</Female_Ame_Aziere_Ame.nick>
   </li>
   <li Gender="Male" first="Eddy" last="Jansson" nick="Leif">
-    <Male_Eddy_Jansson_Leif.first>Eddy</Male_Eddy_Jansson_Leif.first>
-    <Male_Eddy_Jansson_Leif.last>Jansson</Male_Eddy_Jansson_Leif.last>
-    <Male_Eddy_Jansson_Leif.nick>Leif</Male_Eddy_Jansson_Leif.nick>
+    <Male_Eddy_Jansson_Leif.first>艾迪</Male_Eddy_Jansson_Leif.first>
+    <Male_Eddy_Jansson_Leif.last>扬松</Male_Eddy_Jansson_Leif.last>
+    <Male_Eddy_Jansson_Leif.nick>雷夫</Male_Eddy_Jansson_Leif.nick>
   </li>
   <li Gender="Male" first="Walerian" last="Chlebek" nick="Walie">
-    <Male_Walerian_Chlebek_Walie.first>Walerian</Male_Walerian_Chlebek_Walie.first>
-    <Male_Walerian_Chlebek_Walie.last>Chlebek</Male_Walerian_Chlebek_Walie.last>
-    <Male_Walerian_Chlebek_Walie.nick>Walie</Male_Walerian_Chlebek_Walie.nick>
+    <Male_Walerian_Chlebek_Walie.first>瓦莱里安</Male_Walerian_Chlebek_Walie.first>
+    <Male_Walerian_Chlebek_Walie.last>赫莱贝茨</Male_Walerian_Chlebek_Walie.last>
+    <Male_Walerian_Chlebek_Walie.nick>瓦莱</Male_Walerian_Chlebek_Walie.nick>
   </li>
   <li Gender="Male" first="Luis" last="Vital" nick="Silver">
-    <Male_Luis_Vital_Silver.first>Luis</Male_Luis_Vital_Silver.first>
-    <Male_Luis_Vital_Silver.last>Vital</Male_Luis_Vital_Silver.last>
-    <Male_Luis_Vital_Silver.nick>Silver</Male_Luis_Vital_Silver.nick>
+    <Male_Luis_Vital_Silver.first>路易斯</Male_Luis_Vital_Silver.first>
+    <Male_Luis_Vital_Silver.last>维塔尔</Male_Luis_Vital_Silver.last>
+    <Male_Luis_Vital_Silver.nick>西尔弗</Male_Luis_Vital_Silver.nick>
   </li>
   <li Gender="Either" first="Erie" last="Riggs" nick="Diver">
-    <Either_Erie_Riggs_Diver.first>Erie</Either_Erie_Riggs_Diver.first>
-    <Either_Erie_Riggs_Diver.last>Riggs</Either_Erie_Riggs_Diver.last>
-    <Either_Erie_Riggs_Diver.nick>Diver</Either_Erie_Riggs_Diver.nick>
+    <Either_Erie_Riggs_Diver.first>伊利</Either_Erie_Riggs_Diver.first>
+    <Either_Erie_Riggs_Diver.last>里格斯</Either_Erie_Riggs_Diver.last>
+    <Either_Erie_Riggs_Diver.nick>潜水员</Either_Erie_Riggs_Diver.nick>
   </li>
   <li Gender="Male" first="Islorn" last="Orpheus" nick="Iso">
-    <Male_Islorn_Orpheus_Iso.first>Islorn</Male_Islorn_Orpheus_Iso.first>
-    <Male_Islorn_Orpheus_Iso.last>Orpheus</Male_Islorn_Orpheus_Iso.last>
-    <Male_Islorn_Orpheus_Iso.nick>Iso</Male_Islorn_Orpheus_Iso.nick>
+    <Male_Islorn_Orpheus_Iso.first>伊泽兰</Male_Islorn_Orpheus_Iso.first>
+    <Male_Islorn_Orpheus_Iso.last>奥菲斯</Male_Islorn_Orpheus_Iso.last>
+    <Male_Islorn_Orpheus_Iso.nick>伊泽</Male_Islorn_Orpheus_Iso.nick>
   </li>
   <li Gender="Male" first="Wilhelm" last="Vors" nick="Will">
-    <Male_Wilhelm_Vors_Will.first>Wilhelm</Male_Wilhelm_Vors_Will.first>
-    <Male_Wilhelm_Vors_Will.last>Vors</Male_Wilhelm_Vors_Will.last>
-    <Male_Wilhelm_Vors_Will.nick>Will</Male_Wilhelm_Vors_Will.nick>
+    <Male_Wilhelm_Vors_Will.first>威廉</Male_Wilhelm_Vors_Will.first>
+    <Male_Wilhelm_Vors_Will.last>沃尔</Male_Wilhelm_Vors_Will.last>
+    <Male_Wilhelm_Vors_Will.nick>威尔</Male_Wilhelm_Vors_Will.nick>
   </li>
   <li Gender="Male" first="Darakia" last="Darus" nick="Dar">
-    <Male_Darakia_Darus_Dar.first>Darakia</Male_Darakia_Darus_Dar.first>
-    <Male_Darakia_Darus_Dar.last>Darus</Male_Darakia_Darus_Dar.last>
-    <Male_Darakia_Darus_Dar.nick>Dar</Male_Darakia_Darus_Dar.nick>
+    <Male_Darakia_Darus_Dar.first>达拉齐亚</Male_Darakia_Darus_Dar.first>
+    <Male_Darakia_Darus_Dar.last>达鲁斯</Male_Darakia_Darus_Dar.last>
+    <Male_Darakia_Darus_Dar.nick>达</Male_Darakia_Darus_Dar.nick>
   </li>
   <li Gender="Male" first="Borre" last="Lien" nick="Bamsefar">
-    <Male_Borre_Lien_Bamsefar.first>Borre</Male_Borre_Lien_Bamsefar.first>
-    <Male_Borre_Lien_Bamsefar.last>Lien</Male_Borre_Lien_Bamsefar.last>
-    <Male_Borre_Lien_Bamsefar.nick>Bamsefar</Male_Borre_Lien_Bamsefar.nick>
+    <Male_Borre_Lien_Bamsefar.first>博雷</Male_Borre_Lien_Bamsefar.first>
+    <Male_Borre_Lien_Bamsefar.last>利恩</Male_Borre_Lien_Bamsefar.last>
+    <Male_Borre_Lien_Bamsefar.nick>班索法</Male_Borre_Lien_Bamsefar.nick>
   </li>
   <li Gender="Either" first="Itamu" last="Dakana'Iasan" nick="Itamu">
-    <Either_Itamu_DakanaIasan_Itamu.first>Itamu</Either_Itamu_DakanaIasan_Itamu.first>
-    <Either_Itamu_DakanaIasan_Itamu.last>Dakana'Iasan</Either_Itamu_DakanaIasan_Itamu.last>
-    <Either_Itamu_DakanaIasan_Itamu.nick>Itamu</Either_Itamu_DakanaIasan_Itamu.nick>
+    <Either_Itamu_DakanaIasan_Itamu.first>伊塔穆</Either_Itamu_DakanaIasan_Itamu.first>
+    <Either_Itamu_DakanaIasan_Itamu.last>达卡那伊圣</Either_Itamu_DakanaIasan_Itamu.last>
+    <Either_Itamu_DakanaIasan_Itamu.nick>伊塔穆</Either_Itamu_DakanaIasan_Itamu.nick>
   </li>
   <li Gender="Male" first="Taylor" last="Edgell" nick="Duke">
-    <Male_Taylor_Edgell_Duke.first>Taylor</Male_Taylor_Edgell_Duke.first>
-    <Male_Taylor_Edgell_Duke.last>Edgell</Male_Taylor_Edgell_Duke.last>
-    <Male_Taylor_Edgell_Duke.nick>Duke</Male_Taylor_Edgell_Duke.nick>
+    <Male_Taylor_Edgell_Duke.first>泰勒</Male_Taylor_Edgell_Duke.first>
+    <Male_Taylor_Edgell_Duke.last>埃杰尔</Male_Taylor_Edgell_Duke.last>
+    <Male_Taylor_Edgell_Duke.nick>公爵</Male_Taylor_Edgell_Duke.nick>
   </li>
   <li Gender="Male" first="Henrique" last="Mello" nick="Xis">
-    <Male_Henrique_Mello_Xis.first>Henrique</Male_Henrique_Mello_Xis.first>
-    <Male_Henrique_Mello_Xis.last>Mello</Male_Henrique_Mello_Xis.last>
-    <Male_Henrique_Mello_Xis.nick>Xis</Male_Henrique_Mello_Xis.nick>
+    <Male_Henrique_Mello_Xis.first>恩里克</Male_Henrique_Mello_Xis.first>
+    <Male_Henrique_Mello_Xis.last>梅洛</Male_Henrique_Mello_Xis.last>
+    <Male_Henrique_Mello_Xis.nick>希斯</Male_Henrique_Mello_Xis.nick>
   </li>
   <li Gender="Male" first="Jieming" last="Chew" nick="Chewie">
-    <Male_Jieming_Chew_Chewie.first>Jieming</Male_Jieming_Chew_Chewie.first>
-    <Male_Jieming_Chew_Chewie.last>Chew</Male_Jieming_Chew_Chewie.last>
-    <Male_Jieming_Chew_Chewie.nick>Chewie</Male_Jieming_Chew_Chewie.nick>
+    <Male_Jieming_Chew_Chewie.first>杰明</Male_Jieming_Chew_Chewie.first>
+    <Male_Jieming_Chew_Chewie.last>邱</Male_Jieming_Chew_Chewie.last>
+    <Male_Jieming_Chew_Chewie.nick>小邱</Male_Jieming_Chew_Chewie.nick>
   </li>
   <li Gender="Male" first="Mika" last="Reisenen" nick="Tank">
-    <Male_Mika_Reisenen_Tank.first>Mika</Male_Mika_Reisenen_Tank.first>
-    <Male_Mika_Reisenen_Tank.last>Reisenen</Male_Mika_Reisenen_Tank.last>
-    <Male_Mika_Reisenen_Tank.nick>Tank</Male_Mika_Reisenen_Tank.nick>
+    <Male_Mika_Reisenen_Tank.first>米卡</Male_Mika_Reisenen_Tank.first>
+    <Male_Mika_Reisenen_Tank.last>赖森</Male_Mika_Reisenen_Tank.last>
+    <Male_Mika_Reisenen_Tank.nick>水箱</Male_Mika_Reisenen_Tank.nick>
   </li>
   <li Gender="Either" first="Dallas" last="Suttles">
-    <Either_Dallas_Suttles_EMPTY.first>Dallas</Either_Dallas_Suttles_EMPTY.first>
-    <Either_Dallas_Suttles_EMPTY.last>Suttles</Either_Dallas_Suttles_EMPTY.last>
+    <Either_Dallas_Suttles_EMPTY.first>达拉斯</Either_Dallas_Suttles_EMPTY.first>
+    <Either_Dallas_Suttles_EMPTY.last>萨特尔斯</Either_Dallas_Suttles_EMPTY.last>
   </li>
   <li Gender="Male" first="Miguel" last="Sousa" nick="Sésto">
-    <Male_Miguel_Sousa_Sésto.first>Miguel</Male_Miguel_Sousa_Sésto.first>
-    <Male_Miguel_Sousa_Sésto.last>Sousa</Male_Miguel_Sousa_Sésto.last>
-    <Male_Miguel_Sousa_Sésto.nick>Sésto</Male_Miguel_Sousa_Sésto.nick>
+    <Male_Miguel_Sousa_Sésto.first>米格尔</Male_Miguel_Sousa_Sésto.first>
+    <Male_Miguel_Sousa_Sésto.last>索萨</Male_Miguel_Sousa_Sésto.last>
+    <Male_Miguel_Sousa_Sésto.nick>塞斯托</Male_Miguel_Sousa_Sésto.nick>
   </li>
   <li Gender="Male" first="Date" last="Eiji" nick="Tetsuo">
-    <Male_Date_Eiji_Tetsuo.first>Date</Male_Date_Eiji_Tetsuo.first>
-    <Male_Date_Eiji_Tetsuo.last>Eiji</Male_Date_Eiji_Tetsuo.last>
-    <Male_Date_Eiji_Tetsuo.nick>Tetsuo</Male_Date_Eiji_Tetsuo.nick>
+    <Male_Date_Eiji_Tetsuo.first>伊达</Male_Date_Eiji_Tetsuo.first>
+    <Male_Date_Eiji_Tetsuo.last>英治</Male_Date_Eiji_Tetsuo.last>
+    <Male_Date_Eiji_Tetsuo.nick>哲男</Male_Date_Eiji_Tetsuo.nick>
   </li>
   <li Gender="Female" first="Vernalyn" last="Taganna" nick="Lyn">
-    <Female_Vernalyn_Taganna_Lyn.first>Vernalyn</Female_Vernalyn_Taganna_Lyn.first>
-    <Female_Vernalyn_Taganna_Lyn.last>Taganna</Female_Vernalyn_Taganna_Lyn.last>
-    <Female_Vernalyn_Taganna_Lyn.nick>Lyn</Female_Vernalyn_Taganna_Lyn.nick>
+    <Female_Vernalyn_Taganna_Lyn.first>韦尔纳琳</Female_Vernalyn_Taganna_Lyn.first>
+    <Female_Vernalyn_Taganna_Lyn.last>塔佳纳</Female_Vernalyn_Taganna_Lyn.last>
+    <Female_Vernalyn_Taganna_Lyn.nick>琳</Female_Vernalyn_Taganna_Lyn.nick>
   </li>
   <li Gender="Male" first="Kanata" last="Asama" nick="Alla">
-    <Male_Kanata_Asama_Alla.first>Kanata</Male_Kanata_Asama_Alla.first>
-    <Male_Kanata_Asama_Alla.last>Asama</Male_Kanata_Asama_Alla.last>
-    <Male_Kanata_Asama_Alla.nick>Alla</Male_Kanata_Asama_Alla.nick>
+    <Male_Kanata_Asama_Alla.first>卡纳塔</Male_Kanata_Asama_Alla.first>
+    <Male_Kanata_Asama_Alla.last>阿萨马</Male_Kanata_Asama_Alla.last>
+    <Male_Kanata_Asama_Alla.nick>阿拉</Male_Kanata_Asama_Alla.nick>
   </li>
   <li Gender="Male" first="Tomasa" last="Kisa" nick="Salamo">
-    <Male_Tomasa_Kisa_Salamo.first>Tomasa</Male_Tomasa_Kisa_Salamo.first>
-    <Male_Tomasa_Kisa_Salamo.last>Kisa</Male_Tomasa_Kisa_Salamo.last>
-    <Male_Tomasa_Kisa_Salamo.nick>Salamo</Male_Tomasa_Kisa_Salamo.nick>
+    <Male_Tomasa_Kisa_Salamo.first>托马萨</Male_Tomasa_Kisa_Salamo.first>
+    <Male_Tomasa_Kisa_Salamo.last>克萨</Male_Tomasa_Kisa_Salamo.last>
+    <Male_Tomasa_Kisa_Salamo.nick>萨拉马</Male_Tomasa_Kisa_Salamo.nick>
   </li>
   <li Gender="Female" first="Sherry" last="Glasgow">
-    <Female_Sherry_Glasgow_EMPTY.first>Sherry</Female_Sherry_Glasgow_EMPTY.first>
-    <Female_Sherry_Glasgow_EMPTY.last>Glasgow</Female_Sherry_Glasgow_EMPTY.last>
+    <Female_Sherry_Glasgow_EMPTY.first>雪莉</Female_Sherry_Glasgow_EMPTY.first>
+    <Female_Sherry_Glasgow_EMPTY.last>格拉斯哥</Female_Sherry_Glasgow_EMPTY.last>
   </li>
   <li Gender="Female" first="Katrine" last="Korogo" nick="Kat">
-    <Female_Katrine_Korogo_Kat.first>Katrine</Female_Katrine_Korogo_Kat.first>
-    <Female_Katrine_Korogo_Kat.last>Korogo</Female_Katrine_Korogo_Kat.last>
-    <Female_Katrine_Korogo_Kat.nick>Kat</Female_Katrine_Korogo_Kat.nick>
+    <Female_Katrine_Korogo_Kat.first>凯特琳</Female_Katrine_Korogo_Kat.first>
+    <Female_Katrine_Korogo_Kat.last>科罗格</Female_Katrine_Korogo_Kat.last>
+    <Female_Katrine_Korogo_Kat.nick>凯特</Female_Katrine_Korogo_Kat.nick>
   </li>
   <li Gender="Male" first="Jalil-Ahmad" last="Sharif" nick="Jalil">
-    <Male_Jalil-Ahmad_Sharif_Jalil.first>Jalil-Ahmad</Male_Jalil-Ahmad_Sharif_Jalil.first>
-    <Male_Jalil-Ahmad_Sharif_Jalil.last>Sharif</Male_Jalil-Ahmad_Sharif_Jalil.last>
-    <Male_Jalil-Ahmad_Sharif_Jalil.nick>Jalil</Male_Jalil-Ahmad_Sharif_Jalil.nick>
+    <Male_Jalil-Ahmad_Sharif_Jalil.first>贾利勒艾哈迈德</Male_Jalil-Ahmad_Sharif_Jalil.first>
+    <Male_Jalil-Ahmad_Sharif_Jalil.last>谢里夫</Male_Jalil-Ahmad_Sharif_Jalil.last>
+    <Male_Jalil-Ahmad_Sharif_Jalil.nick>贾利勒</Male_Jalil-Ahmad_Sharif_Jalil.nick>
   </li>
   <li Gender="Either" first="Gamma" last="Zeaman" nick="Gooey">
-    <Either_Gamma_Zeaman_Gooey.first>Gamma</Either_Gamma_Zeaman_Gooey.first>
-    <Either_Gamma_Zeaman_Gooey.last>Zeaman</Either_Gamma_Zeaman_Gooey.last>
-    <Either_Gamma_Zeaman_Gooey.nick>Gooey</Either_Gamma_Zeaman_Gooey.nick>
+    <Either_Gamma_Zeaman_Gooey.first>伽玛</Either_Gamma_Zeaman_Gooey.first>
+    <Either_Gamma_Zeaman_Gooey.last>泽曼</Either_Gamma_Zeaman_Gooey.last>
+    <Either_Gamma_Zeaman_Gooey.nick>古伊</Either_Gamma_Zeaman_Gooey.nick>
   </li>
   <li Gender="Female" first="Patricia" last="Heintz" nick="Pattie">
-    <Female_Patricia_Heintz_Pattie.first>Patricia</Female_Patricia_Heintz_Pattie.first>
-    <Female_Patricia_Heintz_Pattie.last>Heintz</Female_Patricia_Heintz_Pattie.last>
-    <Female_Patricia_Heintz_Pattie.nick>Pattie</Female_Patricia_Heintz_Pattie.nick>
+    <Female_Patricia_Heintz_Pattie.first>帕特里夏</Female_Patricia_Heintz_Pattie.first>
+    <Female_Patricia_Heintz_Pattie.last>海因茨</Female_Patricia_Heintz_Pattie.last>
+    <Female_Patricia_Heintz_Pattie.nick>帕蒂</Female_Patricia_Heintz_Pattie.nick>
   </li>
   <li Gender="Male" first="Neb" last="Aro">
-    <Male_Neb_Aro_EMPTY.first>Neb</Male_Neb_Aro_EMPTY.first>
-    <Male_Neb_Aro_EMPTY.last>Aro</Male_Neb_Aro_EMPTY.last>
+    <Male_Neb_Aro_EMPTY.first>内布</Male_Neb_Aro_EMPTY.first>
+    <Male_Neb_Aro_EMPTY.last>阿罗</Male_Neb_Aro_EMPTY.last>
   </li>
   <li Gender="Male" first="Horaxius" last="Octavian" nick="Wolf">
-    <Male_Horaxius_Octavian_Wolf.first>Horaxius</Male_Horaxius_Octavian_Wolf.first>
-    <Male_Horaxius_Octavian_Wolf.last>Octavian</Male_Horaxius_Octavian_Wolf.last>
-    <Male_Horaxius_Octavian_Wolf.nick>Wolf</Male_Horaxius_Octavian_Wolf.nick>
+    <Male_Horaxius_Octavian_Wolf.first>霍拉克修斯</Male_Horaxius_Octavian_Wolf.first>
+    <Male_Horaxius_Octavian_Wolf.last>奥克塔维安</Male_Horaxius_Octavian_Wolf.last>
+    <Male_Horaxius_Octavian_Wolf.nick>狼</Male_Horaxius_Octavian_Wolf.nick>
   </li>
   <li Gender="Male" first="Calton" last="Cauthorn" nick="Cal">
-    <Male_Calton_Cauthorn_Cal.first>Calton</Male_Calton_Cauthorn_Cal.first>
-    <Male_Calton_Cauthorn_Cal.last>Cauthorn</Male_Calton_Cauthorn_Cal.last>
-    <Male_Calton_Cauthorn_Cal.nick>Cal</Male_Calton_Cauthorn_Cal.nick>
+    <Male_Calton_Cauthorn_Cal.first>卡尔顿</Male_Calton_Cauthorn_Cal.first>
+    <Male_Calton_Cauthorn_Cal.last>考索恩</Male_Calton_Cauthorn_Cal.last>
+    <Male_Calton_Cauthorn_Cal.nick>卡尔</Male_Calton_Cauthorn_Cal.nick>
   </li>
   <li Gender="Male" first="Fajaffa" last="Raskolnikov" nick="Fajaffa">
-    <Male_Fajaffa_Raskolnikov_Fajaffa.first>Fajaffa</Male_Fajaffa_Raskolnikov_Fajaffa.first>
-    <Male_Fajaffa_Raskolnikov_Fajaffa.last>Raskolnikov</Male_Fajaffa_Raskolnikov_Fajaffa.last>
-    <Male_Fajaffa_Raskolnikov_Fajaffa.nick>Fajaffa</Male_Fajaffa_Raskolnikov_Fajaffa.nick>
+    <Male_Fajaffa_Raskolnikov_Fajaffa.first>法加法</Male_Fajaffa_Raskolnikov_Fajaffa.first>
+    <Male_Fajaffa_Raskolnikov_Fajaffa.last>拉斯科利尼科夫</Male_Fajaffa_Raskolnikov_Fajaffa.last>
+    <Male_Fajaffa_Raskolnikov_Fajaffa.nick>法加法</Male_Fajaffa_Raskolnikov_Fajaffa.nick>
   </li>
   <li Gender="Female" first="Artemisia" last="Thrip" nick="Arty">
-    <Female_Artemisia_Thrip_Arty.first>Artemisia</Female_Artemisia_Thrip_Arty.first>
-    <Female_Artemisia_Thrip_Arty.last>Thrip</Female_Artemisia_Thrip_Arty.last>
-    <Female_Artemisia_Thrip_Arty.nick>Arty</Female_Artemisia_Thrip_Arty.nick>
+    <Female_Artemisia_Thrip_Arty.first>阿尔泰米西娅</Female_Artemisia_Thrip_Arty.first>
+    <Female_Artemisia_Thrip_Arty.last>思里普</Female_Artemisia_Thrip_Arty.last>
+    <Female_Artemisia_Thrip_Arty.nick>阿蒂</Female_Artemisia_Thrip_Arty.nick>
   </li>
   <li Gender="Either" first="Lucas" last="Holbeche" nick="Lucas">
-    <Either_Lucas_Holbeche_Lucas.first>Lucas</Either_Lucas_Holbeche_Lucas.first>
-    <Either_Lucas_Holbeche_Lucas.last>Holbeche</Either_Lucas_Holbeche_Lucas.last>
-    <Either_Lucas_Holbeche_Lucas.nick>Lucas</Either_Lucas_Holbeche_Lucas.nick>
+    <Either_Lucas_Holbeche_Lucas.first>卢卡斯</Either_Lucas_Holbeche_Lucas.first>
+    <Either_Lucas_Holbeche_Lucas.last>霍尔比奇</Either_Lucas_Holbeche_Lucas.last>
+    <Either_Lucas_Holbeche_Lucas.nick>卢卡斯</Either_Lucas_Holbeche_Lucas.nick>
   </li>
   <li Gender="Male" first="Tingshen" last="Zhou" nick="roulston">
-    <Male_Tingshen_Zhou_roulston.first>Tingshen</Male_Tingshen_Zhou_roulston.first>
-    <Male_Tingshen_Zhou_roulston.last>Zhou</Male_Tingshen_Zhou_roulston.last>
-    <Male_Tingshen_Zhou_roulston.nick>roulston</Male_Tingshen_Zhou_roulston.nick>
+    <Male_Tingshen_Zhou_roulston.first>庭深</Male_Tingshen_Zhou_roulston.first>
+    <Male_Tingshen_Zhou_roulston.last>周</Male_Tingshen_Zhou_roulston.last>
+    <Male_Tingshen_Zhou_roulston.nick>鲁尔斯顿</Male_Tingshen_Zhou_roulston.nick>
   </li>
   <li Gender="Female" first="Kordelia" last="Dermann" nick="Kord">
-    <Female_Kordelia_Dermann_Kord.first>Kordelia</Female_Kordelia_Dermann_Kord.first>
-    <Female_Kordelia_Dermann_Kord.last>Dermann</Female_Kordelia_Dermann_Kord.last>
-    <Female_Kordelia_Dermann_Kord.nick>Kord</Female_Kordelia_Dermann_Kord.nick>
+    <Female_Kordelia_Dermann_Kord.first>科迪莉亚</Female_Kordelia_Dermann_Kord.first>
+    <Female_Kordelia_Dermann_Kord.last>德曼</Female_Kordelia_Dermann_Kord.last>
+    <Female_Kordelia_Dermann_Kord.nick>科德</Female_Kordelia_Dermann_Kord.nick>
   </li>
   <li Gender="Male" first="Namjai" last="Teeluk" nick="Namjai">
-    <Male_Namjai_Teeluk_Namjai.first>Namjai</Male_Namjai_Teeluk_Namjai.first>
-    <Male_Namjai_Teeluk_Namjai.last>Teeluk</Male_Namjai_Teeluk_Namjai.last>
-    <Male_Namjai_Teeluk_Namjai.nick>Namjai</Male_Namjai_Teeluk_Namjai.nick>
+    <Male_Namjai_Teeluk_Namjai.first>纳米埃</Male_Namjai_Teeluk_Namjai.first>
+    <Male_Namjai_Teeluk_Namjai.last>蒂卢克</Male_Namjai_Teeluk_Namjai.last>
+    <Male_Namjai_Teeluk_Namjai.nick>纳米埃</Male_Namjai_Teeluk_Namjai.nick>
   </li>
   <li Gender="Male" first="Conner" last="Rink" nick="Steven">
-    <Male_Conner_Rink_Steven.first>Conner</Male_Conner_Rink_Steven.first>
-    <Male_Conner_Rink_Steven.last>Rink</Male_Conner_Rink_Steven.last>
-    <Male_Conner_Rink_Steven.nick>Steven</Male_Conner_Rink_Steven.nick>
+    <Male_Conner_Rink_Steven.first>康纳</Male_Conner_Rink_Steven.first>
+    <Male_Conner_Rink_Steven.last>林克</Male_Conner_Rink_Steven.last>
+    <Male_Conner_Rink_Steven.nick>史蒂文</Male_Conner_Rink_Steven.nick>
   </li>
   <li Gender="Male" first="Selmephren" last="Lightmeld" nick="Selm">
-    <Male_Selmephren_Lightmeld_Selm.first>Selmephren</Male_Selmephren_Lightmeld_Selm.first>
-    <Male_Selmephren_Lightmeld_Selm.last>Lightmeld</Male_Selmephren_Lightmeld_Selm.last>
-    <Male_Selmephren_Lightmeld_Selm.nick>Selm</Male_Selmephren_Lightmeld_Selm.nick>
+    <Male_Selmephren_Lightmeld_Selm.first>谢尔梅普恩</Male_Selmephren_Lightmeld_Selm.first>
+    <Male_Selmephren_Lightmeld_Selm.last>莱特梅尔德</Male_Selmephren_Lightmeld_Selm.last>
+    <Male_Selmephren_Lightmeld_Selm.nick>谢尔姆</Male_Selmephren_Lightmeld_Selm.nick>
   </li>
   <li Gender="Male" first="Arshes" last="Ludenval" nick="Arshes">
-    <Male_Arshes_Ludenval_Arshes.first>Arshes</Male_Arshes_Ludenval_Arshes.first>
-    <Male_Arshes_Ludenval_Arshes.last>Ludenval</Male_Arshes_Ludenval_Arshes.last>
-    <Male_Arshes_Ludenval_Arshes.nick>Arshes</Male_Arshes_Ludenval_Arshes.nick>
+    <Male_Arshes_Ludenval_Arshes.first>阿瑟斯</Male_Arshes_Ludenval_Arshes.first>
+    <Male_Arshes_Ludenval_Arshes.last>卢丹瓦尔</Male_Arshes_Ludenval_Arshes.last>
+    <Male_Arshes_Ludenval_Arshes.nick>阿瑟斯</Male_Arshes_Ludenval_Arshes.nick>
   </li>
   <li Gender="Male" first="Akira" last="Kaneda" nick="Ark">
-    <Male_Akira_Kaneda_Ark.first>Akira</Male_Akira_Kaneda_Ark.first>
-    <Male_Akira_Kaneda_Ark.last>Kaneda</Male_Akira_Kaneda_Ark.last>
-    <Male_Akira_Kaneda_Ark.nick>Ark</Male_Akira_Kaneda_Ark.nick>
+    <Male_Akira_Kaneda_Ark.first>亮</Male_Akira_Kaneda_Ark.first>
+    <Male_Akira_Kaneda_Ark.last>金田</Male_Akira_Kaneda_Ark.last>
+    <Male_Akira_Kaneda_Ark.nick>亮</Male_Akira_Kaneda_Ark.nick>
   </li>
   <li Gender="Female" first="Keegras" last="Mier" nick="Keegs">
-    <Female_Keegras_Mier_Keegs.first>Keegras</Female_Keegras_Mier_Keegs.first>
-    <Female_Keegras_Mier_Keegs.last>Mier</Female_Keegras_Mier_Keegs.last>
-    <Female_Keegras_Mier_Keegs.nick>Keegs</Female_Keegras_Mier_Keegs.nick>
+    <Female_Keegras_Mier_Keegs.first>基加斯</Female_Keegras_Mier_Keegs.first>
+    <Female_Keegras_Mier_Keegs.last>米尔</Female_Keegras_Mier_Keegs.last>
+    <Female_Keegras_Mier_Keegs.nick>基尔斯</Female_Keegras_Mier_Keegs.nick>
   </li>
   <li Gender="Male" first="Raziel" last="Ryuki" nick="Ryu">
-    <Male_Raziel_Ryuki_Ryu.first>Raziel</Male_Raziel_Ryuki_Ryu.first>
-    <Male_Raziel_Ryuki_Ryu.last>Ryuki</Male_Raziel_Ryuki_Ryu.last>
-    <Male_Raziel_Ryuki_Ryu.nick>Ryu</Male_Raziel_Ryuki_Ryu.nick>
+    <Male_Raziel_Ryuki_Ryu.first>拉塞尔</Male_Raziel_Ryuki_Ryu.first>
+    <Male_Raziel_Ryuki_Ryu.last>隆吉</Male_Raziel_Ryuki_Ryu.last>
+    <Male_Raziel_Ryuki_Ryu.nick>隆</Male_Raziel_Ryuki_Ryu.nick>
   </li>
   <li Gender="Male" first="Zedorick" last="Eddory" nick="Zed">
-    <Male_Zedorick_Eddory_Zed.first>Zedorick</Male_Zedorick_Eddory_Zed.first>
-    <Male_Zedorick_Eddory_Zed.last>Eddory</Male_Zedorick_Eddory_Zed.last>
-    <Male_Zedorick_Eddory_Zed.nick>Zed</Male_Zedorick_Eddory_Zed.nick>
+    <Male_Zedorick_Eddory_Zed.first>泽多里克</Male_Zedorick_Eddory_Zed.first>
+    <Male_Zedorick_Eddory_Zed.last>艾多利</Male_Zedorick_Eddory_Zed.last>
+    <Male_Zedorick_Eddory_Zed.nick>泽德</Male_Zedorick_Eddory_Zed.nick>
   </li>
   <li Gender="Either" first="Jess" last="Spile" nick="Aranica">
-    <Either_Jess_Spile_Aranica.first>Jess</Either_Jess_Spile_Aranica.first>
-    <Either_Jess_Spile_Aranica.last>Spile</Either_Jess_Spile_Aranica.last>
-    <Either_Jess_Spile_Aranica.nick>Aranica</Either_Jess_Spile_Aranica.nick>
+    <Either_Jess_Spile_Aranica.first>耶斯</Either_Jess_Spile_Aranica.first>
+    <Either_Jess_Spile_Aranica.last>斯皮尔</Either_Jess_Spile_Aranica.last>
+    <Either_Jess_Spile_Aranica.nick>阿拉尼卡</Either_Jess_Spile_Aranica.nick>
   </li>
   <li Gender="Male" first="Dirk" last="Ehrhardt" nick="Theo">
-    <Male_Dirk_Ehrhardt_Theo.first>Dirk</Male_Dirk_Ehrhardt_Theo.first>
-    <Male_Dirk_Ehrhardt_Theo.last>Ehrhardt</Male_Dirk_Ehrhardt_Theo.last>
-    <Male_Dirk_Ehrhardt_Theo.nick>Theo</Male_Dirk_Ehrhardt_Theo.nick>
+    <Male_Dirk_Ehrhardt_Theo.first>德克</Male_Dirk_Ehrhardt_Theo.first>
+    <Male_Dirk_Ehrhardt_Theo.last>埃尔哈特</Male_Dirk_Ehrhardt_Theo.last>
+    <Male_Dirk_Ehrhardt_Theo.nick>西奥</Male_Dirk_Ehrhardt_Theo.nick>
   </li>
   <li Gender="Male" first="Pira" last="Novikov" nick="Pira">
-    <Male_Pira_Novikov_Pira.first>Pira</Male_Pira_Novikov_Pira.first>
-    <Male_Pira_Novikov_Pira.last>Novikov</Male_Pira_Novikov_Pira.last>
-    <Male_Pira_Novikov_Pira.nick>Pira</Male_Pira_Novikov_Pira.nick>
+    <Male_Pira_Novikov_Pira.first>皮拉</Male_Pira_Novikov_Pira.first>
+    <Male_Pira_Novikov_Pira.last>诺维科夫</Male_Pira_Novikov_Pira.last>
+    <Male_Pira_Novikov_Pira.nick>皮拉</Male_Pira_Novikov_Pira.nick>
   </li>
   <li Gender="Male" first="Elliott" last="Callaway">
-    <Male_Elliott_Callaway_EMPTY.first>Elliott</Male_Elliott_Callaway_EMPTY.first>
-    <Male_Elliott_Callaway_EMPTY.last>Callaway</Male_Elliott_Callaway_EMPTY.last>
+    <Male_Elliott_Callaway_EMPTY.first>埃利奥特</Male_Elliott_Callaway_EMPTY.first>
+    <Male_Elliott_Callaway_EMPTY.last>卡拉韦</Male_Elliott_Callaway_EMPTY.last>
   </li>
   <li Gender="Male" first="Alistair" last="Huckstep" nick="Haggis">
-    <Male_Alistair_Huckstep_Haggis.first>Alistair</Male_Alistair_Huckstep_Haggis.first>
-    <Male_Alistair_Huckstep_Haggis.last>Huckstep</Male_Alistair_Huckstep_Haggis.last>
-    <Male_Alistair_Huckstep_Haggis.nick>Haggis</Male_Alistair_Huckstep_Haggis.nick>
+    <Male_Alistair_Huckstep_Haggis.first>阿利斯泰尔</Male_Alistair_Huckstep_Haggis.first>
+    <Male_Alistair_Huckstep_Haggis.last>哈克斯泰普</Male_Alistair_Huckstep_Haggis.last>
+    <Male_Alistair_Huckstep_Haggis.nick>阿吉</Male_Alistair_Huckstep_Haggis.nick>
   </li>
   <li Gender="Male" first="Allen" last="DeLarge" nick="Reptile">
-    <Male_Allen_DeLarge_Reptile.first>Allen</Male_Allen_DeLarge_Reptile.first>
-    <Male_Allen_DeLarge_Reptile.last>DeLarge</Male_Allen_DeLarge_Reptile.last>
-    <Male_Allen_DeLarge_Reptile.nick>Reptile</Male_Allen_DeLarge_Reptile.nick>
+    <Male_Allen_DeLarge_Reptile.first>阿伦</Male_Allen_DeLarge_Reptile.first>
+    <Male_Allen_DeLarge_Reptile.last>德拉热</Male_Allen_DeLarge_Reptile.last>
+    <Male_Allen_DeLarge_Reptile.nick>爬虫</Male_Allen_DeLarge_Reptile.nick>
   </li>
   <li Gender="Male" first="Foy" last="Saelee">
-    <Male_Foy_Saelee_EMPTY.first>Foy</Male_Foy_Saelee_EMPTY.first>
-    <Male_Foy_Saelee_EMPTY.last>Saelee</Male_Foy_Saelee_EMPTY.last>
+    <Male_Foy_Saelee_EMPTY.first>福伊</Male_Foy_Saelee_EMPTY.first>
+    <Male_Foy_Saelee_EMPTY.last>塞雷</Male_Foy_Saelee_EMPTY.last>
   </li>
   <li Gender="Male" first="Asate" last="Sharr">
-    <Male_Asate_Sharr_EMPTY.first>Asate</Male_Asate_Sharr_EMPTY.first>
-    <Male_Asate_Sharr_EMPTY.last>Sharr</Male_Asate_Sharr_EMPTY.last>
+    <Male_Asate_Sharr_EMPTY.first>阿萨特</Male_Asate_Sharr_EMPTY.first>
+    <Male_Asate_Sharr_EMPTY.last>沙拉</Male_Asate_Sharr_EMPTY.last>
   </li>
   <li Gender="Either" first="Dean" last="Hydronic" nick="Disaster">
-    <Either_Dean_Hydronic_Disaster.first>Dean</Either_Dean_Hydronic_Disaster.first>
-    <Either_Dean_Hydronic_Disaster.last>Hydronic</Either_Dean_Hydronic_Disaster.last>
-    <Either_Dean_Hydronic_Disaster.nick>Disaster</Either_Dean_Hydronic_Disaster.nick>
+    <Either_Dean_Hydronic_Disaster.first>迪安</Either_Dean_Hydronic_Disaster.first>
+    <Either_Dean_Hydronic_Disaster.last>海德罗尼克</Either_Dean_Hydronic_Disaster.last>
+    <Either_Dean_Hydronic_Disaster.nick>灾祸</Either_Dean_Hydronic_Disaster.nick>
   </li>
   <li Gender="Female" first="Trista" last="Claffey">
-    <Female_Trista_Claffey_EMPTY.first>Trista</Female_Trista_Claffey_EMPTY.first>
-    <Female_Trista_Claffey_EMPTY.last>Claffey</Female_Trista_Claffey_EMPTY.last>
+    <Female_Trista_Claffey_EMPTY.first>特里斯塔</Female_Trista_Claffey_EMPTY.first>
+    <Female_Trista_Claffey_EMPTY.last>科拉菲</Female_Trista_Claffey_EMPTY.last>
   </li>
   <li Gender="Male" first="Veit" last="Hartung">
-    <Male_Veit_Hartung_EMPTY.first>Veit</Male_Veit_Hartung_EMPTY.first>
-    <Male_Veit_Hartung_EMPTY.last>Hartung</Male_Veit_Hartung_EMPTY.last>
+    <Male_Veit_Hartung_EMPTY.first>维特</Male_Veit_Hartung_EMPTY.first>
+    <Male_Veit_Hartung_EMPTY.last>哈通</Male_Veit_Hartung_EMPTY.last>
   </li>
   <li Gender="Either" first="Zen" last="Song" nick="Kasen">
-    <Either_Zen_Song_Kasen.first>Zen</Either_Zen_Song_Kasen.first>
-    <Either_Zen_Song_Kasen.last>Song</Either_Zen_Song_Kasen.last>
-    <Either_Zen_Song_Kasen.nick>Kasen</Either_Zen_Song_Kasen.nick>
+    <Either_Zen_Song_Kasen.first>泽恩</Either_Zen_Song_Kasen.first>
+    <Either_Zen_Song_Kasen.last>桑</Either_Zen_Song_Kasen.last>
+    <Either_Zen_Song_Kasen.nick>卡森</Either_Zen_Song_Kasen.nick>
   </li>
   <li Gender="Male" first="Andrei" last="Baiu" nick="Drei">
-    <Male_Andrei_Baiu_Drei.first>Andrei</Male_Andrei_Baiu_Drei.first>
-    <Male_Andrei_Baiu_Drei.last>Baiu</Male_Andrei_Baiu_Drei.last>
-    <Male_Andrei_Baiu_Drei.nick>Drei</Male_Andrei_Baiu_Drei.nick>
+    <Male_Andrei_Baiu_Drei.first>安德烈</Male_Andrei_Baiu_Drei.first>
+    <Male_Andrei_Baiu_Drei.last>巴尤</Male_Andrei_Baiu_Drei.last>
+    <Male_Andrei_Baiu_Drei.nick>德雷伊</Male_Andrei_Baiu_Drei.nick>
   </li>
   <li Gender="Male" first="Donitz" last="Benger" nick="Donitz">
-    <Male_Donitz_Benger_Donitz.first>Donitz</Male_Donitz_Benger_Donitz.first>
-    <Male_Donitz_Benger_Donitz.last>Benger</Male_Donitz_Benger_Donitz.last>
-    <Male_Donitz_Benger_Donitz.nick>Donitz</Male_Donitz_Benger_Donitz.nick>
+	<Male_Donitz_Benger_Donitz.first>邓尼茨</Male_Donitz_Benger_Donitz.first>
+    <Male_Donitz_Benger_Donitz.last>本杰</Male_Donitz_Benger_Donitz.last>
+    <Male_Donitz_Benger_Donitz.nick>邓尼茨</Male_Donitz_Benger_Donitz.nick>
   </li>
   <li Gender="Female" first="Jane" last="West">
-    <Female_Jane_West_EMPTY.first>Jane</Female_Jane_West_EMPTY.first>
-    <Female_Jane_West_EMPTY.last>West</Female_Jane_West_EMPTY.last>
+    <Female_Jane_West_EMPTY.first>简</Female_Jane_West_EMPTY.first>
+    <Female_Jane_West_EMPTY.last>韦斯特</Female_Jane_West_EMPTY.last>
   </li>
   <li Gender="Male" first="Zyther" last="Saebra" nick="Zyther">
-    <Male_Zyther_Saebra_Zyther.first>Zyther</Male_Zyther_Saebra_Zyther.first>
-    <Male_Zyther_Saebra_Zyther.last>Saebra</Male_Zyther_Saebra_Zyther.last>
-    <Male_Zyther_Saebra_Zyther.nick>Zyther</Male_Zyther_Saebra_Zyther.nick>
+    <Male_Zyther_Saebra_Zyther.first>齐泽</Male_Zyther_Saebra_Zyther.first>
+    <Male_Zyther_Saebra_Zyther.last>塞巴</Male_Zyther_Saebra_Zyther.last>
+    <Male_Zyther_Saebra_Zyther.nick>齐泽</Male_Zyther_Saebra_Zyther.nick>
   </li>
   <li Gender="Male" first="Stoven" last="Muffle" nick="Stove">
-    <Male_Stoven_Muffle_Stove.first>Stoven</Male_Stoven_Muffle_Stove.first>
-    <Male_Stoven_Muffle_Stove.last>Muffle</Male_Stoven_Muffle_Stove.last>
-    <Male_Stoven_Muffle_Stove.nick>Stove</Male_Stoven_Muffle_Stove.nick>
+    <Male_Stoven_Muffle_Stove.first>斯多芬</Male_Stoven_Muffle_Stove.first>
+    <Male_Stoven_Muffle_Stove.last>穆夫</Male_Stoven_Muffle_Stove.last>
+    <Male_Stoven_Muffle_Stove.nick>斯多夫</Male_Stoven_Muffle_Stove.nick>
   </li>
   <li Gender="Female" first="Alexia" last="Keretschko" nick="Xal">
-    <Female_Alexia_Keretschko_Xal.first>Alexia</Female_Alexia_Keretschko_Xal.first>
-    <Female_Alexia_Keretschko_Xal.last>Keretschko</Female_Alexia_Keretschko_Xal.last>
-    <Female_Alexia_Keretschko_Xal.nick>Xal</Female_Alexia_Keretschko_Xal.nick>
+    <Female_Alexia_Keretschko_Xal.first>亚历克西娅</Female_Alexia_Keretschko_Xal.first>
+    <Female_Alexia_Keretschko_Xal.last>科勒茨科</Female_Alexia_Keretschko_Xal.last>
+    <Female_Alexia_Keretschko_Xal.nick>阿克西娅</Female_Alexia_Keretschko_Xal.nick>
   </li>
   <li Gender="Either" first="Tristan" last="Fornelos" nick="Chacken">
-    <Either_Tristan_Fornelos_Chacken.first>Tristan</Either_Tristan_Fornelos_Chacken.first>
-    <Either_Tristan_Fornelos_Chacken.last>Fornelos</Either_Tristan_Fornelos_Chacken.last>
-    <Either_Tristan_Fornelos_Chacken.nick>Chacken</Either_Tristan_Fornelos_Chacken.nick>
+    <Either_Tristan_Fornelos_Chacken.first>特里斯坦</Either_Tristan_Fornelos_Chacken.first>
+    <Either_Tristan_Fornelos_Chacken.last>福内洛斯</Either_Tristan_Fornelos_Chacken.last>
+    <Either_Tristan_Fornelos_Chacken.nick>查根</Either_Tristan_Fornelos_Chacken.nick>
   </li>
   <li Gender="Male" first="Elekio" last="Elrich" nick="Elekio">
-    <Male_Elekio_Elrich_Elekio.first>Elekio</Male_Elekio_Elrich_Elekio.first>
-    <Male_Elekio_Elrich_Elekio.last>Elrich</Male_Elekio_Elrich_Elekio.last>
-    <Male_Elekio_Elrich_Elekio.nick>Elekio</Male_Elekio_Elrich_Elekio.nick>
+    <Male_Elekio_Elrich_Elekio.first>埃列科</Male_Elekio_Elrich_Elekio.first>
+    <Male_Elekio_Elrich_Elekio.last>厄尔里克</Male_Elekio_Elrich_Elekio.last>
+    <Male_Elekio_Elrich_Elekio.nick>埃列科</Male_Elekio_Elrich_Elekio.nick>
   </li>
   <li Gender="Male" first="Wolfram" last="Nygard Olsen">
-    <Male_Wolfram_NygardOlsen_EMPTY.first>Wolfram</Male_Wolfram_NygardOlsen_EMPTY.first>
-    <Male_Wolfram_NygardOlsen_EMPTY.last>Nygard Olsen</Male_Wolfram_NygardOlsen_EMPTY.last>
+    <Male_Wolfram_NygardOlsen_EMPTY.first>沃尔弗拉姆</Male_Wolfram_NygardOlsen_EMPTY.first>
+    <Male_Wolfram_NygardOlsen_EMPTY.last>尼加德奥尔森</Male_Wolfram_NygardOlsen_EMPTY.last>
   </li>
   <li Gender="Male" first="Danziel" last="McGowen" nick="Danziel">
-    <Male_Danziel_McGowen_Danziel.first>Danziel</Male_Danziel_McGowen_Danziel.first>
-    <Male_Danziel_McGowen_Danziel.last>McGowen</Male_Danziel_McGowen_Danziel.last>
-    <Male_Danziel_McGowen_Danziel.nick>Danziel</Male_Danziel_McGowen_Danziel.nick>
+    <Male_Danziel_McGowen_Danziel.first>丹泽尔</Male_Danziel_McGowen_Danziel.first>
+    <Male_Danziel_McGowen_Danziel.last>麦高文</Male_Danziel_McGowen_Danziel.last>
+    <Male_Danziel_McGowen_Danziel.nick>丹泽尔</Male_Danziel_McGowen_Danziel.nick>
   </li>
   <li Gender="Male" first="Lazar" last="Kustermann" nick="Lazar">
-    <Male_Lazar_Kustermann_Lazar.first>Lazar</Male_Lazar_Kustermann_Lazar.first>
-    <Male_Lazar_Kustermann_Lazar.last>Kustermann</Male_Lazar_Kustermann_Lazar.last>
-    <Male_Lazar_Kustermann_Lazar.nick>Lazar</Male_Lazar_Kustermann_Lazar.nick>
+    <Male_Lazar_Kustermann_Lazar.first>拉扎尔</Male_Lazar_Kustermann_Lazar.first>
+    <Male_Lazar_Kustermann_Lazar.last>库斯特曼</Male_Lazar_Kustermann_Lazar.last>
+    <Male_Lazar_Kustermann_Lazar.nick>拉扎尔</Male_Lazar_Kustermann_Lazar.nick>
   </li>
   <li Gender="Male" first="Timo" last="Lux" nick="Tomo">
-    <Male_Timo_Lux_Tomo.first>Timo</Male_Timo_Lux_Tomo.first>
-    <Male_Timo_Lux_Tomo.last>Lux</Male_Timo_Lux_Tomo.last>
-    <Male_Timo_Lux_Tomo.nick>Tomo</Male_Timo_Lux_Tomo.nick>
+    <Male_Timo_Lux_Tomo.first>蒂莫</Male_Timo_Lux_Tomo.first>
+    <Male_Timo_Lux_Tomo.last>卢克斯</Male_Timo_Lux_Tomo.last>
+    <Male_Timo_Lux_Tomo.nick>托莫</Male_Timo_Lux_Tomo.nick>
   </li>
   <li Gender="Male" first="Stéphane" last="Bortolazzo" nick="Borto">
-    <Male_Stéphane_Bortolazzo_Borto.first>Stéphane</Male_Stéphane_Bortolazzo_Borto.first>
-    <Male_Stéphane_Bortolazzo_Borto.last>Bortolazzo</Male_Stéphane_Bortolazzo_Borto.last>
-    <Male_Stéphane_Bortolazzo_Borto.nick>Borto</Male_Stéphane_Bortolazzo_Borto.nick>
+    <Male_Stéphane_Bortolazzo_Borto.first>斯特凡纳</Male_Stéphane_Bortolazzo_Borto.first>
+    <Male_Stéphane_Bortolazzo_Borto.last>博尔托拉佐</Male_Stéphane_Bortolazzo_Borto.last>
+    <Male_Stéphane_Bortolazzo_Borto.nick>博尔托</Male_Stéphane_Bortolazzo_Borto.nick>
   </li>
   <li Gender="Female" first="Caylie" last="Laney">
-    <Female_Caylie_Laney_EMPTY.first>Caylie</Female_Caylie_Laney_EMPTY.first>
-    <Female_Caylie_Laney_EMPTY.last>Laney</Female_Caylie_Laney_EMPTY.last>
+    <Female_Caylie_Laney_EMPTY.first>凯丽</Female_Caylie_Laney_EMPTY.first>
+    <Female_Caylie_Laney_EMPTY.last>莱尼</Female_Caylie_Laney_EMPTY.last>
   </li>
   <li Gender="Male" first="Darrin" last="Schwieters" nick="Schwietz">
-    <Male_Darrin_Schwieters_Schwietz.first>Darrin</Male_Darrin_Schwieters_Schwietz.first>
-    <Male_Darrin_Schwieters_Schwietz.last>Schwieters</Male_Darrin_Schwieters_Schwietz.last>
-    <Male_Darrin_Schwieters_Schwietz.nick>Schwietz</Male_Darrin_Schwieters_Schwietz.nick>
+    <Male_Darrin_Schwieters_Schwietz.first>达林</Male_Darrin_Schwieters_Schwietz.first>
+    <Male_Darrin_Schwieters_Schwietz.last>施韦特斯</Male_Darrin_Schwieters_Schwietz.last>
+    <Male_Darrin_Schwieters_Schwietz.nick>施韦茨</Male_Darrin_Schwieters_Schwietz.nick>
   </li>
   <li Gender="Female" first="Aika" last="Tears" nick="Nina">
-    <Female_Aika_Tears_Nina.first>Aika</Female_Aika_Tears_Nina.first>
-    <Female_Aika_Tears_Nina.last>Tears</Female_Aika_Tears_Nina.last>
-    <Female_Aika_Tears_Nina.nick>Nina</Female_Aika_Tears_Nina.nick>
+    <Female_Aika_Tears_Nina.first>艾卡</Female_Aika_Tears_Nina.first>
+    <Female_Aika_Tears_Nina.last>蒂尔斯</Female_Aika_Tears_Nina.last>
+    <Female_Aika_Tears_Nina.nick>妮娜</Female_Aika_Tears_Nina.nick>
   </li>
   <li Gender="Male" first="Ernold" last="Harparker">
-    <Male_Ernold_Harparker_EMPTY.first>Ernold</Male_Ernold_Harparker_EMPTY.first>
-    <Male_Ernold_Harparker_EMPTY.last>Harparker</Male_Ernold_Harparker_EMPTY.last>
+    <Male_Ernold_Harparker_EMPTY.first>艾诺尔德</Male_Ernold_Harparker_EMPTY.first>
+    <Male_Ernold_Harparker_EMPTY.last>哈拉帕克</Male_Ernold_Harparker_EMPTY.last>
   </li>
   <li Gender="Female" first="Lavinia" last="Leo" nick="Lela">
-    <Female_Lavinia_Leo_Lela.first>Lavinia</Female_Lavinia_Leo_Lela.first>
-    <Female_Lavinia_Leo_Lela.last>Leo</Female_Lavinia_Leo_Lela.last>
-    <Female_Lavinia_Leo_Lela.nick>Lela</Female_Lavinia_Leo_Lela.nick>
+    <Female_Lavinia_Leo_Lela.first>拉维尼娅</Female_Lavinia_Leo_Lela.first>
+    <Female_Lavinia_Leo_Lela.last>莱奥</Female_Lavinia_Leo_Lela.last>
+    <Female_Lavinia_Leo_Lela.nick>莱拉</Female_Lavinia_Leo_Lela.nick>
   </li>
   <li Gender="Female" first="Cathy" last="Ashford" nick="Taffy">
-    <Female_Cathy_Ashford_Taffy.first>Cathy</Female_Cathy_Ashford_Taffy.first>
-    <Female_Cathy_Ashford_Taffy.last>Ashford</Female_Cathy_Ashford_Taffy.last>
-    <Female_Cathy_Ashford_Taffy.nick>Taffy</Female_Cathy_Ashford_Taffy.nick>
+    <Female_Cathy_Ashford_Taffy.first>凯茜</Female_Cathy_Ashford_Taffy.first>
+    <Female_Cathy_Ashford_Taffy.last>阿什福德</Female_Cathy_Ashford_Taffy.last>
+    <Female_Cathy_Ashford_Taffy.nick>塔菲</Female_Cathy_Ashford_Taffy.nick>
   </li>
   <li Gender="Male" first="Prem" last="Remmington" nick="Prem">
-    <Male_Prem_Remmington_Prem.first>Prem</Male_Prem_Remmington_Prem.first>
-    <Male_Prem_Remmington_Prem.last>Remmington</Male_Prem_Remmington_Prem.last>
-    <Male_Prem_Remmington_Prem.nick>Prem</Male_Prem_Remmington_Prem.nick>
+    <Male_Prem_Remmington_Prem.first>普雷姆</Male_Prem_Remmington_Prem.first>
+    <Male_Prem_Remmington_Prem.last>雷明顿</Male_Prem_Remmington_Prem.last>
+    <Male_Prem_Remmington_Prem.nick>普雷姆</Male_Prem_Remmington_Prem.nick>
   </li>
   <li Gender="Female" first="Rose-Marie" last="Hazelnutt" nick="Freckles">
-    <Female_Rose-Marie_Hazelnutt_Freckles.first>Rose-Marie</Female_Rose-Marie_Hazelnutt_Freckles.first>
-    <Female_Rose-Marie_Hazelnutt_Freckles.last>Hazelnutt</Female_Rose-Marie_Hazelnutt_Freckles.last>
-    <Female_Rose-Marie_Hazelnutt_Freckles.nick>Freckles</Female_Rose-Marie_Hazelnutt_Freckles.nick>
+    <Female_Rose-Marie_Hazelnutt_Freckles.first>萝丝玛丽</Female_Rose-Marie_Hazelnutt_Freckles.first>
+    <Female_Rose-Marie_Hazelnutt_Freckles.last>黑泽努特</Female_Rose-Marie_Hazelnutt_Freckles.last>
+    <Female_Rose-Marie_Hazelnutt_Freckles.nick>雀斑妹</Female_Rose-Marie_Hazelnutt_Freckles.nick>
   </li>
   <li Gender="Either" first="Jacky" last="Masset">
-    <Either_Jacky_Masset_EMPTY.first>Jacky</Either_Jacky_Masset_EMPTY.first>
-    <Either_Jacky_Masset_EMPTY.last>Masset</Either_Jacky_Masset_EMPTY.last>
+    <Either_Jacky_Masset_EMPTY.first>杰克</Either_Jacky_Masset_EMPTY.first>
+    <Either_Jacky_Masset_EMPTY.last>马塞特</Either_Jacky_Masset_EMPTY.last>
   </li>
   <li Gender="Male" first="Yuri" last="Daruski">
-    <Male_Yuri_Daruski_EMPTY.first>Yuri</Male_Yuri_Daruski_EMPTY.first>
-    <Male_Yuri_Daruski_EMPTY.last>Daruski</Male_Yuri_Daruski_EMPTY.last>
+    <Male_Yuri_Daruski_EMPTY.first>尤里</Male_Yuri_Daruski_EMPTY.first>
+    <Male_Yuri_Daruski_EMPTY.last>达鲁斯基</Male_Yuri_Daruski_EMPTY.last>
   </li>
   <li Gender="Male" first="Cyan" last="Stein" nick="Cyan">
-    <Male_Cyan_Stein_Cyan.first>Cyan</Male_Cyan_Stein_Cyan.first>
-    <Male_Cyan_Stein_Cyan.last>Stein</Male_Cyan_Stein_Cyan.last>
-    <Male_Cyan_Stein_Cyan.nick>Cyan</Male_Cyan_Stein_Cyan.nick>
+    <Male_Cyan_Stein_Cyan.first>塞恩</Male_Cyan_Stein_Cyan.first>
+    <Male_Cyan_Stein_Cyan.last>施泰因</Male_Cyan_Stein_Cyan.last>
+    <Male_Cyan_Stein_Cyan.nick>塞恩</Male_Cyan_Stein_Cyan.nick>
   </li>
   <li Gender="Male" first="Mordecai" last="Featherfield" nick="Mordy">
-    <Male_Mordecai_Featherfield_Mordy.first>Mordecai</Male_Mordecai_Featherfield_Mordy.first>
-    <Male_Mordecai_Featherfield_Mordy.last>Featherfield</Male_Mordecai_Featherfield_Mordy.last>
-    <Male_Mordecai_Featherfield_Mordy.nick>Mordy</Male_Mordecai_Featherfield_Mordy.nick>
+    <Male_Mordecai_Featherfield_Mordy.first>莫迪凯</Male_Mordecai_Featherfield_Mordy.first>
+    <Male_Mordecai_Featherfield_Mordy.last>费瑟菲尔德</Male_Mordecai_Featherfield_Mordy.last>
+    <Male_Mordecai_Featherfield_Mordy.nick>莫迪</Male_Mordecai_Featherfield_Mordy.nick>
   </li>
   <li Gender="Female" first="Katala" last="Saangomei" nick="Kat">
-    <Female_Katala_Saangomei_Kat.first>Katala</Female_Katala_Saangomei_Kat.first>
-    <Female_Katala_Saangomei_Kat.last>Saangomei</Female_Katala_Saangomei_Kat.last>
-    <Female_Katala_Saangomei_Kat.nick>Kat</Female_Katala_Saangomei_Kat.nick>
+    <Female_Katala_Saangomei_Kat.first>卡塔拉</Female_Katala_Saangomei_Kat.first>
+    <Female_Katala_Saangomei_Kat.last>萨古美</Female_Katala_Saangomei_Kat.last>
+    <Female_Katala_Saangomei_Kat.nick>卡特</Female_Katala_Saangomei_Kat.nick>
   </li>
   <li Gender="Male" first="Steinn" last="Sigurdarson" nick="Darri">
-    <Male_Steinn_Sigurdarson_Darri.first>Steinn</Male_Steinn_Sigurdarson_Darri.first>
-    <Male_Steinn_Sigurdarson_Darri.last>Sigurdarson</Male_Steinn_Sigurdarson_Darri.last>
-    <Male_Steinn_Sigurdarson_Darri.nick>Darri</Male_Steinn_Sigurdarson_Darri.nick>
+    <Male_Steinn_Sigurdarson_Darri.first>施泰因</Male_Steinn_Sigurdarson_Darri.first>
+    <Male_Steinn_Sigurdarson_Darri.last>西古达森</Male_Steinn_Sigurdarson_Darri.last>
+    <Male_Steinn_Sigurdarson_Darri.nick>戴利</Male_Steinn_Sigurdarson_Darri.nick>
   </li>
   <li Gender="Male" first="Fengjie" last="Yuan" nick="Lambor">
-    <Male_Fengjie_Yuan_Lambor.first>Fengjie</Male_Fengjie_Yuan_Lambor.first>
-    <Male_Fengjie_Yuan_Lambor.last>Yuan</Male_Fengjie_Yuan_Lambor.last>
-    <Male_Fengjie_Yuan_Lambor.nick>Lambor</Male_Fengjie_Yuan_Lambor.nick>
+    <Male_Fengjie_Yuan_Lambor.first>枫杰</Male_Fengjie_Yuan_Lambor.first>
+    <Male_Fengjie_Yuan_Lambor.last>袁</Male_Fengjie_Yuan_Lambor.last>
+    <Male_Fengjie_Yuan_Lambor.nick>兰博</Male_Fengjie_Yuan_Lambor.nick>
   </li>
   <li Gender="Female" first="Teluna" last="Pink" nick="Teluna">
-    <Female_Teluna_Pink_Teluna.first>Teluna</Female_Teluna_Pink_Teluna.first>
-    <Female_Teluna_Pink_Teluna.last>Pink</Female_Teluna_Pink_Teluna.last>
-    <Female_Teluna_Pink_Teluna.nick>Teluna</Female_Teluna_Pink_Teluna.nick>
+    <Female_Teluna_Pink_Teluna.first>特露娜</Female_Teluna_Pink_Teluna.first>
+    <Female_Teluna_Pink_Teluna.last>平克</Female_Teluna_Pink_Teluna.last>
+    <Female_Teluna_Pink_Teluna.nick>特露娜</Female_Teluna_Pink_Teluna.nick>
   </li>
   <li Gender="Female" first="Felicity" last="Estellise">
-    <Female_Felicity_Estellise_EMPTY.first>Felicity</Female_Felicity_Estellise_EMPTY.first>
-    <Female_Felicity_Estellise_EMPTY.last>Estellise</Female_Felicity_Estellise_EMPTY.last>
+    <Female_Felicity_Estellise_EMPTY.first>费莉西蒂</Female_Felicity_Estellise_EMPTY.first>
+    <Female_Felicity_Estellise_EMPTY.last>埃斯特莱斯</Female_Felicity_Estellise_EMPTY.last>
   </li>
   <li Gender="Male" first="Symon" last="Aked">
-    <Male_Symon_Aked_EMPTY.first>Symon</Male_Symon_Aked_EMPTY.first>
-    <Male_Symon_Aked_EMPTY.last>Aked</Male_Symon_Aked_EMPTY.last>
+    <Male_Symon_Aked_EMPTY.first>西蒙</Male_Symon_Aked_EMPTY.first>
+    <Male_Symon_Aked_EMPTY.last>埃克德</Male_Symon_Aked_EMPTY.last>
   </li>
   <li Gender="Male" first="Mazuki" last="Ryuk" nick="Andrew">
-    <Male_Mazuki_Ryuk_Andrew.first>Mazuki</Male_Mazuki_Ryuk_Andrew.first>
-    <Male_Mazuki_Ryuk_Andrew.last>Ryuk</Male_Mazuki_Ryuk_Andrew.last>
-    <Male_Mazuki_Ryuk_Andrew.nick>Andrew</Male_Mazuki_Ryuk_Andrew.nick>
+    <Male_Mazuki_Ryuk_Andrew.first>玛祖齐</Male_Mazuki_Ryuk_Andrew.first>
+    <Male_Mazuki_Ryuk_Andrew.last>留克</Male_Mazuki_Ryuk_Andrew.last>
+    <Male_Mazuki_Ryuk_Andrew.nick>安德鲁</Male_Mazuki_Ryuk_Andrew.nick>
   </li>
   <li Gender="Male" first="Jurre" last="Suijs" nick="Dutchie">
-    <Male_Jurre_Suijs_Dutchie.first>Jurre</Male_Jurre_Suijs_Dutchie.first>
-    <Male_Jurre_Suijs_Dutchie.last>Suijs</Male_Jurre_Suijs_Dutchie.last>
-    <Male_Jurre_Suijs_Dutchie.nick>Dutchie</Male_Jurre_Suijs_Dutchie.nick>
+    <Male_Jurre_Suijs_Dutchie.first>于勒</Male_Jurre_Suijs_Dutchie.first>
+    <Male_Jurre_Suijs_Dutchie.last>苏斯</Male_Jurre_Suijs_Dutchie.last>
+    <Male_Jurre_Suijs_Dutchie.nick>荷兰小子</Male_Jurre_Suijs_Dutchie.nick>
   </li>
   <li Gender="Female" first="Roxy" last="Ovis" nick="Sheep">
-    <Female_Roxy_Ovis_Sheep.first>Roxy</Female_Roxy_Ovis_Sheep.first>
-    <Female_Roxy_Ovis_Sheep.last>Ovis</Female_Roxy_Ovis_Sheep.last>
-    <Female_Roxy_Ovis_Sheep.nick>Sheep</Female_Roxy_Ovis_Sheep.nick>
+    <Female_Roxy_Ovis_Sheep.first>洛克茜</Female_Roxy_Ovis_Sheep.first>
+    <Female_Roxy_Ovis_Sheep.last>奥维斯</Female_Roxy_Ovis_Sheep.last>
+    <Female_Roxy_Ovis_Sheep.nick>绵羊</Female_Roxy_Ovis_Sheep.nick>
   </li>
   <li Gender="Male" first="Ruston" last="Raybon">
-    <Male_Ruston_Raybon_EMPTY.first>Ruston</Male_Ruston_Raybon_EMPTY.first>
-    <Male_Ruston_Raybon_EMPTY.last>Raybon</Male_Ruston_Raybon_EMPTY.last>
+    <Male_Ruston_Raybon_EMPTY.first>拉斯顿</Male_Ruston_Raybon_EMPTY.first>
+    <Male_Ruston_Raybon_EMPTY.last>雷本</Male_Ruston_Raybon_EMPTY.last>
   </li>
   <li Gender="Male" first="Ruben" last="Asbestos" nick="Zash">
-    <Male_Ruben_Asbestos_Zash.first>Ruben</Male_Ruben_Asbestos_Zash.first>
-    <Male_Ruben_Asbestos_Zash.last>Asbestos</Male_Ruben_Asbestos_Zash.last>
-    <Male_Ruben_Asbestos_Zash.nick>Zash</Male_Ruben_Asbestos_Zash.nick>
+    <Male_Ruben_Asbestos_Zash.first>鲁本</Male_Ruben_Asbestos_Zash.first>
+    <Male_Ruben_Asbestos_Zash.last>阿斯贝斯特斯</Male_Ruben_Asbestos_Zash.last>
+    <Male_Ruben_Asbestos_Zash.nick>扎施</Male_Ruben_Asbestos_Zash.nick>
   </li>
   <li Gender="Female" first="Elariah" last="Bal" nick="Elariah">
-    <Female_Elariah_Bal_Elariah.first>Elariah</Female_Elariah_Bal_Elariah.first>
-    <Female_Elariah_Bal_Elariah.last>Bal</Female_Elariah_Bal_Elariah.last>
-    <Female_Elariah_Bal_Elariah.nick>Elariah</Female_Elariah_Bal_Elariah.nick>
+    <Female_Elariah_Bal_Elariah.first>艾拉里娅</Female_Elariah_Bal_Elariah.first>
+    <Female_Elariah_Bal_Elariah.last>巴尔</Female_Elariah_Bal_Elariah.last>
+    <Female_Elariah_Bal_Elariah.nick>艾拉里娅</Female_Elariah_Bal_Elariah.nick>
   </li>
   <li Gender="Male" first="SungHyun" last="Kwon" nick="Kwon">
-    <Male_SungHyun_Kwon_Kwon.first>SungHyun</Male_SungHyun_Kwon_Kwon.first>
-    <Male_SungHyun_Kwon_Kwon.last>Kwon</Male_SungHyun_Kwon_Kwon.last>
-    <Male_SungHyun_Kwon_Kwon.nick>Kwon</Male_SungHyun_Kwon_Kwon.nick>
+    <Male_SungHyun_Kwon_Kwon.first>胜贤</Male_SungHyun_Kwon_Kwon.first>
+    <Male_SungHyun_Kwon_Kwon.last>权</Male_SungHyun_Kwon_Kwon.last>
+    <Male_SungHyun_Kwon_Kwon.nick>权</Male_SungHyun_Kwon_Kwon.nick>
   </li>
   <li Gender="Male" first="Detyan" last="Horen" nick="Tortoise">
-    <Male_Detyan_Horen_Tortoise.first>Detyan</Male_Detyan_Horen_Tortoise.first>
-    <Male_Detyan_Horen_Tortoise.last>Horen</Male_Detyan_Horen_Tortoise.last>
-    <Male_Detyan_Horen_Tortoise.nick>Tortoise</Male_Detyan_Horen_Tortoise.nick>
+    <Male_Detyan_Horen_Tortoise.first>达迪安</Male_Detyan_Horen_Tortoise.first>
+    <Male_Detyan_Horen_Tortoise.last>奥伦</Male_Detyan_Horen_Tortoise.last>
+    <Male_Detyan_Horen_Tortoise.nick>乌龟</Male_Detyan_Horen_Tortoise.nick>
   </li>
   <li Gender="Male" first="Jaden" last="Jabs" nick="Jay">
-    <Male_Jaden_Jabs_Jay.first>Jaden</Male_Jaden_Jabs_Jay.first>
-    <Male_Jaden_Jabs_Jay.last>Jabs</Male_Jaden_Jabs_Jay.last>
-    <Male_Jaden_Jabs_Jay.nick>Jay</Male_Jaden_Jabs_Jay.nick>
+    <Male_Jaden_Jabs_Jay.first>杰登</Male_Jaden_Jabs_Jay.first>
+    <Male_Jaden_Jabs_Jay.last>雅布斯</Male_Jaden_Jabs_Jay.last>
+    <Male_Jaden_Jabs_Jay.nick>杰</Male_Jaden_Jabs_Jay.nick>
   </li>
   <li Gender="Male" first="Joachim" last="Vikingsen" nick="Joachim">
-    <Male_Joachim_Vikingsen_Joachim.first>Joachim</Male_Joachim_Vikingsen_Joachim.first>
-    <Male_Joachim_Vikingsen_Joachim.last>Vikingsen</Male_Joachim_Vikingsen_Joachim.last>
-    <Male_Joachim_Vikingsen_Joachim.nick>Joachim</Male_Joachim_Vikingsen_Joachim.nick>
+    <Male_Joachim_Vikingsen_Joachim.first>约阿希姆</Male_Joachim_Vikingsen_Joachim.first>
+    <Male_Joachim_Vikingsen_Joachim.last>威金森</Male_Joachim_Vikingsen_Joachim.last>
+    <Male_Joachim_Vikingsen_Joachim.nick>约阿希姆</Male_Joachim_Vikingsen_Joachim.nick>
   </li>
   <li Gender="Male" first="Jarkko" last="McAnder" nick="Jake">
-    <Male_Jarkko_McAnder_Jake.first>Jarkko</Male_Jarkko_McAnder_Jake.first>
-    <Male_Jarkko_McAnder_Jake.last>McAnder</Male_Jarkko_McAnder_Jake.last>
-    <Male_Jarkko_McAnder_Jake.nick>Jake</Male_Jarkko_McAnder_Jake.nick>
+    <Male_Jarkko_McAnder_Jake.first>亚尔科</Male_Jarkko_McAnder_Jake.first>
+    <Male_Jarkko_McAnder_Jake.last>麦克安德</Male_Jarkko_McAnder_Jake.last>
+    <Male_Jarkko_McAnder_Jake.nick>杰克</Male_Jarkko_McAnder_Jake.nick>
   </li>
   <li Gender="Male" first="Nikolaus" last="Kellermann" nick="Nikolaus">
-    <Male_Nikolaus_Kellermann_Nikolaus.first>Nikolaus</Male_Nikolaus_Kellermann_Nikolaus.first>
-    <Male_Nikolaus_Kellermann_Nikolaus.last>Kellermann</Male_Nikolaus_Kellermann_Nikolaus.last>
-    <Male_Nikolaus_Kellermann_Nikolaus.nick>Nikolaus</Male_Nikolaus_Kellermann_Nikolaus.nick>
+    <Male_Nikolaus_Kellermann_Nikolaus.first>尼古拉斯</Male_Nikolaus_Kellermann_Nikolaus.first>
+    <Male_Nikolaus_Kellermann_Nikolaus.last>凯勒曼</Male_Nikolaus_Kellermann_Nikolaus.last>
+    <Male_Nikolaus_Kellermann_Nikolaus.nick>尼古拉斯</Male_Nikolaus_Kellermann_Nikolaus.nick>
   </li>
   <li Gender="Male" first="Ade" last="Snave" nick="Rare">
-    <Male_Ade_Snave_Rare.first>Ade</Male_Ade_Snave_Rare.first>
-    <Male_Ade_Snave_Rare.last>Snave</Male_Ade_Snave_Rare.last>
-    <Male_Ade_Snave_Rare.nick>Rare</Male_Ade_Snave_Rare.nick>
+    <Male_Ade_Snave_Rare.first>阿德</Male_Ade_Snave_Rare.first>
+    <Male_Ade_Snave_Rare.last>斯内夫</Male_Ade_Snave_Rare.last>
+    <Male_Ade_Snave_Rare.nick>抢手货</Male_Ade_Snave_Rare.nick>
   </li>
   <li Gender="Male" first="Tongkou" last="Vue" nick="Tong">
-    <Male_Tongkou_Vue_Tong.first>Tongkou</Male_Tongkou_Vue_Tong.first>
-    <Male_Tongkou_Vue_Tong.last>Vue</Male_Tongkou_Vue_Tong.last>
-    <Male_Tongkou_Vue_Tong.nick>Tong</Male_Tongkou_Vue_Tong.nick>
+    <Male_Tongkou_Vue_Tong.first>桐寇</Male_Tongkou_Vue_Tong.first>
+    <Male_Tongkou_Vue_Tong.last>韦</Male_Tongkou_Vue_Tong.last>
+    <Male_Tongkou_Vue_Tong.nick>桐</Male_Tongkou_Vue_Tong.nick>
   </li>
   <li Gender="Male" first="Suravit" last="Suphavai" nick="Joemadly">
-    <Male_Suravit_Suphavai_Joemadly.first>Suravit</Male_Suravit_Suphavai_Joemadly.first>
-    <Male_Suravit_Suphavai_Joemadly.last>Suphavai</Male_Suravit_Suphavai_Joemadly.last>
-    <Male_Suravit_Suphavai_Joemadly.nick>Joemadly</Male_Suravit_Suphavai_Joemadly.nick>
+    <Male_Suravit_Suphavai_Joemadly.first>瑟维特</Male_Suravit_Suphavai_Joemadly.first>
+    <Male_Suravit_Suphavai_Joemadly.last>苏法维</Male_Suravit_Suphavai_Joemadly.last>
+    <Male_Suravit_Suphavai_Joemadly.nick>乔马里</Male_Suravit_Suphavai_Joemadly.nick>
   </li>
   <li Gender="Male" first="Kesin" last="Ehrland" nick="Kesin">
-    <Male_Kesin_Ehrland_Kesin.first>Kesin</Male_Kesin_Ehrland_Kesin.first>
-    <Male_Kesin_Ehrland_Kesin.last>Ehrland</Male_Kesin_Ehrland_Kesin.last>
-    <Male_Kesin_Ehrland_Kesin.nick>Kesin</Male_Kesin_Ehrland_Kesin.nick>
+    <Male_Kesin_Ehrland_Kesin.first>凯森</Male_Kesin_Ehrland_Kesin.first>
+    <Male_Kesin_Ehrland_Kesin.last>埃兰德</Male_Kesin_Ehrland_Kesin.last>
+    <Male_Kesin_Ehrland_Kesin.nick>凯森</Male_Kesin_Ehrland_Kesin.nick>
   </li>
   <li Gender="Male" first="Adamas" last="Humerum" nick="Adamas">
-    <Male_Adamas_Humerum_Adamas.first>Adamas</Male_Adamas_Humerum_Adamas.first>
-    <Male_Adamas_Humerum_Adamas.last>Humerum</Male_Adamas_Humerum_Adamas.last>
-    <Male_Adamas_Humerum_Adamas.nick>Adamas</Male_Adamas_Humerum_Adamas.nick>
+    <Male_Adamas_Humerum_Adamas.first>阿达马斯</Male_Adamas_Humerum_Adamas.first>
+    <Male_Adamas_Humerum_Adamas.last>乌梅鲁姆</Male_Adamas_Humerum_Adamas.last>
+    <Male_Adamas_Humerum_Adamas.nick>阿达马斯</Male_Adamas_Humerum_Adamas.nick>
   </li>
   <li Gender="Male" first="Ashlund" last="Mcconville" nick="Ash">
-    <Male_Ashlund_Mcconville_Ash.first>Ashlund</Male_Ashlund_Mcconville_Ash.first>
-    <Male_Ashlund_Mcconville_Ash.last>Mcconville</Male_Ashlund_Mcconville_Ash.last>
-    <Male_Ashlund_Mcconville_Ash.nick>Ash</Male_Ashlund_Mcconville_Ash.nick>
+    <Male_Ashlund_Mcconville_Ash.first>阿什兰德</Male_Ashlund_Mcconville_Ash.first>
+    <Male_Ashlund_Mcconville_Ash.last>麦康维尔</Male_Ashlund_Mcconville_Ash.last>
+    <Male_Ashlund_Mcconville_Ash.nick>阿什</Male_Ashlund_Mcconville_Ash.nick>
   </li>
   <li Gender="Male" first="Shannon" last="Skerke" nick="Sapling">
-    <Male_Shannon_Skerke_Sapling.first>Shannon</Male_Shannon_Skerke_Sapling.first>
-    <Male_Shannon_Skerke_Sapling.last>Skerke</Male_Shannon_Skerke_Sapling.last>
-    <Male_Shannon_Skerke_Sapling.nick>Sapling</Male_Shannon_Skerke_Sapling.nick>
+    <Male_Shannon_Skerke_Sapling.first>香农</Male_Shannon_Skerke_Sapling.first>
+    <Male_Shannon_Skerke_Sapling.last>司格科</Male_Shannon_Skerke_Sapling.last>
+    <Male_Shannon_Skerke_Sapling.nick>树苗</Male_Shannon_Skerke_Sapling.nick>
   </li>
   <li Gender="Female" first="Aubrey" last="Angst" nick="Aubs">
-    <Female_Aubrey_Angst_Aubs.first>Aubrey</Female_Aubrey_Angst_Aubs.first>
-    <Female_Aubrey_Angst_Aubs.last>Angst</Female_Aubrey_Angst_Aubs.last>
-    <Female_Aubrey_Angst_Aubs.nick>Aubs</Female_Aubrey_Angst_Aubs.nick>
+    <Female_Aubrey_Angst_Aubs.first>奥布里</Female_Aubrey_Angst_Aubs.first>
+    <Female_Aubrey_Angst_Aubs.last>昂斯特</Female_Aubrey_Angst_Aubs.last>
+    <Female_Aubrey_Angst_Aubs.nick>奥布丝</Female_Aubrey_Angst_Aubs.nick>
   </li>
   <li Gender="Male" first="Miku" last="Sutton" nick="Miku">
-    <Male_Miku_Sutton_Miku.first>Miku</Male_Miku_Sutton_Miku.first>
-    <Male_Miku_Sutton_Miku.last>Sutton</Male_Miku_Sutton_Miku.last>
-    <Male_Miku_Sutton_Miku.nick>Miku</Male_Miku_Sutton_Miku.nick>
+    <Male_Miku_Sutton_Miku.first>米库</Male_Miku_Sutton_Miku.first>
+    <Male_Miku_Sutton_Miku.last>萨顿</Male_Miku_Sutton_Miku.last>
+    <Male_Miku_Sutton_Miku.nick>米库</Male_Miku_Sutton_Miku.nick>
   </li>
   <li Gender="Female" first="Meyverya" last="Ivashkov" nick="Mey">
-    <Female_Meyverya_Ivashkov_Mey.first>Meyverya</Female_Meyverya_Ivashkov_Mey.first>
-    <Female_Meyverya_Ivashkov_Mey.last>Ivashkov</Female_Meyverya_Ivashkov_Mey.last>
-    <Female_Meyverya_Ivashkov_Mey.nick>Mey</Female_Meyverya_Ivashkov_Mey.nick>
+    <Female_Meyverya_Ivashkov_Mey.first>弥歌莉娅</Female_Meyverya_Ivashkov_Mey.first>
+    <Female_Meyverya_Ivashkov_Mey.last>伊瓦什科夫</Female_Meyverya_Ivashkov_Mey.last>
+    <Female_Meyverya_Ivashkov_Mey.nick>弥</Female_Meyverya_Ivashkov_Mey.nick>
   </li>
   <li Gender="Male" first="Jorn" last="Dokter" nick="Vulder">
-    <Male_Jorn_Dokter_Vulder.first>Jorn</Male_Jorn_Dokter_Vulder.first>
-    <Male_Jorn_Dokter_Vulder.last>Dokter</Male_Jorn_Dokter_Vulder.last>
-    <Male_Jorn_Dokter_Vulder.nick>Vulder</Male_Jorn_Dokter_Vulder.nick>
+    <Male_Jorn_Dokter_Vulder.first>约恩</Male_Jorn_Dokter_Vulder.first>
+    <Male_Jorn_Dokter_Vulder.last>道格特</Male_Jorn_Dokter_Vulder.last>
+    <Male_Jorn_Dokter_Vulder.nick>韦达</Male_Jorn_Dokter_Vulder.nick>
   </li>
   <li Gender="Male" first="Carlo" last="Curiosus">
-    <Male_Carlo_Curiosus_EMPTY.first>Carlo</Male_Carlo_Curiosus_EMPTY.first>
-    <Male_Carlo_Curiosus_EMPTY.last>Curiosus</Male_Carlo_Curiosus_EMPTY.last>
+    <Male_Carlo_Curiosus_EMPTY.first>卡洛</Male_Carlo_Curiosus_EMPTY.first>
+    <Male_Carlo_Curiosus_EMPTY.last>库廖苏斯</Male_Carlo_Curiosus_EMPTY.last>
   </li>
   <li Gender="Male" first="Bardur" last="Kaylin" nick="Wolf">
-    <Male_Bardur_Kaylin_Wolf.first>Bardur</Male_Bardur_Kaylin_Wolf.first>
-    <Male_Bardur_Kaylin_Wolf.last>Kaylin</Male_Bardur_Kaylin_Wolf.last>
-    <Male_Bardur_Kaylin_Wolf.nick>Wolf</Male_Bardur_Kaylin_Wolf.nick>
+    <Male_Bardur_Kaylin_Wolf.first>巴杜</Male_Bardur_Kaylin_Wolf.first>
+    <Male_Bardur_Kaylin_Wolf.last>凯林</Male_Bardur_Kaylin_Wolf.last>
+    <Male_Bardur_Kaylin_Wolf.nick>狼</Male_Bardur_Kaylin_Wolf.nick>
   </li>
   <li Gender="Either" first="Darrien" last="Maliphalo" nick="Mal">
-    <Either_Darrien_Maliphalo_Mal.first>Darrien</Either_Darrien_Maliphalo_Mal.first>
-    <Either_Darrien_Maliphalo_Mal.last>Maliphalo</Either_Darrien_Maliphalo_Mal.last>
-    <Either_Darrien_Maliphalo_Mal.nick>Mal</Either_Darrien_Maliphalo_Mal.nick>
+    <Either_Darrien_Maliphalo_Mal.first>达里恩</Either_Darrien_Maliphalo_Mal.first>
+    <Either_Darrien_Maliphalo_Mal.last>玛利法洛</Either_Darrien_Maliphalo_Mal.last>
+    <Either_Darrien_Maliphalo_Mal.nick>玛</Either_Darrien_Maliphalo_Mal.nick>
   </li>
   <li Gender="Female" first="Kyle" last="Riemen">
-    <Female_Kyle_Riemen_EMPTY.first>Kyle</Female_Kyle_Riemen_EMPTY.first>
-    <Female_Kyle_Riemen_EMPTY.last>Riemen</Female_Kyle_Riemen_EMPTY.last>
+    <Female_Kyle_Riemen_EMPTY.first>许勒</Female_Kyle_Riemen_EMPTY.first>
+    <Female_Kyle_Riemen_EMPTY.last>里门</Female_Kyle_Riemen_EMPTY.last>
   </li>
   <li Gender="Female" first="Jenniferium" last="Chenni" nick="Jenni">
-    <Female_Jenniferium_Chenni_Jenni.first>Jenniferium</Female_Jenniferium_Chenni_Jenni.first>
-    <Female_Jenniferium_Chenni_Jenni.last>Chenni</Female_Jenniferium_Chenni_Jenni.last>
-    <Female_Jenniferium_Chenni_Jenni.nick>Jenni</Female_Jenniferium_Chenni_Jenni.nick>
+    <Female_Jenniferium_Chenni_Jenni.first>珍妮弗瑞姆</Female_Jenniferium_Chenni_Jenni.first>
+    <Female_Jenniferium_Chenni_Jenni.last>清奈</Female_Jenniferium_Chenni_Jenni.last>
+    <Female_Jenniferium_Chenni_Jenni.nick>珍妮</Female_Jenniferium_Chenni_Jenni.nick>
   </li>
   <li Gender="Male" first="Perry" last="Couling" nick="Pel">
-    <Male_Perry_Couling_Pel.first>Perry</Male_Perry_Couling_Pel.first>
-    <Male_Perry_Couling_Pel.last>Couling</Male_Perry_Couling_Pel.last>
-    <Male_Perry_Couling_Pel.nick>Pel</Male_Perry_Couling_Pel.nick>
+    <Male_Perry_Couling_Pel.first>佩里</Male_Perry_Couling_Pel.first>
+    <Male_Perry_Couling_Pel.last>库林</Male_Perry_Couling_Pel.last>
+    <Male_Perry_Couling_Pel.nick>佩</Male_Perry_Couling_Pel.nick>
   </li>
   <li Gender="Male" first="Bocephus" last="Morgen" nick="Bo">
-    <Male_Bocephus_Morgen_Bo.first>Bocephus</Male_Bocephus_Morgen_Bo.first>
-    <Male_Bocephus_Morgen_Bo.last>Morgen</Male_Bocephus_Morgen_Bo.last>
-    <Male_Bocephus_Morgen_Bo.nick>Bo</Male_Bocephus_Morgen_Bo.nick>
+    <Male_Bocephus_Morgen_Bo.first>波切夫斯</Male_Bocephus_Morgen_Bo.first>
+    <Male_Bocephus_Morgen_Bo.last>摩根</Male_Bocephus_Morgen_Bo.last>
+    <Male_Bocephus_Morgen_Bo.nick>波</Male_Bocephus_Morgen_Bo.nick>
   </li>
   <li Gender="Male" first="Waseem" last="Sulimahn" nick="Was">
-    <Male_Waseem_Sulimahn_Was.first>Waseem</Male_Waseem_Sulimahn_Was.first>
-    <Male_Waseem_Sulimahn_Was.last>Sulimahn</Male_Waseem_Sulimahn_Was.last>
-    <Male_Waseem_Sulimahn_Was.nick>Was</Male_Waseem_Sulimahn_Was.nick>
+    <Male_Waseem_Sulimahn_Was.first>瓦西姆</Male_Waseem_Sulimahn_Was.first>
+    <Male_Waseem_Sulimahn_Was.last>萨鲁曼</Male_Waseem_Sulimahn_Was.last>
+    <Male_Waseem_Sulimahn_Was.nick>瓦斯</Male_Waseem_Sulimahn_Was.nick>
   </li>
   <li Gender="Male" first="Ken" last="Mitsu" nick="Ken">
-    <Male_Ken_Mitsu_Ken.first>Ken</Male_Ken_Mitsu_Ken.first>
-    <Male_Ken_Mitsu_Ken.last>Mitsu</Male_Ken_Mitsu_Ken.last>
-    <Male_Ken_Mitsu_Ken.nick>Ken</Male_Ken_Mitsu_Ken.nick>
+    <Male_Ken_Mitsu_Ken.first>健</Male_Ken_Mitsu_Ken.first>
+    <Male_Ken_Mitsu_Ken.last>三井</Male_Ken_Mitsu_Ken.last>
+    <Male_Ken_Mitsu_Ken.nick>健</Male_Ken_Mitsu_Ken.nick>
   </li>
   <li Gender="Male" first="Yulong" last="Cui" nick="Noono">
-    <Male_Yulong_Cui_Noono.first>Yulong</Male_Yulong_Cui_Noono.first>
-    <Male_Yulong_Cui_Noono.last>Cui</Male_Yulong_Cui_Noono.last>
-    <Male_Yulong_Cui_Noono.nick>Noono</Male_Yulong_Cui_Noono.nick>
+    <Male_Yulong_Cui_Noono.first>玉龙</Male_Yulong_Cui_Noono.first>
+    <Male_Yulong_Cui_Noono.last>崔</Male_Yulong_Cui_Noono.last>
+    <Male_Yulong_Cui_Noono.nick>努诺</Male_Yulong_Cui_Noono.nick>
   </li>
   <li Gender="Either" first="Samir" last="Boubalouta" nick="Bouba">
-    <Either_Samir_Boubalouta_Bouba.first>Samir</Either_Samir_Boubalouta_Bouba.first>
-    <Either_Samir_Boubalouta_Bouba.last>Boubalouta</Either_Samir_Boubalouta_Bouba.last>
-    <Either_Samir_Boubalouta_Bouba.nick>Bouba</Either_Samir_Boubalouta_Bouba.nick>
+    <Either_Samir_Boubalouta_Bouba.first>萨米尔</Either_Samir_Boubalouta_Bouba.first>
+    <Either_Samir_Boubalouta_Bouba.last>布贝鲁塔</Either_Samir_Boubalouta_Bouba.last>
+    <Either_Samir_Boubalouta_Bouba.nick>布巴</Either_Samir_Boubalouta_Bouba.nick>
   </li>
   <li Gender="Male" first="Ismael" last="Munoz Arvizu" nick="Izzy">
-    <Male_Ismael_MunozArvizu_Izzy.first>Ismael</Male_Ismael_MunozArvizu_Izzy.first>
-    <Male_Ismael_MunozArvizu_Izzy.last>Munoz Arvizu</Male_Ismael_MunozArvizu_Izzy.last>
-    <Male_Ismael_MunozArvizu_Izzy.nick>Izzy</Male_Ismael_MunozArvizu_Izzy.nick>
+    <Male_Ismael_MunozArvizu_Izzy.first>伊斯梅尔</Male_Ismael_MunozArvizu_Izzy.first>
+    <Male_Ismael_MunozArvizu_Izzy.last>芒斯阿维祖</Male_Ismael_MunozArvizu_Izzy.last>
+    <Male_Ismael_MunozArvizu_Izzy.nick>伊齐</Male_Ismael_MunozArvizu_Izzy.nick>
   </li>
   <li Gender="Male" first="Brote" last="Ampill" nick="Weaves">
-    <Male_Brote_Ampill_Weaves.first>Brote</Male_Brote_Ampill_Weaves.first>
-    <Male_Brote_Ampill_Weaves.last>Ampill</Male_Brote_Ampill_Weaves.last>
-    <Male_Brote_Ampill_Weaves.nick>Weaves</Male_Brote_Ampill_Weaves.nick>
+    <Male_Brote_Ampill_Weaves.first>布洛特</Male_Brote_Ampill_Weaves.first>
+    <Male_Brote_Ampill_Weaves.last>安皮尔</Male_Brote_Ampill_Weaves.last>
+    <Male_Brote_Ampill_Weaves.nick>韦弗斯</Male_Brote_Ampill_Weaves.nick>
   </li>
   <li Gender="Female" first="Lillica" last="Faelan">
-    <Female_Lillica_Faelan_EMPTY.first>Lillica</Female_Lillica_Faelan_EMPTY.first>
-    <Female_Lillica_Faelan_EMPTY.last>Faelan</Female_Lillica_Faelan_EMPTY.last>
+    <Female_Lillica_Faelan_EMPTY.first>莉莉卡</Female_Lillica_Faelan_EMPTY.first>
+    <Female_Lillica_Faelan_EMPTY.last>法拉</Female_Lillica_Faelan_EMPTY.last>
   </li>
   <li Gender="Male" first="Gabra" last="Dawnlight" nick="Gabs">
-    <Male_Gabra_Dawnlight_Gabs.first>Gabra</Male_Gabra_Dawnlight_Gabs.first>
-    <Male_Gabra_Dawnlight_Gabs.last>Dawnlight</Male_Gabra_Dawnlight_Gabs.last>
-    <Male_Gabra_Dawnlight_Gabs.nick>Gabs</Male_Gabra_Dawnlight_Gabs.nick>
+    <Male_Gabra_Dawnlight_Gabs.first>加布拉</Male_Gabra_Dawnlight_Gabs.first>
+    <Male_Gabra_Dawnlight_Gabs.last>道恩赖特</Male_Gabra_Dawnlight_Gabs.last>
+    <Male_Gabra_Dawnlight_Gabs.nick>加布斯</Male_Gabra_Dawnlight_Gabs.nick>
   </li>
   <li Gender="Male" first="Juanjo" last="Podenco" nick="JJ">
-    <Male_Juanjo_Podenco_JJ.first>Juanjo</Male_Juanjo_Podenco_JJ.first>
-    <Male_Juanjo_Podenco_JJ.last>Podenco</Male_Juanjo_Podenco_JJ.last>
+    <Male_Juanjo_Podenco_JJ.first>华约</Male_Juanjo_Podenco_JJ.first>
+    <Male_Juanjo_Podenco_JJ.last>波丹科</Male_Juanjo_Podenco_JJ.last>
     <Male_Juanjo_Podenco_JJ.nick>JJ</Male_Juanjo_Podenco_JJ.nick>
   </li>
   <li Gender="Female" first="Selintha" last="Silvertome" nick="Sel">
-    <Female_Selintha_Silvertome_Sel.first>Selintha</Female_Selintha_Silvertome_Sel.first>
-    <Female_Selintha_Silvertome_Sel.last>Silvertome</Female_Selintha_Silvertome_Sel.last>
-    <Female_Selintha_Silvertome_Sel.nick>Sel</Female_Selintha_Silvertome_Sel.nick>
+    <Female_Selintha_Silvertome_Sel.first>塞琳达</Female_Selintha_Silvertome_Sel.first>
+    <Female_Selintha_Silvertome_Sel.last>西尔弗托姆</Female_Selintha_Silvertome_Sel.last>
+    <Female_Selintha_Silvertome_Sel.nick>塞尔</Female_Selintha_Silvertome_Sel.nick>
   </li>
   <li Gender="Male" first="Bennett" last="Ruddell">
-    <Male_Bennett_Ruddell_EMPTY.first>Bennett</Male_Bennett_Ruddell_EMPTY.first>
-    <Male_Bennett_Ruddell_EMPTY.last>Ruddell</Male_Bennett_Ruddell_EMPTY.last>
+    <Male_Bennett_Ruddell_EMPTY.first>贝内特</Male_Bennett_Ruddell_EMPTY.first>
+    <Male_Bennett_Ruddell_EMPTY.last>拉德尔</Male_Bennett_Ruddell_EMPTY.last>
   </li>
   <li Gender="Male" first="Mariano" last="Blua">
-    <Male_Mariano_Blua_EMPTY.first>Mariano</Male_Mariano_Blua_EMPTY.first>
-    <Male_Mariano_Blua_EMPTY.last>Blua</Male_Mariano_Blua_EMPTY.last>
+    <Male_Mariano_Blua_EMPTY.first>马里亚诺</Male_Mariano_Blua_EMPTY.first>
+    <Male_Mariano_Blua_EMPTY.last>布吕阿</Male_Mariano_Blua_EMPTY.last>
   </li>
   <li Gender="Female" first="Adelina" last="Dumitru" nick="Ade">
-    <Female_Adelina_Dumitru_Ade.first>Adelina</Female_Adelina_Dumitru_Ade.first>
-    <Female_Adelina_Dumitru_Ade.last>Dumitru</Female_Adelina_Dumitru_Ade.last>
-    <Female_Adelina_Dumitru_Ade.nick>Ade</Female_Adelina_Dumitru_Ade.nick>
+    <Female_Adelina_Dumitru_Ade.first>阿德利娜</Female_Adelina_Dumitru_Ade.first>
+    <Female_Adelina_Dumitru_Ade.last>杜米特鲁</Female_Adelina_Dumitru_Ade.last>
+    <Female_Adelina_Dumitru_Ade.nick>艾德</Female_Adelina_Dumitru_Ade.nick>
   </li>
   <li Gender="Male" first="Cullen" last="Olejniczak" nick="Pep">
-    <Male_Cullen_Olejniczak_Pep.first>Cullen</Male_Cullen_Olejniczak_Pep.first>
-    <Male_Cullen_Olejniczak_Pep.last>Olejniczak</Male_Cullen_Olejniczak_Pep.last>
-    <Male_Cullen_Olejniczak_Pep.nick>Pep</Male_Cullen_Olejniczak_Pep.nick>
+    <Male_Cullen_Olejniczak_Pep.first>卡伦</Male_Cullen_Olejniczak_Pep.first>
+    <Male_Cullen_Olejniczak_Pep.last>奥莱伊尼恰克</Male_Cullen_Olejniczak_Pep.last>
+    <Male_Cullen_Olejniczak_Pep.nick>佩普</Male_Cullen_Olejniczak_Pep.nick>
   </li>
   <li Gender="Male" first="Logante" last="Dharke">
-    <Male_Logante_Dharke_EMPTY.first>Logante</Male_Logante_Dharke_EMPTY.first>
-    <Male_Logante_Dharke_EMPTY.last>Dharke</Male_Logante_Dharke_EMPTY.last>
+    <Male_Logante_Dharke_EMPTY.first>洛甘特</Male_Logante_Dharke_EMPTY.first>
+    <Male_Logante_Dharke_EMPTY.last>达尔科</Male_Logante_Dharke_EMPTY.last>
   </li>
   <li Gender="Either" first="Max" last="Herzog" nick="Grumps">
-    <Either_Max_Herzog_Grumps.first>Max</Either_Max_Herzog_Grumps.first>
-    <Either_Max_Herzog_Grumps.last>Herzog</Either_Max_Herzog_Grumps.last>
-    <Either_Max_Herzog_Grumps.nick>Grumps</Either_Max_Herzog_Grumps.nick>
+    <Either_Max_Herzog_Grumps.first>马克思</Either_Max_Herzog_Grumps.first>
+    <Either_Max_Herzog_Grumps.last>赫尔佐克</Either_Max_Herzog_Grumps.last>
+    <Either_Max_Herzog_Grumps.nick>抱怨鬼</Either_Max_Herzog_Grumps.nick>
   </li>
   <li Gender="Male" first="Judas" last="Vernskey">
-    <Male_Judas_Vernskey_EMPTY.first>Judas</Male_Judas_Vernskey_EMPTY.first>
-    <Male_Judas_Vernskey_EMPTY.last>Vernskey</Male_Judas_Vernskey_EMPTY.last>
+    <Male_Judas_Vernskey_EMPTY.first>朱达</Male_Judas_Vernskey_EMPTY.first>
+    <Male_Judas_Vernskey_EMPTY.last>维尔斯基</Male_Judas_Vernskey_EMPTY.last>
   </li>
   <li Gender="Female" first="Kisaki" last="Spoosh" nick="Kisaki">
-    <Female_Kisaki_Spoosh_Kisaki.first>Kisaki</Female_Kisaki_Spoosh_Kisaki.first>
-    <Female_Kisaki_Spoosh_Kisaki.last>Spoosh</Female_Kisaki_Spoosh_Kisaki.last>
-    <Female_Kisaki_Spoosh_Kisaki.nick>Kisaki</Female_Kisaki_Spoosh_Kisaki.nick>
+    <Female_Kisaki_Spoosh_Kisaki.first>基萨基</Female_Kisaki_Spoosh_Kisaki.first>
+    <Female_Kisaki_Spoosh_Kisaki.last>斯波什</Female_Kisaki_Spoosh_Kisaki.last>
+    <Female_Kisaki_Spoosh_Kisaki.nick>基萨基</Female_Kisaki_Spoosh_Kisaki.nick>
   </li>
   <li Gender="Female" first="Dayla" last="Arroway">
-    <Female_Dayla_Arroway_EMPTY.first>Dayla</Female_Dayla_Arroway_EMPTY.first>
-    <Female_Dayla_Arroway_EMPTY.last>Arroway</Female_Dayla_Arroway_EMPTY.last>
+    <Female_Dayla_Arroway_EMPTY.first>德拉</Female_Dayla_Arroway_EMPTY.first>
+    <Female_Dayla_Arroway_EMPTY.last>阿洛韦</Female_Dayla_Arroway_EMPTY.last>
   </li>
   <li Gender="Male" first="Rod" last="Theod" nick="Odd">
-    <Male_Rod_Theod_Odd.first>Rod</Male_Rod_Theod_Odd.first>
-    <Male_Rod_Theod_Odd.last>Theod</Male_Rod_Theod_Odd.last>
-    <Male_Rod_Theod_Odd.nick>Odd</Male_Rod_Theod_Odd.nick>
+    <Male_Rod_Theod_Odd.first>罗德</Male_Rod_Theod_Odd.first>
+    <Male_Rod_Theod_Odd.last>特奥德</Male_Rod_Theod_Odd.last>
+    <Male_Rod_Theod_Odd.nick>奥德</Male_Rod_Theod_Odd.nick>
   </li>
   <li Gender="Male" first="Andrey" last="Gussev" nick="Ateron">
-    <Male_Andrey_Gussev_Ateron.first>Andrey</Male_Andrey_Gussev_Ateron.first>
-    <Male_Andrey_Gussev_Ateron.last>Gussev</Male_Andrey_Gussev_Ateron.last>
-    <Male_Andrey_Gussev_Ateron.nick>Ateron</Male_Andrey_Gussev_Ateron.nick>
+    <Male_Andrey_Gussev_Ateron.first>安德烈</Male_Andrey_Gussev_Ateron.first>
+    <Male_Andrey_Gussev_Ateron.last>加谢夫</Male_Andrey_Gussev_Ateron.last>
+    <Male_Andrey_Gussev_Ateron.nick>安德鲁</Male_Andrey_Gussev_Ateron.nick>
   </li>
   <li Gender="Female" first="Valerie" last="Polakowski" nick="Vally">
-    <Female_Valerie_Polakowski_Vally.first>Valerie</Female_Valerie_Polakowski_Vally.first>
-    <Female_Valerie_Polakowski_Vally.last>Polakowski</Female_Valerie_Polakowski_Vally.last>
-    <Female_Valerie_Polakowski_Vally.nick>Vally</Female_Valerie_Polakowski_Vally.nick>
+    <Female_Valerie_Polakowski_Vally.first>瓦莱丽</Female_Valerie_Polakowski_Vally.first>
+    <Female_Valerie_Polakowski_Vally.last>波拉科维奇</Female_Valerie_Polakowski_Vally.last>
+    <Female_Valerie_Polakowski_Vally.nick>瓦丽</Female_Valerie_Polakowski_Vally.nick>
   </li>
   <li Gender="Male" first="Rander" last="Snollocer" nick="Rander">
-    <Male_Rander_Snollocer_Rander.first>Rander</Male_Rander_Snollocer_Rander.first>
-    <Male_Rander_Snollocer_Rander.last>Snollocer</Male_Rander_Snollocer_Rander.last>
-    <Male_Rander_Snollocer_Rander.nick>Rander</Male_Rander_Snollocer_Rander.nick>
+    <Male_Rander_Snollocer_Rander.first>兰德</Male_Rander_Snollocer_Rander.first>
+    <Male_Rander_Snollocer_Rander.last>斯诺鲁舍尔</Male_Rander_Snollocer_Rander.last>
+    <Male_Rander_Snollocer_Rander.nick>兰德</Male_Rander_Snollocer_Rander.nick>
   </li>
   <li Gender="Either" first="Shiro" last="Hori" nick="White">
-    <Either_Shiro_Hori_White.first>Shiro</Either_Shiro_Hori_White.first>
-    <Either_Shiro_Hori_White.last>Hori</Either_Shiro_Hori_White.last>
-    <Either_Shiro_Hori_White.nick>White</Either_Shiro_Hori_White.nick>
+    <Either_Shiro_Hori_White.first>士郎</Either_Shiro_Hori_White.first>
+    <Either_Shiro_Hori_White.last>堀</Either_Shiro_Hori_White.last>
+    <Either_Shiro_Hori_White.nick>白色</Either_Shiro_Hori_White.nick>
   </li>
   <li Gender="Male" first="Eduardo" last="de Moraes" nick="Erre">
-    <Male_Eduardo_deMoraes_Erre.first>Eduardo</Male_Eduardo_deMoraes_Erre.first>
-    <Male_Eduardo_deMoraes_Erre.last>de Moraes</Male_Eduardo_deMoraes_Erre.last>
-    <Male_Eduardo_deMoraes_Erre.nick>Erre</Male_Eduardo_deMoraes_Erre.nick>
+    <Male_Eduardo_deMoraes_Erre.first>爱德华多</Male_Eduardo_deMoraes_Erre.first>
+    <Male_Eduardo_deMoraes_Erre.last>德莫赖斯</Male_Eduardo_deMoraes_Erre.last>
+    <Male_Eduardo_deMoraes_Erre.nick>埃尔</Male_Eduardo_deMoraes_Erre.nick>
   </li>
   <li Gender="Female" first="Serra" last="Lear">
-    <Female_Serra_Lear_EMPTY.first>Serra</Female_Serra_Lear_EMPTY.first>
-    <Female_Serra_Lear_EMPTY.last>Lear</Female_Serra_Lear_EMPTY.last>
+    <Female_Serra_Lear_EMPTY.first>塞拉</Female_Serra_Lear_EMPTY.first>
+    <Female_Serra_Lear_EMPTY.last>利尔</Female_Serra_Lear_EMPTY.last>
   </li>
   <li Gender="Female" first="Cyprian" last="Lacey" nick="Cy">
-    <Female_Cyprian_Lacey_Cy.first>Cyprian</Female_Cyprian_Lacey_Cy.first>
-    <Female_Cyprian_Lacey_Cy.last>Lacey</Female_Cyprian_Lacey_Cy.last>
-    <Female_Cyprian_Lacey_Cy.nick>Cy</Female_Cyprian_Lacey_Cy.nick>
+    <Female_Cyprian_Lacey_Cy.first>西普里安</Female_Cyprian_Lacey_Cy.first>
+    <Female_Cyprian_Lacey_Cy.last>莱西</Female_Cyprian_Lacey_Cy.last>
+    <Female_Cyprian_Lacey_Cy.nick>茜</Female_Cyprian_Lacey_Cy.nick>
   </li>
   <li Gender="Either" first="Robert" last="Burban" nick="Burban">
-    <Either_Robert_Burban_Burban.first>Robert</Either_Robert_Burban_Burban.first>
-    <Either_Robert_Burban_Burban.last>Burban</Either_Robert_Burban_Burban.last>
-    <Either_Robert_Burban_Burban.nick>Burban</Either_Robert_Burban_Burban.nick>
+    <Either_Robert_Burban_Burban.first>罗伯特</Either_Robert_Burban_Burban.first>
+    <Either_Robert_Burban_Burban.last>博班</Either_Robert_Burban_Burban.last>
+    <Either_Robert_Burban_Burban.nick>博班</Either_Robert_Burban_Burban.nick>
   </li>
   <li Gender="Male" first="Unkow" last="Manus" nick="Schlitzer">
-    <Male_Unkow_Manus_Schlitzer.first>Unkow</Male_Unkow_Manus_Schlitzer.first>
-    <Male_Unkow_Manus_Schlitzer.last>Manus</Male_Unkow_Manus_Schlitzer.last>
-    <Male_Unkow_Manus_Schlitzer.nick>Schlitzer</Male_Unkow_Manus_Schlitzer.nick>
+    <Male_Unkow_Manus_Schlitzer.first>温库</Male_Unkow_Manus_Schlitzer.first>
+    <Male_Unkow_Manus_Schlitzer.last>玛纳斯</Male_Unkow_Manus_Schlitzer.last>
+    <Male_Unkow_Manus_Schlitzer.nick>施利策</Male_Unkow_Manus_Schlitzer.nick>
   </li>
   <li Gender="Male" first="Bas" last="Hoekstra" nick="Basterd">
-    <Male_Bas_Hoekstra_Basterd.first>Bas</Male_Bas_Hoekstra_Basterd.first>
-    <Male_Bas_Hoekstra_Basterd.last>Hoekstra</Male_Bas_Hoekstra_Basterd.last>
-    <Male_Bas_Hoekstra_Basterd.nick>Basterd</Male_Bas_Hoekstra_Basterd.nick>
+    <Male_Bas_Hoekstra_Basterd.first>巴斯</Male_Bas_Hoekstra_Basterd.first>
+    <Male_Bas_Hoekstra_Basterd.last>胡克斯特拉</Male_Bas_Hoekstra_Basterd.last>
+    <Male_Bas_Hoekstra_Basterd.nick>混蛋</Male_Bas_Hoekstra_Basterd.nick>
   </li>
   <li Gender="Female" first="Andrea" last="Valachovic" nick="Ada">
-    <Female_Andrea_Valachovic_Ada.first>Andrea</Female_Andrea_Valachovic_Ada.first>
-    <Female_Andrea_Valachovic_Ada.last>Valachovic</Female_Andrea_Valachovic_Ada.last>
-    <Female_Andrea_Valachovic_Ada.nick>Ada</Female_Andrea_Valachovic_Ada.nick>
+    <Female_Andrea_Valachovic_Ada.first>安德莉亚</Female_Andrea_Valachovic_Ada.first>
+    <Female_Andrea_Valachovic_Ada.last>瓦拉霍维奇</Female_Andrea_Valachovic_Ada.last>
+    <Female_Andrea_Valachovic_Ada.nick>艾达</Female_Andrea_Valachovic_Ada.nick>
   </li>
   <li Gender="Male" first="Sorama" last="Aoki">
-    <Male_Sorama_Aoki_EMPTY.first>Sorama</Male_Sorama_Aoki_EMPTY.first>
-    <Male_Sorama_Aoki_EMPTY.last>Aoki</Male_Sorama_Aoki_EMPTY.last>
+    <Male_Sorama_Aoki_EMPTY.first>索拉马</Male_Sorama_Aoki_EMPTY.first>
+    <Male_Sorama_Aoki_EMPTY.last>奥吉</Male_Sorama_Aoki_EMPTY.last>
   </li>
   <li Gender="Male" first="Jeppe" last="Staver" nick="Jay">
-    <Male_Jeppe_Staver_Jay.first>Jeppe</Male_Jeppe_Staver_Jay.first>
-    <Male_Jeppe_Staver_Jay.last>Staver</Male_Jeppe_Staver_Jay.last>
-    <Male_Jeppe_Staver_Jay.nick>Jay</Male_Jeppe_Staver_Jay.nick>
+    <Male_Jeppe_Staver_Jay.first>耶珀</Male_Jeppe_Staver_Jay.first>
+    <Male_Jeppe_Staver_Jay.last>斯塔韦尔</Male_Jeppe_Staver_Jay.last>
+    <Male_Jeppe_Staver_Jay.nick>杰伊</Male_Jeppe_Staver_Jay.nick>
   </li>
   <li Gender="Male" first="Teodore" last="Raphael" nick="Teo">
-    <Male_Teodore_Raphael_Teo.first>Teodore</Male_Teodore_Raphael_Teo.first>
-    <Male_Teodore_Raphael_Teo.last>Raphael</Male_Teodore_Raphael_Teo.last>
-    <Male_Teodore_Raphael_Teo.nick>Teo</Male_Teodore_Raphael_Teo.nick>
+    <Male_Teodore_Raphael_Teo.first>特奥多</Male_Teodore_Raphael_Teo.first>
+    <Male_Teodore_Raphael_Teo.last>拉斐尔</Male_Teodore_Raphael_Teo.last>
+    <Male_Teodore_Raphael_Teo.nick>特奥</Male_Teodore_Raphael_Teo.nick>
   </li>
   <li Gender="Male" first="Georg" last="Ziesel" nick="Captain">
-    <Male_Georg_Ziesel_Captain.first>Georg</Male_Georg_Ziesel_Captain.first>
-    <Male_Georg_Ziesel_Captain.last>Ziesel</Male_Georg_Ziesel_Captain.last>
-    <Male_Georg_Ziesel_Captain.nick>Captain</Male_Georg_Ziesel_Captain.nick>
+    <Male_Georg_Ziesel_Captain.first>格奥尔格</Male_Georg_Ziesel_Captain.first>
+    <Male_Georg_Ziesel_Captain.last>齐泽尔</Male_Georg_Ziesel_Captain.last>
+    <Male_Georg_Ziesel_Captain.nick>队长</Male_Georg_Ziesel_Captain.nick>
   </li>
   <li Gender="Male" first="Jex" last="Deviluke" nick="Lucione">
-    <Male_Jex_Deviluke_Lucione.first>Jex</Male_Jex_Deviluke_Lucione.first>
-    <Male_Jex_Deviluke_Lucione.last>Deviluke</Male_Jex_Deviluke_Lucione.last>
-    <Male_Jex_Deviluke_Lucione.nick>Lucione</Male_Jex_Deviluke_Lucione.nick>
+    <Male_Jex_Deviluke_Lucione.first>耶克斯</Male_Jex_Deviluke_Lucione.first>
+    <Male_Jex_Deviluke_Lucione.last>大卫卢克</Male_Jex_Deviluke_Lucione.last>
+    <Male_Jex_Deviluke_Lucione.nick>卢西文</Male_Jex_Deviluke_Lucione.nick>
   </li>
   <li Gender="Male" first="Cornelius" last="Prinsloo" nick="Corndog">
-    <Male_Cornelius_Prinsloo_Corndog.first>Cornelius</Male_Cornelius_Prinsloo_Corndog.first>
-    <Male_Cornelius_Prinsloo_Corndog.last>Prinsloo</Male_Cornelius_Prinsloo_Corndog.last>
-    <Male_Cornelius_Prinsloo_Corndog.nick>Corndog</Male_Cornelius_Prinsloo_Corndog.nick>
+    <Male_Cornelius_Prinsloo_Corndog.first>科尔内留斯</Male_Cornelius_Prinsloo_Corndog.first>
+    <Male_Cornelius_Prinsloo_Corndog.last>普林斯卢</Male_Cornelius_Prinsloo_Corndog.last>
+    <Male_Cornelius_Prinsloo_Corndog.nick>热狗</Male_Cornelius_Prinsloo_Corndog.nick>
   </li>
   <li Gender="Male" first="Duke" last="Ayers" nick="Duke">
-    <Male_Duke_Ayers_Duke.first>Duke</Male_Duke_Ayers_Duke.first>
-    <Male_Duke_Ayers_Duke.last>Ayers</Male_Duke_Ayers_Duke.last>
-    <Male_Duke_Ayers_Duke.nick>Duke</Male_Duke_Ayers_Duke.nick>
+    <Male_Duke_Ayers_Duke.first>杜克</Male_Duke_Ayers_Duke.first>
+    <Male_Duke_Ayers_Duke.last>艾尔斯</Male_Duke_Ayers_Duke.last>
+    <Male_Duke_Ayers_Duke.nick>杜克</Male_Duke_Ayers_Duke.nick>
   </li>
   <li Gender="Male" first="Grendl" last="Kahn" nick="Frick">
-    <Male_Grendl_Kahn_Frick.first>Grendl</Male_Grendl_Kahn_Frick.first>
-    <Male_Grendl_Kahn_Frick.last>Kahn</Male_Grendl_Kahn_Frick.last>
-    <Male_Grendl_Kahn_Frick.nick>Frick</Male_Grendl_Kahn_Frick.nick>
+    <Male_Grendl_Kahn_Frick.first>格伦德</Male_Grendl_Kahn_Frick.first>
+    <Male_Grendl_Kahn_Frick.last>卡恩</Male_Grendl_Kahn_Frick.last>
+    <Male_Grendl_Kahn_Frick.nick>弗里克</Male_Grendl_Kahn_Frick.nick>
   </li>
   <li Gender="Male" first="Vimal" last="Solanki" nick="Conon">
-    <Male_Vimal_Solanki_Conon.first>Vimal</Male_Vimal_Solanki_Conon.first>
-    <Male_Vimal_Solanki_Conon.last>Solanki</Male_Vimal_Solanki_Conon.last>
-    <Male_Vimal_Solanki_Conon.nick>Conon</Male_Vimal_Solanki_Conon.nick>
+    <Male_Vimal_Solanki_Conon.first>维姆</Male_Vimal_Solanki_Conon.first>
+    <Male_Vimal_Solanki_Conon.last>索兰基</Male_Vimal_Solanki_Conon.last>
+    <Male_Vimal_Solanki_Conon.nick>科农</Male_Vimal_Solanki_Conon.nick>
   </li>
   <li Gender="Male" first="Leviel" last="Krazinsky" nick="Lev">
-    <Male_Leviel_Krazinsky_Lev.first>Leviel</Male_Leviel_Krazinsky_Lev.first>
-    <Male_Leviel_Krazinsky_Lev.last>Krazinsky</Male_Leviel_Krazinsky_Lev.last>
-    <Male_Leviel_Krazinsky_Lev.nick>Lev</Male_Leviel_Krazinsky_Lev.nick>
+    <Male_Leviel_Krazinsky_Lev.first>勒维埃尔</Male_Leviel_Krazinsky_Lev.first>
+    <Male_Leviel_Krazinsky_Lev.last>克拉兹斯基</Male_Leviel_Krazinsky_Lev.last>
+    <Male_Leviel_Krazinsky_Lev.nick>列弗</Male_Leviel_Krazinsky_Lev.nick>
   </li>
   <li Gender="Female" first="Aria" last="Sacareno" nick="Ari">
-    <Female_Aria_Sacareno_Ari.first>Aria</Female_Aria_Sacareno_Ari.first>
-    <Female_Aria_Sacareno_Ari.last>Sacareno</Female_Aria_Sacareno_Ari.last>
-    <Female_Aria_Sacareno_Ari.nick>Ari</Female_Aria_Sacareno_Ari.nick>
+    <Female_Aria_Sacareno_Ari.first>阿里亚</Female_Aria_Sacareno_Ari.first>
+    <Female_Aria_Sacareno_Ari.last>萨拉切诺</Female_Aria_Sacareno_Ari.last>
+    <Female_Aria_Sacareno_Ari.nick>阿丽</Female_Aria_Sacareno_Ari.nick>
   </li>
   <li Gender="Male" first="Yuriy" last="Kulbatskiy" nick="Kulek">
-    <Male_Yuriy_Kulbatskiy_Kulek.first>Yuriy</Male_Yuriy_Kulbatskiy_Kulek.first>
-    <Male_Yuriy_Kulbatskiy_Kulek.last>Kulbatskiy</Male_Yuriy_Kulbatskiy_Kulek.last>
-    <Male_Yuriy_Kulbatskiy_Kulek.nick>Kulek</Male_Yuriy_Kulbatskiy_Kulek.nick>
+    <Male_Yuriy_Kulbatskiy_Kulek.first>尤里</Male_Yuriy_Kulbatskiy_Kulek.first>
+    <Male_Yuriy_Kulbatskiy_Kulek.last>库尔巴金斯基</Male_Yuriy_Kulbatskiy_Kulek.last>
+    <Male_Yuriy_Kulbatskiy_Kulek.nick>库尔克</Male_Yuriy_Kulbatskiy_Kulek.nick>
   </li>
   <li Gender="Either" first="Yami" last="Kanade" nick="Kana">
-    <Either_Yami_Kanade_Kana.first>Yami</Either_Yami_Kanade_Kana.first>
-    <Either_Yami_Kanade_Kana.last>Kanade</Either_Yami_Kanade_Kana.last>
-    <Either_Yami_Kanade_Kana.nick>Kana</Either_Yami_Kanade_Kana.nick>
+    <Either_Yami_Kanade_Kana.first>夜</Either_Yami_Kanade_Kana.first>
+    <Either_Yami_Kanade_Kana.last>奏</Either_Yami_Kanade_Kana.last>
+    <Either_Yami_Kanade_Kana.nick>加奈</Either_Yami_Kanade_Kana.nick>
   </li>
   <li Gender="Female" first="Qiwi" last="Lisolet">
-    <Female_Qiwi_Lisolet_EMPTY.first>Qiwi</Female_Qiwi_Lisolet_EMPTY.first>
-    <Female_Qiwi_Lisolet_EMPTY.last>Lisolet</Female_Qiwi_Lisolet_EMPTY.last>
+    <Female_Qiwi_Lisolet_EMPTY.first>奇薇</Female_Qiwi_Lisolet_EMPTY.first>
+    <Female_Qiwi_Lisolet_EMPTY.last>利索莱</Female_Qiwi_Lisolet_EMPTY.last>
   </li>
   <li Gender="Male" first="Caedmon" last="Aldhelm" nick="Prince">
-    <Male_Caedmon_Aldhelm_Prince.first>Caedmon</Male_Caedmon_Aldhelm_Prince.first>
-    <Male_Caedmon_Aldhelm_Prince.last>Aldhelm</Male_Caedmon_Aldhelm_Prince.last>
-    <Male_Caedmon_Aldhelm_Prince.nick>Prince</Male_Caedmon_Aldhelm_Prince.nick>
+    <Male_Caedmon_Aldhelm_Prince.first>卡德蒙</Male_Caedmon_Aldhelm_Prince.first>
+    <Male_Caedmon_Aldhelm_Prince.last>奥尔德赫姆</Male_Caedmon_Aldhelm_Prince.last>
+    <Male_Caedmon_Aldhelm_Prince.nick>王子</Male_Caedmon_Aldhelm_Prince.nick>
   </li>
   <li Gender="Male" first="Sören" last="Kowald" nick="Sorlu">
-    <Male_Sören_Kowald_Sorlu.first>Sören</Male_Sören_Kowald_Sorlu.first>
-    <Male_Sören_Kowald_Sorlu.last>Kowald</Male_Sören_Kowald_Sorlu.last>
-    <Male_Sören_Kowald_Sorlu.nick>Sorlu</Male_Sören_Kowald_Sorlu.nick>
+    <Male_Sören_Kowald_Sorlu.first>索伦</Male_Sören_Kowald_Sorlu.first>
+    <Male_Sören_Kowald_Sorlu.last>科瓦尔德</Male_Sören_Kowald_Sorlu.last>
+    <Male_Sören_Kowald_Sorlu.nick>索鲁</Male_Sören_Kowald_Sorlu.nick>
   </li>
   <li Gender="Either" first="Kei" last="Kouma">
-    <Either_Kei_Kouma_EMPTY.first>Kei</Either_Kei_Kouma_EMPTY.first>
-    <Either_Kei_Kouma_EMPTY.last>Kouma</Either_Kei_Kouma_EMPTY.last>
+    <Either_Kei_Kouma_EMPTY.first>恵</Either_Kei_Kouma_EMPTY.first>
+    <Either_Kei_Kouma_EMPTY.last>红摩</Either_Kei_Kouma_EMPTY.last>
   </li>
   <li Gender="Either" first="Sjoerd" last="Lukas" nick="Bowman">
-    <Either_Sjoerd_Lukas_Bowman.first>Sjoerd</Either_Sjoerd_Lukas_Bowman.first>
-    <Either_Sjoerd_Lukas_Bowman.last>Lukas</Either_Sjoerd_Lukas_Bowman.last>
-    <Either_Sjoerd_Lukas_Bowman.nick>Bowman</Either_Sjoerd_Lukas_Bowman.nick>
+    <Either_Sjoerd_Lukas_Bowman.first>舒尔德</Either_Sjoerd_Lukas_Bowman.first>
+    <Either_Sjoerd_Lukas_Bowman.last>卢卡斯</Either_Sjoerd_Lukas_Bowman.last>
+    <Either_Sjoerd_Lukas_Bowman.nick>鲍曼</Either_Sjoerd_Lukas_Bowman.nick>
   </li>
   <li Gender="Male" first="Matthieu" last="Boubal" nick="Matt">
-    <Male_Matthieu_Boubal_Matt.first>Matthieu</Male_Matthieu_Boubal_Matt.first>
-    <Male_Matthieu_Boubal_Matt.last>Boubal</Male_Matthieu_Boubal_Matt.last>
-    <Male_Matthieu_Boubal_Matt.nick>Matt</Male_Matthieu_Boubal_Matt.nick>
+    <Male_Matthieu_Boubal_Matt.first>马蒂厄</Male_Matthieu_Boubal_Matt.first>
+    <Male_Matthieu_Boubal_Matt.last>布巴尔</Male_Matthieu_Boubal_Matt.last>
+    <Male_Matthieu_Boubal_Matt.nick>马特</Male_Matthieu_Boubal_Matt.nick>
   </li>
   <li Gender="Male" first="Bernie" last="McMaster" nick="Nar">
-    <Male_Bernie_McMaster_Nar.first>Bernie</Male_Bernie_McMaster_Nar.first>
-    <Male_Bernie_McMaster_Nar.last>McMaster</Male_Bernie_McMaster_Nar.last>
-    <Male_Bernie_McMaster_Nar.nick>Nar</Male_Bernie_McMaster_Nar.nick>
+    <Male_Bernie_McMaster_Nar.first>伯尼</Male_Bernie_McMaster_Nar.first>
+    <Male_Bernie_McMaster_Nar.last>麦克马斯特</Male_Bernie_McMaster_Nar.last>
+    <Male_Bernie_McMaster_Nar.nick>纳尔</Male_Bernie_McMaster_Nar.nick>
   </li>
   <li Gender="Either" first="Akai" last="Chinchilla">
-    <Either_Akai_Chinchilla_EMPTY.first>Akai</Either_Akai_Chinchilla_EMPTY.first>
-    <Either_Akai_Chinchilla_EMPTY.last>Chinchilla</Either_Akai_Chinchilla_EMPTY.last>
+    <Either_Akai_Chinchilla_EMPTY.first>阿凯</Either_Akai_Chinchilla_EMPTY.first>
+    <Either_Akai_Chinchilla_EMPTY.last>钦奇利亚</Either_Akai_Chinchilla_EMPTY.last>
   </li>
   <li Gender="Male" first="Aasajo" last="Oketei">
-    <Male_Aasajo_Oketei_EMPTY.first>Aasajo</Male_Aasajo_Oketei_EMPTY.first>
-    <Male_Aasajo_Oketei_EMPTY.last>Oketei</Male_Aasajo_Oketei_EMPTY.last>
+    <Male_Aasajo_Oketei_EMPTY.first>阿萨霍</Male_Aasajo_Oketei_EMPTY.first>
+    <Male_Aasajo_Oketei_EMPTY.last>奥凯蒂</Male_Aasajo_Oketei_EMPTY.last>
   </li>
   <li Gender="Male" first="Randy" last="van Zundert" nick="Goldfang">
-    <Male_Randy_vanZundert_Goldfang.first>Randy</Male_Randy_vanZundert_Goldfang.first>
-    <Male_Randy_vanZundert_Goldfang.last>van Zundert</Male_Randy_vanZundert_Goldfang.last>
-    <Male_Randy_vanZundert_Goldfang.nick>Goldfang</Male_Randy_vanZundert_Goldfang.nick>
+    <Male_Randy_vanZundert_Goldfang.first>兰迪</Male_Randy_vanZundert_Goldfang.first>
+    <Male_Randy_vanZundert_Goldfang.last>范宗德尔特</Male_Randy_vanZundert_Goldfang.last>
+    <Male_Randy_vanZundert_Goldfang.nick>金牙</Male_Randy_vanZundert_Goldfang.nick>
   </li>
   <li Gender="Male" first="Sandro" last="Macaroni" nick="Sandro">
-    <Male_Sandro_Macaroni_Sandro.first>Sandro</Male_Sandro_Macaroni_Sandro.first>
-    <Male_Sandro_Macaroni_Sandro.last>Macaroni</Male_Sandro_Macaroni_Sandro.last>
-    <Male_Sandro_Macaroni_Sandro.nick>Sandro</Male_Sandro_Macaroni_Sandro.nick>
+    <Male_Sandro_Macaroni_Sandro.first>桑德罗</Male_Sandro_Macaroni_Sandro.first>
+    <Male_Sandro_Macaroni_Sandro.last>马可罗尼</Male_Sandro_Macaroni_Sandro.last>
+    <Male_Sandro_Macaroni_Sandro.nick>桑德罗</Male_Sandro_Macaroni_Sandro.nick>
   </li>
   <li Gender="Female" first="Katherine" last="Morison" nick="Katie">
-    <Female_Katherine_Morison_Katie.first>Katherine</Female_Katherine_Morison_Katie.first>
-    <Female_Katherine_Morison_Katie.last>Morison</Female_Katherine_Morison_Katie.last>
-    <Female_Katherine_Morison_Katie.nick>Katie</Female_Katherine_Morison_Katie.nick>
+    <Female_Katherine_Morison_Katie.first>凯瑟琳</Female_Katherine_Morison_Katie.first>
+    <Female_Katherine_Morison_Katie.last>莫里森</Female_Katherine_Morison_Katie.last>
+    <Female_Katherine_Morison_Katie.nick>凯蒂</Female_Katherine_Morison_Katie.nick>
   </li>
   <li Gender="Either" first="Ferco" last="Ectec" nick="Ferco">
-    <Either_Ferco_Ectec_Ferco.first>Ferco</Either_Ferco_Ectec_Ferco.first>
-    <Either_Ferco_Ectec_Ferco.last>Ectec</Either_Ferco_Ectec_Ferco.last>
-    <Either_Ferco_Ectec_Ferco.nick>Ferco</Either_Ferco_Ectec_Ferco.nick>
+    <Either_Ferco_Ectec_Ferco.first>费尔科</Either_Ferco_Ectec_Ferco.first>
+    <Either_Ferco_Ectec_Ferco.last>艾克提克</Either_Ferco_Ectec_Ferco.last>
+    <Either_Ferco_Ectec_Ferco.nick>费尔科</Either_Ferco_Ectec_Ferco.nick>
   </li>
   <li Gender="Male" first="Tyber" last="Allwood" nick="Ty">
-    <Male_Tyber_Allwood_Ty.first>Tyber</Male_Tyber_Allwood_Ty.first>
-    <Male_Tyber_Allwood_Ty.last>Allwood</Male_Tyber_Allwood_Ty.last>
-    <Male_Tyber_Allwood_Ty.nick>Ty</Male_Tyber_Allwood_Ty.nick>
+    <Male_Tyber_Allwood_Ty.first>蒂贝尔</Male_Tyber_Allwood_Ty.first>
+    <Male_Tyber_Allwood_Ty.last>奥尔伍德</Male_Tyber_Allwood_Ty.last>
+    <Male_Tyber_Allwood_Ty.nick>迪</Male_Tyber_Allwood_Ty.nick>
   </li>
   <li Gender="Female" first="Migiri" last="Hidari" nick="Lancer">
-    <Female_Migiri_Hidari_Lancer.first>Migiri</Female_Migiri_Hidari_Lancer.first>
-    <Female_Migiri_Hidari_Lancer.last>Hidari</Female_Migiri_Hidari_Lancer.last>
-    <Female_Migiri_Hidari_Lancer.nick>Lancer</Female_Migiri_Hidari_Lancer.nick>
+    <Female_Migiri_Hidari_Lancer.first>美桐</Female_Migiri_Hidari_Lancer.first>
+    <Female_Migiri_Hidari_Lancer.last>左</Female_Migiri_Hidari_Lancer.last>
+    <Female_Migiri_Hidari_Lancer.nick>枪兵</Female_Migiri_Hidari_Lancer.nick>
   </li>
   <li Gender="Male" first="Jarod" last="Pankratz" nick="Slack">
-    <Male_Jarod_Pankratz_Slack.first>Jarod</Male_Jarod_Pankratz_Slack.first>
-    <Male_Jarod_Pankratz_Slack.last>Pankratz</Male_Jarod_Pankratz_Slack.last>
-    <Male_Jarod_Pankratz_Slack.nick>Slack</Male_Jarod_Pankratz_Slack.nick>
+    <Male_Jarod_Pankratz_Slack.first>贾罗德</Male_Jarod_Pankratz_Slack.first>
+    <Male_Jarod_Pankratz_Slack.last>潘克拉茨</Male_Jarod_Pankratz_Slack.last>
+    <Male_Jarod_Pankratz_Slack.nick>懒蛋</Male_Jarod_Pankratz_Slack.nick>
   </li>
   <li Gender="Male" first="Enyaron" last="Takashiro" nick="Enya">
-    <Male_Enyaron_Takashiro_Enya.first>Enyaron</Male_Enyaron_Takashiro_Enya.first>
-    <Male_Enyaron_Takashiro_Enya.last>Takashiro</Male_Enyaron_Takashiro_Enya.last>
-    <Male_Enyaron_Takashiro_Enya.nick>Enya</Male_Enyaron_Takashiro_Enya.nick>
+    <Male_Enyaron_Takashiro_Enya.first>埃尼亚伦</Male_Enyaron_Takashiro_Enya.first>
+    <Male_Enyaron_Takashiro_Enya.last>高城</Male_Enyaron_Takashiro_Enya.last>
+    <Male_Enyaron_Takashiro_Enya.nick>恩亚</Male_Enyaron_Takashiro_Enya.nick>
   </li>
   <li Gender="Male" first="Rannan" last="Duttera" nick="Rannan">
-    <Male_Rannan_Duttera_Rannan.first>Rannan</Male_Rannan_Duttera_Rannan.first>
-    <Male_Rannan_Duttera_Rannan.last>Duttera</Male_Rannan_Duttera_Rannan.last>
-    <Male_Rannan_Duttera_Rannan.nick>Rannan</Male_Rannan_Duttera_Rannan.nick>
+    <Male_Rannan_Duttera_Rannan.first>兰南</Male_Rannan_Duttera_Rannan.first>
+    <Male_Rannan_Duttera_Rannan.last>杜特拉</Male_Rannan_Duttera_Rannan.last>
+    <Male_Rannan_Duttera_Rannan.nick>兰南</Male_Rannan_Duttera_Rannan.nick>
   </li>
   <li Gender="Male" first="Salin" last="Kael" nick="Salin">
-    <Male_Salin_Kael_Salin.first>Salin</Male_Salin_Kael_Salin.first>
-    <Male_Salin_Kael_Salin.last>Kael</Male_Salin_Kael_Salin.last>
-    <Male_Salin_Kael_Salin.nick>Salin</Male_Salin_Kael_Salin.nick>
+    <Male_Salin_Kael_Salin.first>扎林</Male_Salin_Kael_Salin.first>
+    <Male_Salin_Kael_Salin.last>科尔</Male_Salin_Kael_Salin.last>
+    <Male_Salin_Kael_Salin.nick>扎林</Male_Salin_Kael_Salin.nick>
   </li>
   <li Gender="Female" first="Kitty" last="Katina">
-    <Female_Kitty_Katina_EMPTY.first>Kitty</Female_Kitty_Katina_EMPTY.first>
-    <Female_Kitty_Katina_EMPTY.last>Katina</Female_Kitty_Katina_EMPTY.last>
+    <Female_Kitty_Katina_EMPTY.first>姬蒂</Female_Kitty_Katina_EMPTY.first>
+    <Female_Kitty_Katina_EMPTY.last>卡蒂娜</Female_Kitty_Katina_EMPTY.last>
   </li>
   <li Gender="Male" first="Zol" last="Hajnal">
-    <Male_Zol_Hajnal_EMPTY.first>Zol</Male_Zol_Hajnal_EMPTY.first>
-    <Male_Zol_Hajnal_EMPTY.last>Hajnal</Male_Zol_Hajnal_EMPTY.last>
+    <Male_Zol_Hajnal_EMPTY.first>佐尔</Male_Zol_Hajnal_EMPTY.first>
+    <Male_Zol_Hajnal_EMPTY.last>豪伊瑙尔</Male_Zol_Hajnal_EMPTY.last>
   </li>
   <li Gender="Female" first="Amber" last="Cullen" nick="Bambi">
-    <Female_Amber_Cullen_Bambi.first>Amber</Female_Amber_Cullen_Bambi.first>
-    <Female_Amber_Cullen_Bambi.last>Cullen</Female_Amber_Cullen_Bambi.last>
-    <Female_Amber_Cullen_Bambi.nick>Bambi</Female_Amber_Cullen_Bambi.nick>
+    <Female_Amber_Cullen_Bambi.first>阿贝尔</Female_Amber_Cullen_Bambi.first>
+    <Female_Amber_Cullen_Bambi.last>卡伦</Female_Amber_Cullen_Bambi.last>
+    <Female_Amber_Cullen_Bambi.nick>班比</Female_Amber_Cullen_Bambi.nick>
   </li>
   <li Gender="Either" first="Tomoe" last="Sato" nick="Tomo">
-    <Either_Tomoe_Sato_Tomo.first>Tomoe</Either_Tomoe_Sato_Tomo.first>
-    <Either_Tomoe_Sato_Tomo.last>Sato</Either_Tomoe_Sato_Tomo.last>
-    <Either_Tomoe_Sato_Tomo.nick>Tomo</Either_Tomoe_Sato_Tomo.nick>
+    <Either_Tomoe_Sato_Tomo.first>智絵</Either_Tomoe_Sato_Tomo.first>
+    <Either_Tomoe_Sato_Tomo.last>佐藤</Either_Tomoe_Sato_Tomo.last>
+    <Either_Tomoe_Sato_Tomo.nick>智</Either_Tomoe_Sato_Tomo.nick>
   </li>
   <li Gender="Female" first="Anri" last="Minase" nick="Anri">
-    <Female_Anri_Minase_Anri.first>Anri</Female_Anri_Minase_Anri.first>
-    <Female_Anri_Minase_Anri.last>Minase</Female_Anri_Minase_Anri.last>
-    <Female_Anri_Minase_Anri.nick>Anri</Female_Anri_Minase_Anri.nick>
+    <Female_Anri_Minase_Anri.first>杏里</Female_Anri_Minase_Anri.first>
+    <Female_Anri_Minase_Anri.last>水無瀬</Female_Anri_Minase_Anri.last>
+    <Female_Anri_Minase_Anri.nick>杏里</Female_Anri_Minase_Anri.nick>
   </li>
   <li Gender="Male" first="Lourens" last="Gotze">
-    <Male_Lourens_Gotze_EMPTY.first>Lourens</Male_Lourens_Gotze_EMPTY.first>
-    <Male_Lourens_Gotze_EMPTY.last>Gotze</Male_Lourens_Gotze_EMPTY.last>
+    <Male_Lourens_Gotze_EMPTY.first>洛伦斯</Male_Lourens_Gotze_EMPTY.first>
+    <Male_Lourens_Gotze_EMPTY.last>格策</Male_Lourens_Gotze_EMPTY.last>
   </li>
   <li Gender="Male" first="Baylus" last="Tunnicliff">
-    <Male_Baylus_Tunnicliff_EMPTY.first>Baylus</Male_Baylus_Tunnicliff_EMPTY.first>
-    <Male_Baylus_Tunnicliff_EMPTY.last>Tunnicliff</Male_Baylus_Tunnicliff_EMPTY.last>
+    <Male_Baylus_Tunnicliff_EMPTY.first>贝勒斯</Male_Baylus_Tunnicliff_EMPTY.first>
+    <Male_Baylus_Tunnicliff_EMPTY.last>滕尼克利夫</Male_Baylus_Tunnicliff_EMPTY.last>
   </li>
   <li Gender="Male" first="Fuzake" last="Garou" nick="Garou">
-    <Male_Fuzake_Garou_Garou.first>Fuzake</Male_Fuzake_Garou_Garou.first>
-    <Male_Fuzake_Garou_Garou.last>Garou</Male_Fuzake_Garou_Garou.last>
-    <Male_Fuzake_Garou_Garou.nick>Garou</Male_Fuzake_Garou_Garou.nick>
+    <Male_Fuzake_Garou_Garou.first>嬉笑</Male_Fuzake_Garou_Garou.first>
+    <Male_Fuzake_Garou_Garou.last>餓狼</Male_Fuzake_Garou_Garou.last>
+    <Male_Fuzake_Garou_Garou.nick>餓狼</Male_Fuzake_Garou_Garou.nick>
   </li>
   <li Gender="Male" first="Chuhan" last="Qin">
-    <Male_Chuhan_Qin_EMPTY.first>Chuhan</Male_Chuhan_Qin_EMPTY.first>
-    <Male_Chuhan_Qin_EMPTY.last>Qin</Male_Chuhan_Qin_EMPTY.last>
+    <Male_Chuhan_Qin_EMPTY.first>楚汉</Male_Chuhan_Qin_EMPTY.first>
+    <Male_Chuhan_Qin_EMPTY.last>秦</Male_Chuhan_Qin_EMPTY.last>
   </li>
   <li Gender="Male" first="Mikko" last="Kuosa">
-    <Male_Mikko_Kuosa_EMPTY.first>Mikko</Male_Mikko_Kuosa_EMPTY.first>
-    <Male_Mikko_Kuosa_EMPTY.last>Kuosa</Male_Mikko_Kuosa_EMPTY.last>
+    <Male_Mikko_Kuosa_EMPTY.first>米科</Male_Mikko_Kuosa_EMPTY.first>
+    <Male_Mikko_Kuosa_EMPTY.last>库奥萨</Male_Mikko_Kuosa_EMPTY.last>
   </li>
   <li Gender="Male" first="Dario" last="Aguiriano">
-    <Male_Dario_Aguiriano_EMPTY.first>Dario</Male_Dario_Aguiriano_EMPTY.first>
-    <Male_Dario_Aguiriano_EMPTY.last>Aguiriano</Male_Dario_Aguiriano_EMPTY.last>
+    <Male_Dario_Aguiriano_EMPTY.first>达里奥</Male_Dario_Aguiriano_EMPTY.first>
+    <Male_Dario_Aguiriano_EMPTY.last>阿吉里亚诺</Male_Dario_Aguiriano_EMPTY.last>
   </li>
   <li Gender="Female" first="Erane" last="Wolves" nick="Kitty">
-    <Female_Erane_Wolves_Kitty.first>Erane</Female_Erane_Wolves_Kitty.first>
-    <Female_Erane_Wolves_Kitty.last>Wolves</Female_Erane_Wolves_Kitty.last>
-    <Female_Erane_Wolves_Kitty.nick>Kitty</Female_Erane_Wolves_Kitty.nick>
+    <Female_Erane_Wolves_Kitty.first>艾瑞恩</Female_Erane_Wolves_Kitty.first>
+    <Female_Erane_Wolves_Kitty.last>沃尔夫斯</Female_Erane_Wolves_Kitty.last>
+    <Female_Erane_Wolves_Kitty.nick>猫咪</Female_Erane_Wolves_Kitty.nick>
   </li>
   <li Gender="Female" first="Kalico" last="Sydor" nick="Kali">
-    <Female_Kalico_Sydor_Kali.first>Kalico</Female_Kalico_Sydor_Kali.first>
-    <Female_Kalico_Sydor_Kali.last>Sydor</Female_Kalico_Sydor_Kali.last>
-    <Female_Kalico_Sydor_Kali.nick>Kali</Female_Kalico_Sydor_Kali.nick>
+    <Female_Kalico_Sydor_Kali.first>卡丽科</Female_Kalico_Sydor_Kali.first>
+    <Female_Kalico_Sydor_Kali.last>希多尔</Female_Kalico_Sydor_Kali.last>
+    <Female_Kalico_Sydor_Kali.nick>卡丽</Female_Kalico_Sydor_Kali.nick>
   </li>
   <li Gender="Male" first="Gim" last="Aster" nick="Grue">
-    <Male_Gim_Aster_Grue.first>Gim</Male_Gim_Aster_Grue.first>
-    <Male_Gim_Aster_Grue.last>Aster</Male_Gim_Aster_Grue.last>
-    <Male_Gim_Aster_Grue.nick>Grue</Male_Gim_Aster_Grue.nick>
+    <Male_Gim_Aster_Grue.first>吉姆</Male_Gim_Aster_Grue.first>
+    <Male_Gim_Aster_Grue.last>阿斯特尔</Male_Gim_Aster_Grue.last>
+    <Male_Gim_Aster_Grue.nick>格鲁</Male_Gim_Aster_Grue.nick>
   </li>
   <li Gender="Male" first="Perkin" last="Warbeck" nick="Warbeck">
-    <Male_Perkin_Warbeck_Warbeck.first>Perkin</Male_Perkin_Warbeck_Warbeck.first>
-    <Male_Perkin_Warbeck_Warbeck.last>Warbeck</Male_Perkin_Warbeck_Warbeck.last>
-    <Male_Perkin_Warbeck_Warbeck.nick>Warbeck</Male_Perkin_Warbeck_Warbeck.nick>
+    <Male_Perkin_Warbeck_Warbeck.first>珀金</Male_Perkin_Warbeck_Warbeck.first>
+    <Male_Perkin_Warbeck_Warbeck.last>沃贝克</Male_Perkin_Warbeck_Warbeck.last>
+    <Male_Perkin_Warbeck_Warbeck.nick>沃贝克</Male_Perkin_Warbeck_Warbeck.nick>
   </li>
   <li Gender="Male" first="Alpha" last="Haynes">
-    <Male_Alpha_Haynes_EMPTY.first>Alpha</Male_Alpha_Haynes_EMPTY.first>
-    <Male_Alpha_Haynes_EMPTY.last>Haynes</Male_Alpha_Haynes_EMPTY.last>
+    <Male_Alpha_Haynes_EMPTY.first>阿尔法</Male_Alpha_Haynes_EMPTY.first>
+    <Male_Alpha_Haynes_EMPTY.last>海恩斯</Male_Alpha_Haynes_EMPTY.last>
   </li>
   <li Gender="Male" first="Kenny" last="McComic" nick="Kenny">
-    <Male_Kenny_McComic_Kenny.first>Kenny</Male_Kenny_McComic_Kenny.first>
-    <Male_Kenny_McComic_Kenny.last>McComic</Male_Kenny_McComic_Kenny.last>
-    <Male_Kenny_McComic_Kenny.nick>Kenny</Male_Kenny_McComic_Kenny.nick>
+    <Male_Kenny_McComic_Kenny.first>肯尼</Male_Kenny_McComic_Kenny.first>
+    <Male_Kenny_McComic_Kenny.last>麦科米克</Male_Kenny_McComic_Kenny.last>
+    <Male_Kenny_McComic_Kenny.nick>肯尼</Male_Kenny_McComic_Kenny.nick>
   </li>
   <li Gender="Male" first="Siramac" last="Cling">
-    <Male_Siramac_Cling_EMPTY.first>Siramac</Male_Siramac_Cling_EMPTY.first>
-    <Male_Siramac_Cling_EMPTY.last>Cling</Male_Siramac_Cling_EMPTY.last>
+    <Male_Siramac_Cling_EMPTY.first>西拉马</Male_Siramac_Cling_EMPTY.first>
+    <Male_Siramac_Cling_EMPTY.last>科林</Male_Siramac_Cling_EMPTY.last>
   </li>
   <li Gender="Male" first="Tazilon" last="Brenner" nick="Taz">
-    <Male_Tazilon_Brenner_Taz.first>Tazilon</Male_Tazilon_Brenner_Taz.first>
-    <Male_Tazilon_Brenner_Taz.last>Brenner</Male_Tazilon_Brenner_Taz.last>
-    <Male_Tazilon_Brenner_Taz.nick>Taz</Male_Tazilon_Brenner_Taz.nick>
+    <Male_Tazilon_Brenner_Taz.first>塔兹隆</Male_Tazilon_Brenner_Taz.first>
+    <Male_Tazilon_Brenner_Taz.last>布伦纳</Male_Tazilon_Brenner_Taz.last>
+    <Male_Tazilon_Brenner_Taz.nick>塔兹</Male_Tazilon_Brenner_Taz.nick>
   </li>
   <li Gender="Male" first="Ferrus" last="Corvenus">
-    <Male_Ferrus_Corvenus_EMPTY.first>Ferrus</Male_Ferrus_Corvenus_EMPTY.first>
-    <Male_Ferrus_Corvenus_EMPTY.last>Corvenus</Male_Ferrus_Corvenus_EMPTY.last>
+    <Male_Ferrus_Corvenus_EMPTY.first>费鲁斯</Male_Ferrus_Corvenus_EMPTY.first>
+    <Male_Ferrus_Corvenus_EMPTY.last>科尔维纳斯</Male_Ferrus_Corvenus_EMPTY.last>
   </li>
   <li Gender="Male" first="Tomothy" last="Smathers" nick="Tom">
-    <Male_Tomothy_Smathers_Tom.first>Tomothy</Male_Tomothy_Smathers_Tom.first>
-    <Male_Tomothy_Smathers_Tom.last>Smathers</Male_Tomothy_Smathers_Tom.last>
-    <Male_Tomothy_Smathers_Tom.nick>Tom</Male_Tomothy_Smathers_Tom.nick>
+    <Male_Tomothy_Smathers_Tom.first>托莫希</Male_Tomothy_Smathers_Tom.first>
+    <Male_Tomothy_Smathers_Tom.last>斯马瑟斯</Male_Tomothy_Smathers_Tom.last>
+    <Male_Tomothy_Smathers_Tom.nick>汤姆</Male_Tomothy_Smathers_Tom.nick>
   </li>
   <li Gender="Female" first="Miranda" last="Mars" nick="Panda">
-    <Female_Miranda_Mars_Panda.first>Miranda</Female_Miranda_Mars_Panda.first>
-    <Female_Miranda_Mars_Panda.last>Mars</Female_Miranda_Mars_Panda.last>
-    <Female_Miranda_Mars_Panda.nick>Panda</Female_Miranda_Mars_Panda.nick>
+    <Female_Miranda_Mars_Panda.first>米兰达</Female_Miranda_Mars_Panda.first>
+    <Female_Miranda_Mars_Panda.last>马尔斯</Female_Miranda_Mars_Panda.last>
+    <Female_Miranda_Mars_Panda.nick>熊猫</Female_Miranda_Mars_Panda.nick>
   </li>
   <li Gender="Male" first="Elias" last="Hough" nick="Eli">
-    <Male_Elias_Hough_Eli.first>Elias</Male_Elias_Hough_Eli.first>
-    <Male_Elias_Hough_Eli.last>Hough</Male_Elias_Hough_Eli.last>
-    <Male_Elias_Hough_Eli.nick>Eli</Male_Elias_Hough_Eli.nick>
+    <Male_Elias_Hough_Eli.first>埃利亚斯</Male_Elias_Hough_Eli.first>
+    <Male_Elias_Hough_Eli.last>霍夫</Male_Elias_Hough_Eli.last>
+    <Male_Elias_Hough_Eli.nick>埃利</Male_Elias_Hough_Eli.nick>
   </li>
   <li Gender="Male" first="Konnor" last="Cornelius" nick="Strange">
-    <Male_Konnor_Cornelius_Strange.first>Konnor</Male_Konnor_Cornelius_Strange.first>
-    <Male_Konnor_Cornelius_Strange.last>Cornelius</Male_Konnor_Cornelius_Strange.last>
-    <Male_Konnor_Cornelius_Strange.nick>Strange</Male_Konnor_Cornelius_Strange.nick>
+    <Male_Konnor_Cornelius_Strange.first>康纳</Male_Konnor_Cornelius_Strange.first>
+    <Male_Konnor_Cornelius_Strange.last>科尔内留斯</Male_Konnor_Cornelius_Strange.last>
+    <Male_Konnor_Cornelius_Strange.nick>怪胎</Male_Konnor_Cornelius_Strange.nick>
   </li>
   <li Gender="Male" first="Kirk" last="Swan" nick="O'Neil">
-    <Male_Kirk_Swan_ONeil.first>Kirk</Male_Kirk_Swan_ONeil.first>
-    <Male_Kirk_Swan_ONeil.last>Swan</Male_Kirk_Swan_ONeil.last>
-    <Male_Kirk_Swan_ONeil.nick>O'Neil</Male_Kirk_Swan_ONeil.nick>
+    <Male_Kirk_Swan_ONeil.first>柯克</Male_Kirk_Swan_ONeil.first>
+    <Male_Kirk_Swan_ONeil.last>思旺</Male_Kirk_Swan_ONeil.last>
+    <Male_Kirk_Swan_ONeil.nick>奥尼尔</Male_Kirk_Swan_ONeil.nick>
   </li>
   <li Gender="Male" first="Svaty" last="Pateyl" nick="Pateyl">
-    <Male_Svaty_Pateyl_Pateyl.first>Svaty</Male_Svaty_Pateyl_Pateyl.first>
-    <Male_Svaty_Pateyl_Pateyl.last>Pateyl</Male_Svaty_Pateyl_Pateyl.last>
-    <Male_Svaty_Pateyl_Pateyl.nick>Pateyl</Male_Svaty_Pateyl_Pateyl.nick>
+    <Male_Svaty_Pateyl_Pateyl.first>斯瓦蒂</Male_Svaty_Pateyl_Pateyl.first>
+    <Male_Svaty_Pateyl_Pateyl.last>帕克尔</Male_Svaty_Pateyl_Pateyl.last>
+    <Male_Svaty_Pateyl_Pateyl.nick>帕克尔</Male_Svaty_Pateyl_Pateyl.nick>
   </li>
   <li Gender="Female" first="Katariina" last="Lyall">
-    <Female_Katariina_Lyall_EMPTY.first>Katariina</Female_Katariina_Lyall_EMPTY.first>
-    <Female_Katariina_Lyall_EMPTY.last>Lyall</Female_Katariina_Lyall_EMPTY.last>
+    <Female_Katariina_Lyall_EMPTY.first>卡塔琳娜</Female_Katariina_Lyall_EMPTY.first>
+    <Female_Katariina_Lyall_EMPTY.last>莱尔</Female_Katariina_Lyall_EMPTY.last>
   </li>
   <li Gender="Male" first="Lorenzo" last="Di Stefano" nick="Distef">
-    <Male_Lorenzo_DiStefano_Distef.first>Lorenzo</Male_Lorenzo_DiStefano_Distef.first>
-    <Male_Lorenzo_DiStefano_Distef.last>Di Stefano</Male_Lorenzo_DiStefano_Distef.last>
-    <Male_Lorenzo_DiStefano_Distef.nick>Distef</Male_Lorenzo_DiStefano_Distef.nick>
+    <Male_Lorenzo_DiStefano_Distef.first>洛伦索</Male_Lorenzo_DiStefano_Distef.first>
+    <Male_Lorenzo_DiStefano_Distef.last>迪斯蒂法诺</Male_Lorenzo_DiStefano_Distef.last>
+    <Male_Lorenzo_DiStefano_Distef.nick>迪斯代夫</Male_Lorenzo_DiStefano_Distef.nick>
   </li>
   <li Gender="Male" first="Jag" last="Centore" nick="Jag">
-    <Male_Jag_Centore_Jag.first>Jag</Male_Jag_Centore_Jag.first>
-    <Male_Jag_Centore_Jag.last>Centore</Male_Jag_Centore_Jag.last>
-    <Male_Jag_Centore_Jag.nick>Jag</Male_Jag_Centore_Jag.nick>
+    <Male_Jag_Centore_Jag.first>亚格</Male_Jag_Centore_Jag.first>
+    <Male_Jag_Centore_Jag.last>琴托雷</Male_Jag_Centore_Jag.last>
+    <Male_Jag_Centore_Jag.nick>亚格</Male_Jag_Centore_Jag.nick>
   </li>
   <li Gender="Male" first="Rinaldo" last="Erdman" nick="Fuzzy">
-    <Male_Rinaldo_Erdman_Fuzzy.first>Rinaldo</Male_Rinaldo_Erdman_Fuzzy.first>
-    <Male_Rinaldo_Erdman_Fuzzy.last>Erdman</Male_Rinaldo_Erdman_Fuzzy.last>
-    <Male_Rinaldo_Erdman_Fuzzy.nick>Fuzzy</Male_Rinaldo_Erdman_Fuzzy.nick>
+    <Male_Rinaldo_Erdman_Fuzzy.first>里纳尔多</Male_Rinaldo_Erdman_Fuzzy.first>
+    <Male_Rinaldo_Erdman_Fuzzy.last>埃德曼</Male_Rinaldo_Erdman_Fuzzy.last>
+    <Male_Rinaldo_Erdman_Fuzzy.nick>富齐</Male_Rinaldo_Erdman_Fuzzy.nick>
   </li>
   <li Gender="Male" first="Reiner" last="Decker" nick="Reideck">
-    <Male_Reiner_Decker_Reideck.first>Reiner</Male_Reiner_Decker_Reideck.first>
-    <Male_Reiner_Decker_Reideck.last>Decker</Male_Reiner_Decker_Reideck.last>
-    <Male_Reiner_Decker_Reideck.nick>Reideck</Male_Reiner_Decker_Reideck.nick>
+    <Male_Reiner_Decker_Reideck.first>赖纳</Male_Reiner_Decker_Reideck.first>
+    <Male_Reiner_Decker_Reideck.last>德克尔</Male_Reiner_Decker_Reideck.last>
+    <Male_Reiner_Decker_Reideck.nick>赖德克</Male_Reiner_Decker_Reideck.nick>
   </li>
   <li Gender="Female" first="Kiimira" last="Kaffe" nick="Bean">
-    <Female_Kiimira_Kaffe_Bean.first>Kiimira</Female_Kiimira_Kaffe_Bean.first>
-    <Female_Kiimira_Kaffe_Bean.last>Kaffe</Female_Kiimira_Kaffe_Bean.last>
-    <Female_Kiimira_Kaffe_Bean.nick>Bean</Female_Kiimira_Kaffe_Bean.nick>
+    <Female_Kiimira_Kaffe_Bean.first>吉米拉</Female_Kiimira_Kaffe_Bean.first>
+    <Female_Kiimira_Kaffe_Bean.last>卡福</Female_Kiimira_Kaffe_Bean.last>
+    <Female_Kiimira_Kaffe_Bean.nick>豆荚</Female_Kiimira_Kaffe_Bean.nick>
   </li>
   <li Gender="Male" first="Tyseus" last="Sturmbjorn" nick="Ty">
-    <Male_Tyseus_Sturmbjorn_Ty.first>Tyseus</Male_Tyseus_Sturmbjorn_Ty.first>
-    <Male_Tyseus_Sturmbjorn_Ty.last>Sturmbjorn</Male_Tyseus_Sturmbjorn_Ty.last>
-    <Male_Tyseus_Sturmbjorn_Ty.nick>Ty</Male_Tyseus_Sturmbjorn_Ty.nick>
+    <Male_Tyseus_Sturmbjorn_Ty.first>泰瑟斯</Male_Tyseus_Sturmbjorn_Ty.first>
+    <Male_Tyseus_Sturmbjorn_Ty.last>斯特姆比约恩</Male_Tyseus_Sturmbjorn_Ty.last>
+    <Male_Tyseus_Sturmbjorn_Ty.nick>泰</Male_Tyseus_Sturmbjorn_Ty.nick>
   </li>
   <li Gender="Male" first="Fischer" last="Chornick" nick="Fish">
-    <Male_Fischer_Chornick_Fish.first>Fischer</Male_Fischer_Chornick_Fish.first>
-    <Male_Fischer_Chornick_Fish.last>Chornick</Male_Fischer_Chornick_Fish.last>
-    <Male_Fischer_Chornick_Fish.nick>Fish</Male_Fischer_Chornick_Fish.nick>
+    <Male_Fischer_Chornick_Fish.first>菲舍尔</Male_Fischer_Chornick_Fish.first>
+    <Male_Fischer_Chornick_Fish.last>乔尔尼克</Male_Fischer_Chornick_Fish.last>
+    <Male_Fischer_Chornick_Fish.nick>小鱼</Male_Fischer_Chornick_Fish.nick>
   </li>
   <li Gender="Male" first="Juan Manuel" last="Hueso" nick="Lance">
-    <Male_JuanManuel_Hueso_Lance.first>Juan Manuel</Male_JuanManuel_Hueso_Lance.first>
-    <Male_JuanManuel_Hueso_Lance.last>Hueso</Male_JuanManuel_Hueso_Lance.last>
-    <Male_JuanManuel_Hueso_Lance.nick>Lance</Male_JuanManuel_Hueso_Lance.nick>
+    <Male_JuanManuel_Hueso_Lance.first>胡安曼努埃尔</Male_JuanManuel_Hueso_Lance.first>
+    <Male_JuanManuel_Hueso_Lance.last>韦索</Male_JuanManuel_Hueso_Lance.last>
+    <Male_JuanManuel_Hueso_Lance.nick>长矛</Male_JuanManuel_Hueso_Lance.nick>
   </li>
   <li Gender="Male" first="Andries" last="Verbanck" nick="Dre">
-    <Male_Andries_Verbanck_Dre.first>Andries</Male_Andries_Verbanck_Dre.first>
-    <Male_Andries_Verbanck_Dre.last>Verbanck</Male_Andries_Verbanck_Dre.last>
-    <Male_Andries_Verbanck_Dre.nick>Dre</Male_Andries_Verbanck_Dre.nick>
+    <Male_Andries_Verbanck_Dre.first>安德里斯</Male_Andries_Verbanck_Dre.first>
+    <Male_Andries_Verbanck_Dre.last>韦尔班克</Male_Andries_Verbanck_Dre.last>
+    <Male_Andries_Verbanck_Dre.nick>德雷</Male_Andries_Verbanck_Dre.nick>
   </li>
   <li Gender="Male" first="Talon" last="Holloway">
-    <Male_Talon_Holloway_EMPTY.first>Talon</Male_Talon_Holloway_EMPTY.first>
-    <Male_Talon_Holloway_EMPTY.last>Holloway</Male_Talon_Holloway_EMPTY.last>
+    <Male_Talon_Holloway_EMPTY.first>塔隆</Male_Talon_Holloway_EMPTY.first>
+    <Male_Talon_Holloway_EMPTY.last>霍洛韦</Male_Talon_Holloway_EMPTY.last>
   </li>
   <li Gender="Male" first="Winnie" last="Joe" nick="Winnie">
-    <Male_Winnie_Joe_Winnie.first>Winnie</Male_Winnie_Joe_Winnie.first>
-    <Male_Winnie_Joe_Winnie.last>Joe</Male_Winnie_Joe_Winnie.last>
-    <Male_Winnie_Joe_Winnie.nick>Winnie</Male_Winnie_Joe_Winnie.nick>
+    <Male_Winnie_Joe_Winnie.first>温尼</Male_Winnie_Joe_Winnie.first>
+    <Male_Winnie_Joe_Winnie.last>乔</Male_Winnie_Joe_Winnie.last>
+    <Male_Winnie_Joe_Winnie.nick>温尼</Male_Winnie_Joe_Winnie.nick>
   </li>
   <li Gender="Male" first="Jaketh" last="Shae" nick="Jak">
-    <Male_Jaketh_Shae_Jak.first>Jaketh</Male_Jaketh_Shae_Jak.first>
-    <Male_Jaketh_Shae_Jak.last>Shae</Male_Jaketh_Shae_Jak.last>
-    <Male_Jaketh_Shae_Jak.nick>Jak</Male_Jaketh_Shae_Jak.nick>
+    <Male_Jaketh_Shae_Jak.first>贾克特</Male_Jaketh_Shae_Jak.first>
+    <Male_Jaketh_Shae_Jak.last>谢尔</Male_Jaketh_Shae_Jak.last>
+    <Male_Jaketh_Shae_Jak.nick>贾克</Male_Jaketh_Shae_Jak.nick>
   </li>
   <li Gender="Male" first="Pietro" last="Delgolfo" nick="Delgolfo">
-    <Male_Pietro_Delgolfo_Delgolfo.first>Pietro</Male_Pietro_Delgolfo_Delgolfo.first>
-    <Male_Pietro_Delgolfo_Delgolfo.last>Delgolfo</Male_Pietro_Delgolfo_Delgolfo.last>
-    <Male_Pietro_Delgolfo_Delgolfo.nick>Delgolfo</Male_Pietro_Delgolfo_Delgolfo.nick>
+    <Male_Pietro_Delgolfo_Delgolfo.first>彼得罗</Male_Pietro_Delgolfo_Delgolfo.first>
+    <Male_Pietro_Delgolfo_Delgolfo.last>德尔戈洛弗</Male_Pietro_Delgolfo_Delgolfo.last>
+    <Male_Pietro_Delgolfo_Delgolfo.nick>德尔戈洛弗</Male_Pietro_Delgolfo_Delgolfo.nick>
   </li>
   <li Gender="Female" first="Michelle" last="Coeuronne" nick="Coeur">
-    <Female_Michelle_Coeuronne_Coeur.first>Michelle</Female_Michelle_Coeuronne_Coeur.first>
-    <Female_Michelle_Coeuronne_Coeur.last>Coeuronne</Female_Michelle_Coeuronne_Coeur.last>
-    <Female_Michelle_Coeuronne_Coeur.nick>Coeur</Female_Michelle_Coeuronne_Coeur.nick>
+    <Female_Michelle_Coeuronne_Coeur.first>米歇尔</Female_Michelle_Coeuronne_Coeur.first>
+    <Female_Michelle_Coeuronne_Coeur.last>克罗恩</Female_Michelle_Coeuronne_Coeur.last>
+    <Female_Michelle_Coeuronne_Coeur.nick>克罗尔</Female_Michelle_Coeuronne_Coeur.nick>
   </li>
   <li Gender="Male" first="Riarus" last="Mianata">
-    <Male_Riarus_Mianata_EMPTY.first>Riarus</Male_Riarus_Mianata_EMPTY.first>
-    <Male_Riarus_Mianata_EMPTY.last>Mianata</Male_Riarus_Mianata_EMPTY.last>
+    <Male_Riarus_Mianata_EMPTY.first>里亚鲁斯</Male_Riarus_Mianata_EMPTY.first>
+    <Male_Riarus_Mianata_EMPTY.last>米安亚塔</Male_Riarus_Mianata_EMPTY.last>
   </li>
   <li Gender="Either" first="Ace" last="Carnazzo" nick="Eden">
-    <Either_Ace_Carnazzo_Eden.first>Ace</Either_Ace_Carnazzo_Eden.first>
-    <Either_Ace_Carnazzo_Eden.last>Carnazzo</Either_Ace_Carnazzo_Eden.last>
-    <Either_Ace_Carnazzo_Eden.nick>Eden</Either_Ace_Carnazzo_Eden.nick>
+    <Either_Ace_Carnazzo_Eden.first>埃斯</Either_Ace_Carnazzo_Eden.first>
+    <Either_Ace_Carnazzo_Eden.last>卡尔纳佐</Either_Ace_Carnazzo_Eden.last>
+    <Either_Ace_Carnazzo_Eden.nick>埃登</Either_Ace_Carnazzo_Eden.nick>
   </li>
   <li Gender="Male" first="Wheatley" last="Pala" nick="Sapper">
-    <Male_Wheatley_Pala_Sapper.first>Wheatley</Male_Wheatley_Pala_Sapper.first>
-    <Male_Wheatley_Pala_Sapper.last>Pala</Male_Wheatley_Pala_Sapper.last>
-    <Male_Wheatley_Pala_Sapper.nick>Sapper</Male_Wheatley_Pala_Sapper.nick>
+    <Male_Wheatley_Pala_Sapper.first>惠特利</Male_Wheatley_Pala_Sapper.first>
+    <Male_Wheatley_Pala_Sapper.last>帕拉</Male_Wheatley_Pala_Sapper.last>
+    <Male_Wheatley_Pala_Sapper.nick>萨珀</Male_Wheatley_Pala_Sapper.nick>
   </li>
   <li Gender="Male" first="Oscar" last="Baldam" nick="Scar">
-    <Male_Oscar_Baldam_Scar.first>Oscar</Male_Oscar_Baldam_Scar.first>
-    <Male_Oscar_Baldam_Scar.last>Baldam</Male_Oscar_Baldam_Scar.last>
-    <Male_Oscar_Baldam_Scar.nick>Scar</Male_Oscar_Baldam_Scar.nick>
+    <Male_Oscar_Baldam_Scar.first>奥斯卡</Male_Oscar_Baldam_Scar.first>
+    <Male_Oscar_Baldam_Scar.last>巴尔达穆</Male_Oscar_Baldam_Scar.last>
+    <Male_Oscar_Baldam_Scar.nick>斯卡</Male_Oscar_Baldam_Scar.nick>
   </li>
   <li Gender="Male" first="Ignatius" last="Tolliver" nick="Tolly">
-    <Male_Ignatius_Tolliver_Tolly.first>Ignatius</Male_Ignatius_Tolliver_Tolly.first>
-    <Male_Ignatius_Tolliver_Tolly.last>Tolliver</Male_Ignatius_Tolliver_Tolly.last>
-    <Male_Ignatius_Tolliver_Tolly.nick>Tolly</Male_Ignatius_Tolliver_Tolly.nick>
+    <Male_Ignatius_Tolliver_Tolly.first>伊格内修斯</Male_Ignatius_Tolliver_Tolly.first>
+    <Male_Ignatius_Tolliver_Tolly.last>托利弗</Male_Ignatius_Tolliver_Tolly.last>
+    <Male_Ignatius_Tolliver_Tolly.nick>托利</Male_Ignatius_Tolliver_Tolly.nick>
   </li>
   <li Gender="Female" first="Natalie" last="O'Neal" nick="Nattie">
-    <Female_Natalie_ONeal_Nattie.first>Natalie</Female_Natalie_ONeal_Nattie.first>
-    <Female_Natalie_ONeal_Nattie.last>O'Neal</Female_Natalie_ONeal_Nattie.last>
-    <Female_Natalie_ONeal_Nattie.nick>Nattie</Female_Natalie_ONeal_Nattie.nick>
+    <Female_Natalie_ONeal_Nattie.first>纳塔莉</Female_Natalie_ONeal_Nattie.first>
+    <Female_Natalie_ONeal_Nattie.last>奥尼尔</Female_Natalie_ONeal_Nattie.last>
+    <Female_Natalie_ONeal_Nattie.nick>纳蒂</Female_Natalie_ONeal_Nattie.nick>
   </li>
   <li Gender="Female" first="Aga" last="Havens" nick="Grey">
-    <Female_Aga_Havens_Grey.first>Aga</Female_Aga_Havens_Grey.first>
-    <Female_Aga_Havens_Grey.last>Havens</Female_Aga_Havens_Grey.last>
-    <Female_Aga_Havens_Grey.nick>Grey</Female_Aga_Havens_Grey.nick>
+    <Female_Aga_Havens_Grey.first>阿加</Female_Aga_Havens_Grey.first>
+    <Female_Aga_Havens_Grey.last>黑文斯</Female_Aga_Havens_Grey.last>
+    <Female_Aga_Havens_Grey.nick>格雷</Female_Aga_Havens_Grey.nick>
   </li>
   <li Gender="Male" first="Stijn" last="Gezink" nick="Stin">
-    <Male_Stijn_Gezink_Stin.first>Stijn</Male_Stijn_Gezink_Stin.first>
-    <Male_Stijn_Gezink_Stin.last>Gezink</Male_Stijn_Gezink_Stin.last>
-    <Male_Stijn_Gezink_Stin.nick>Stin</Male_Stijn_Gezink_Stin.nick>
+    <Male_Stijn_Gezink_Stin.first>斯泰恩</Male_Stijn_Gezink_Stin.first>
+    <Male_Stijn_Gezink_Stin.last>盖津克</Male_Stijn_Gezink_Stin.last>
+    <Male_Stijn_Gezink_Stin.nick>斯廷</Male_Stijn_Gezink_Stin.nick>
   </li>
   <li Gender="Male" first="Kano" last="Chow" nick="Chairman">
-    <Male_Kano_Chow_Chairman.first>Kano</Male_Kano_Chow_Chairman.first>
-    <Male_Kano_Chow_Chairman.last>Chow</Male_Kano_Chow_Chairman.last>
-    <Male_Kano_Chow_Chairman.nick>Chairman</Male_Kano_Chow_Chairman.nick>
+    <Male_Kano_Chow_Chairman.first>卡诺</Male_Kano_Chow_Chairman.first>
+    <Male_Kano_Chow_Chairman.last>乔</Male_Kano_Chow_Chairman.last>
+    <Male_Kano_Chow_Chairman.nick>总裁</Male_Kano_Chow_Chairman.nick>
   </li>
   <li Gender="Male" first="Hirotake" last="Tsutsui" nick="Hiro">
-    <Male_Hirotake_Tsutsui_Hiro.first>Hirotake</Male_Hirotake_Tsutsui_Hiro.first>
-    <Male_Hirotake_Tsutsui_Hiro.last>Tsutsui</Male_Hirotake_Tsutsui_Hiro.last>
-    <Male_Hirotake_Tsutsui_Hiro.nick>Hiro</Male_Hirotake_Tsutsui_Hiro.nick>
+    <Male_Hirotake_Tsutsui_Hiro.first>弘毅</Male_Hirotake_Tsutsui_Hiro.first>
+    <Male_Hirotake_Tsutsui_Hiro.last>筒井</Male_Hirotake_Tsutsui_Hiro.last>
+    <Male_Hirotake_Tsutsui_Hiro.nick>弘</Male_Hirotake_Tsutsui_Hiro.nick>
   </li>
   <li Gender="Female" first="Janette" last="Linaria" nick="Janette">
-    <Female_Janette_Linaria_Janette.first>Janette</Female_Janette_Linaria_Janette.first>
-    <Female_Janette_Linaria_Janette.last>Linaria</Female_Janette_Linaria_Janette.last>
-    <Female_Janette_Linaria_Janette.nick>Janette</Female_Janette_Linaria_Janette.nick>
+    <Female_Janette_Linaria_Janette.first>珍妮特</Female_Janette_Linaria_Janette.first>
+    <Female_Janette_Linaria_Janette.last>利纳里亚</Female_Janette_Linaria_Janette.last>
+    <Female_Janette_Linaria_Janette.nick>珍妮特</Female_Janette_Linaria_Janette.nick>
   </li>
   <li Gender="Male" first="Xandarian" last="Stalzer" nick="Xandy">
-    <Male_Xandarian_Stalzer_Xandy.first>Xandarian</Male_Xandarian_Stalzer_Xandy.first>
-    <Male_Xandarian_Stalzer_Xandy.last>Stalzer</Male_Xandarian_Stalzer_Xandy.last>
-    <Male_Xandarian_Stalzer_Xandy.nick>Xandy</Male_Xandarian_Stalzer_Xandy.nick>
+    <Male_Xandarian_Stalzer_Xandy.first>珊达利安</Male_Xandarian_Stalzer_Xandy.first>
+    <Male_Xandarian_Stalzer_Xandy.last>斯塔尔泽</Male_Xandarian_Stalzer_Xandy.last>
+    <Male_Xandarian_Stalzer_Xandy.nick>珊迪</Male_Xandarian_Stalzer_Xandy.nick>
   </li>
   <li Gender="Male" first="Orenick" last="Hansreim">
-    <Male_Orenick_Hansreim_EMPTY.first>Orenick</Male_Orenick_Hansreim_EMPTY.first>
-    <Male_Orenick_Hansreim_EMPTY.last>Hansreim</Male_Orenick_Hansreim_EMPTY.last>
+    <Male_Orenick_Hansreim_EMPTY.first>奥尼克</Male_Orenick_Hansreim_EMPTY.first>
+    <Male_Orenick_Hansreim_EMPTY.last>汉斯雷姆</Male_Orenick_Hansreim_EMPTY.last>
   </li>
   <li Gender="Male" first="Maxidox" last="Chorniy" nick="Mex">
-    <Male_Maxidox_Chorniy_Mex.first>Maxidox</Male_Maxidox_Chorniy_Mex.first>
-    <Male_Maxidox_Chorniy_Mex.last>Chorniy</Male_Maxidox_Chorniy_Mex.last>
-    <Male_Maxidox_Chorniy_Mex.nick>Mex</Male_Maxidox_Chorniy_Mex.nick>
+    <Male_Maxidox_Chorniy_Mex.first>马克西道格斯</Male_Maxidox_Chorniy_Mex.first>
+    <Male_Maxidox_Chorniy_Mex.last>乔尔尼</Male_Maxidox_Chorniy_Mex.last>
+    <Male_Maxidox_Chorniy_Mex.nick>麦克斯</Male_Maxidox_Chorniy_Mex.nick>
   </li>
   <li Gender="Male" first="Darryl" last="Feury">
-    <Male_Darryl_Feury_EMPTY.first>Darryl</Male_Darryl_Feury_EMPTY.first>
-    <Male_Darryl_Feury_EMPTY.last>Feury</Male_Darryl_Feury_EMPTY.last>
+    <Male_Darryl_Feury_EMPTY.first>达里尔</Male_Darryl_Feury_EMPTY.first>
+    <Male_Darryl_Feury_EMPTY.last>福伊里</Male_Darryl_Feury_EMPTY.last>
   </li>
   <li Gender="Female" first="Penelope" last="Bluthgeld" nick="Poppy">
-    <Female_Penelope_Bluthgeld_Poppy.first>Penelope</Female_Penelope_Bluthgeld_Poppy.first>
-    <Female_Penelope_Bluthgeld_Poppy.last>Bluthgeld</Female_Penelope_Bluthgeld_Poppy.last>
-    <Female_Penelope_Bluthgeld_Poppy.nick>Poppy</Female_Penelope_Bluthgeld_Poppy.nick>
+    <Female_Penelope_Bluthgeld_Poppy.first>佩内洛普</Female_Penelope_Bluthgeld_Poppy.first>
+    <Female_Penelope_Bluthgeld_Poppy.last>布吕特根德</Female_Penelope_Bluthgeld_Poppy.last>
+    <Female_Penelope_Bluthgeld_Poppy.nick>波普伊</Female_Penelope_Bluthgeld_Poppy.nick>
   </li>
   <li Gender="Male" first="Godriff" last="Bangor">
-    <Male_Godriff_Bangor_EMPTY.first>Godriff</Male_Godriff_Bangor_EMPTY.first>
-    <Male_Godriff_Bangor_EMPTY.last>Bangor</Male_Godriff_Bangor_EMPTY.last>
+    <Male_Godriff_Bangor_EMPTY.first>戈德里夫</Male_Godriff_Bangor_EMPTY.first>
+    <Male_Godriff_Bangor_EMPTY.last>班戈</Male_Godriff_Bangor_EMPTY.last>
   </li>
   <li Gender="Male" first="Ziyu" last="Han" nick="Tony">
-    <Male_Ziyu_Han_Tony.first>Ziyu</Male_Ziyu_Han_Tony.first>
-    <Male_Ziyu_Han_Tony.last>Han</Male_Ziyu_Han_Tony.last>
-    <Male_Ziyu_Han_Tony.nick>Tony</Male_Ziyu_Han_Tony.nick>
+    <Male_Ziyu_Han_Tony.first>子羽</Male_Ziyu_Han_Tony.first>
+    <Male_Ziyu_Han_Tony.last>韩</Male_Ziyu_Han_Tony.last>
+    <Male_Ziyu_Han_Tony.nick>托尼</Male_Ziyu_Han_Tony.nick>
   </li>
   <li Gender="Male" first="CJ" last="Lorenz">
     <Male_CJ_Lorenz_EMPTY.first>CJ</Male_CJ_Lorenz_EMPTY.first>
-    <Male_CJ_Lorenz_EMPTY.last>Lorenz</Male_CJ_Lorenz_EMPTY.last>
+    <Male_CJ_Lorenz_EMPTY.last>洛伦茨</Male_CJ_Lorenz_EMPTY.last>
   </li>
   <li Gender="Female" first="Arriella" last="Aurelliae" nick="Arri">
-    <Female_Arriella_Aurelliae_Arri.first>Arriella</Female_Arriella_Aurelliae_Arri.first>
-    <Female_Arriella_Aurelliae_Arri.last>Aurelliae</Female_Arriella_Aurelliae_Arri.last>
-    <Female_Arriella_Aurelliae_Arri.nick>Arri</Female_Arriella_Aurelliae_Arri.nick>
+    <Female_Arriella_Aurelliae_Arri.first>阿丽拉</Female_Arriella_Aurelliae_Arri.first>
+    <Female_Arriella_Aurelliae_Arri.last>奥雷利娅</Female_Arriella_Aurelliae_Arri.last>
+    <Female_Arriella_Aurelliae_Arri.nick>阿丽</Female_Arriella_Aurelliae_Arri.nick>
   </li>
   <li Gender="Male" first="Tarik" last="Lindner">
-    <Male_Tarik_Lindner_EMPTY.first>Tarik</Male_Tarik_Lindner_EMPTY.first>
-    <Male_Tarik_Lindner_EMPTY.last>Lindner</Male_Tarik_Lindner_EMPTY.last>
+    <Male_Tarik_Lindner_EMPTY.first>塔里克</Male_Tarik_Lindner_EMPTY.first>
+    <Male_Tarik_Lindner_EMPTY.last>林德纳</Male_Tarik_Lindner_EMPTY.last>
   </li>
   <li Gender="Either" first="Harmony" last="Wrathschild" nick="Harms">
-    <Either_Harmony_Wrathschild_Harms.first>Harmony</Either_Harmony_Wrathschild_Harms.first>
-    <Either_Harmony_Wrathschild_Harms.last>Wrathschild</Either_Harmony_Wrathschild_Harms.last>
-    <Either_Harmony_Wrathschild_Harms.nick>Harms</Either_Harmony_Wrathschild_Harms.nick>
+    <Either_Harmony_Wrathschild_Harms.first>哈莫尼</Either_Harmony_Wrathschild_Harms.first>
+    <Either_Harmony_Wrathschild_Harms.last>拉瑟斯希尔德</Either_Harmony_Wrathschild_Harms.last>
+    <Either_Harmony_Wrathschild_Harms.nick>哈姆斯</Either_Harmony_Wrathschild_Harms.nick>
   </li>
   <li Gender="Male" first="Jarad" last="Hesseling" nick="Jake">
-    <Male_Jarad_Hesseling_Jake.first>Jarad</Male_Jarad_Hesseling_Jake.first>
-    <Male_Jarad_Hesseling_Jake.last>Hesseling</Male_Jarad_Hesseling_Jake.last>
-    <Male_Jarad_Hesseling_Jake.nick>Jake</Male_Jarad_Hesseling_Jake.nick>
+    <Male_Jarad_Hesseling_Jake.first>贾拉德</Male_Jarad_Hesseling_Jake.first>
+    <Male_Jarad_Hesseling_Jake.last>赫瑟林</Male_Jarad_Hesseling_Jake.last>
+    <Male_Jarad_Hesseling_Jake.nick>杰克</Male_Jarad_Hesseling_Jake.nick>
   </li>
   <li Gender="Male" first="Juanito" last="Hitzeman" nick="Bandito">
-    <Male_Juanito_Hitzeman_Bandito.first>Juanito</Male_Juanito_Hitzeman_Bandito.first>
-    <Male_Juanito_Hitzeman_Bandito.last>Hitzeman</Male_Juanito_Hitzeman_Bandito.last>
-    <Male_Juanito_Hitzeman_Bandito.nick>Bandito</Male_Juanito_Hitzeman_Bandito.nick>
+    <Male_Juanito_Hitzeman_Bandito.first>华尼托</Male_Juanito_Hitzeman_Bandito.first>
+    <Male_Juanito_Hitzeman_Bandito.last>希策曼</Male_Juanito_Hitzeman_Bandito.last>
+    <Male_Juanito_Hitzeman_Bandito.nick>土匪</Male_Juanito_Hitzeman_Bandito.nick>
   </li>
   <li Gender="Male" first="Cadumus" last="Cinaed" nick="Cad">
-    <Male_Cadumus_Cinaed_Cad.first>Cadumus</Male_Cadumus_Cinaed_Cad.first>
-    <Male_Cadumus_Cinaed_Cad.last>Cinaed</Male_Cadumus_Cinaed_Cad.last>
-    <Male_Cadumus_Cinaed_Cad.nick>Cad</Male_Cadumus_Cinaed_Cad.nick>
+    <Male_Cadumus_Cinaed_Cad.first>卡杜姆斯</Male_Cadumus_Cinaed_Cad.first>
+    <Male_Cadumus_Cinaed_Cad.last>希纳德</Male_Cadumus_Cinaed_Cad.last>
+    <Male_Cadumus_Cinaed_Cad.nick>卡德</Male_Cadumus_Cinaed_Cad.nick>
   </li>
   <li Gender="Male" first="Arian" last="Oveissi">
-    <Male_Arian_Oveissi_EMPTY.first>Arian</Male_Arian_Oveissi_EMPTY.first>
-    <Male_Arian_Oveissi_EMPTY.last>Oveissi</Male_Arian_Oveissi_EMPTY.last>
+    <Male_Arian_Oveissi_EMPTY.first>阿里安</Male_Arian_Oveissi_EMPTY.first>
+    <Male_Arian_Oveissi_EMPTY.last>奥韦西</Male_Arian_Oveissi_EMPTY.last>
   </li>
   <li Gender="Male" first="Bruno-Pier" last="Provençal" nick="BP">
-    <Male_Bruno-Pier_Provençal_BP.first>Bruno-Pier</Male_Bruno-Pier_Provençal_BP.first>
-    <Male_Bruno-Pier_Provençal_BP.last>Provençal</Male_Bruno-Pier_Provençal_BP.last>
+    <Male_Bruno-Pier_Provençal_BP.first>布鲁诺皮尔</Male_Bruno-Pier_Provençal_BP.first>
+    <Male_Bruno-Pier_Provençal_BP.last>普罗旺萨尔</Male_Bruno-Pier_Provençal_BP.last>
     <Male_Bruno-Pier_Provençal_BP.nick>BP</Male_Bruno-Pier_Provençal_BP.nick>
   </li>
   <li Gender="Female" first="Livvy" last="Morrigan" nick="Livvy">
-    <Female_Livvy_Morrigan_Livvy.first>Livvy</Female_Livvy_Morrigan_Livvy.first>
-    <Female_Livvy_Morrigan_Livvy.last>Morrigan</Female_Livvy_Morrigan_Livvy.last>
-    <Female_Livvy_Morrigan_Livvy.nick>Livvy</Female_Livvy_Morrigan_Livvy.nick>
+    <Female_Livvy_Morrigan_Livvy.first>丽薇</Female_Livvy_Morrigan_Livvy.first>
+    <Female_Livvy_Morrigan_Livvy.last>摩根</Female_Livvy_Morrigan_Livvy.last>
+    <Female_Livvy_Morrigan_Livvy.nick>丽薇</Female_Livvy_Morrigan_Livvy.nick>
   </li>
   <li Gender="Male" first="Ivaylo" last="Georgiev" nick="Wire">
-    <Male_Ivaylo_Georgiev_Wire.first>Ivaylo</Male_Ivaylo_Georgiev_Wire.first>
-    <Male_Ivaylo_Georgiev_Wire.last>Georgiev</Male_Ivaylo_Georgiev_Wire.last>
-    <Male_Ivaylo_Georgiev_Wire.nick>Wire</Male_Ivaylo_Georgiev_Wire.nick>
+    <Male_Ivaylo_Georgiev_Wire.first>伊瓦洛</Male_Ivaylo_Georgiev_Wire.first>
+    <Male_Ivaylo_Georgiev_Wire.last>格奥尔基耶夫</Male_Ivaylo_Georgiev_Wire.last>
+    <Male_Ivaylo_Georgiev_Wire.nick>电线</Male_Ivaylo_Georgiev_Wire.nick>
   </li>
   <li Gender="Male" first="Rodolfo" last="De Curtis" nick="Rudy">
-    <Male_Rodolfo_DeCurtis_Rudy.first>Rodolfo</Male_Rodolfo_DeCurtis_Rudy.first>
-    <Male_Rodolfo_DeCurtis_Rudy.last>De Curtis</Male_Rodolfo_DeCurtis_Rudy.last>
-    <Male_Rodolfo_DeCurtis_Rudy.nick>Rudy</Male_Rodolfo_DeCurtis_Rudy.nick>
+    <Male_Rodolfo_DeCurtis_Rudy.first>鲁道夫</Male_Rodolfo_DeCurtis_Rudy.first>
+    <Male_Rodolfo_DeCurtis_Rudy.last>德柯蒂斯</Male_Rodolfo_DeCurtis_Rudy.last>
+    <Male_Rodolfo_DeCurtis_Rudy.nick>鲁迪</Male_Rodolfo_DeCurtis_Rudy.nick>
   </li>
   <li Gender="Female" first="Yachiyo" last="Nagae">
-    <Female_Yachiyo_Nagae_EMPTY.first>Yachiyo</Female_Yachiyo_Nagae_EMPTY.first>
-    <Female_Yachiyo_Nagae_EMPTY.last>Nagae</Female_Yachiyo_Nagae_EMPTY.last>
+    <Female_Yachiyo_Nagae_EMPTY.first>八千代</Female_Yachiyo_Nagae_EMPTY.first>
+    <Female_Yachiyo_Nagae_EMPTY.last>永江</Female_Yachiyo_Nagae_EMPTY.last>
   </li>
   <li Gender="Female" first="Briege" last="Loughran" nick="Beach">
-    <Female_Briege_Loughran_Beach.first>Briege</Female_Briege_Loughran_Beach.first>
-    <Female_Briege_Loughran_Beach.last>Loughran</Female_Briege_Loughran_Beach.last>
-    <Female_Briege_Loughran_Beach.nick>Beach</Female_Briege_Loughran_Beach.nick>
+    <Female_Briege_Loughran_Beach.first>布丽格</Female_Briege_Loughran_Beach.first>
+    <Female_Briege_Loughran_Beach.last>洛克伦</Female_Briege_Loughran_Beach.last>
+    <Female_Briege_Loughran_Beach.nick>海滩</Female_Briege_Loughran_Beach.nick>
   </li>
   <li Gender="Female" first="Nova" last="Starr">
-    <Female_Nova_Starr_EMPTY.first>Nova</Female_Nova_Starr_EMPTY.first>
-    <Female_Nova_Starr_EMPTY.last>Starr</Female_Nova_Starr_EMPTY.last>
+    <Female_Nova_Starr_EMPTY.first>诺娃</Female_Nova_Starr_EMPTY.first>
+    <Female_Nova_Starr_EMPTY.last>斯塔尔</Female_Nova_Starr_EMPTY.last>
   </li>
   <li Gender="Either" first="Keegan" last="Hyland">
-    <Either_Keegan_Hyland_EMPTY.first>Keegan</Either_Keegan_Hyland_EMPTY.first>
-    <Either_Keegan_Hyland_EMPTY.last>Hyland</Either_Keegan_Hyland_EMPTY.last>
+    <Either_Keegan_Hyland_EMPTY.first>基根</Either_Keegan_Hyland_EMPTY.first>
+    <Either_Keegan_Hyland_EMPTY.last>海兰</Either_Keegan_Hyland_EMPTY.last>
   </li>
   <li Gender="Male" first="Mervyn" last="Grevrath">
-    <Male_Mervyn_Grevrath_EMPTY.first>Mervyn</Male_Mervyn_Grevrath_EMPTY.first>
-    <Male_Mervyn_Grevrath_EMPTY.last>Grevrath</Male_Mervyn_Grevrath_EMPTY.last>
+    <Male_Mervyn_Grevrath_EMPTY.first>默文</Male_Mervyn_Grevrath_EMPTY.first>
+    <Male_Mervyn_Grevrath_EMPTY.last>格雷夫拉特</Male_Mervyn_Grevrath_EMPTY.last>
   </li>
   <li Gender="Male" first="Philéas" last="Thibault" nick="Phil">
-    <Male_Philéas_Thibault_Phil.first>Philéas</Male_Philéas_Thibault_Phil.first>
-    <Male_Philéas_Thibault_Phil.last>Thibault</Male_Philéas_Thibault_Phil.last>
-    <Male_Philéas_Thibault_Phil.nick>Phil</Male_Philéas_Thibault_Phil.nick>
+    <Male_Philéas_Thibault_Phil.first>菲莱亚斯</Male_Philéas_Thibault_Phil.first>
+    <Male_Philéas_Thibault_Phil.last>蒂博</Male_Philéas_Thibault_Phil.last>
+    <Male_Philéas_Thibault_Phil.nick>菲尔</Male_Philéas_Thibault_Phil.nick>
   </li>
   <li Gender="Male" first="Brynjolfur" last="Erlingsson" nick="Binni">
-    <Male_Brynjolfur_Erlingsson_Binni.first>Brynjolfur</Male_Brynjolfur_Erlingsson_Binni.first>
-    <Male_Brynjolfur_Erlingsson_Binni.last>Erlingsson</Male_Brynjolfur_Erlingsson_Binni.last>
-    <Male_Brynjolfur_Erlingsson_Binni.nick>Binni</Male_Brynjolfur_Erlingsson_Binni.nick>
+    <Male_Brynjolfur_Erlingsson_Binni.first>布林乔尔福</Male_Brynjolfur_Erlingsson_Binni.first>
+    <Male_Brynjolfur_Erlingsson_Binni.last>埃林松</Male_Brynjolfur_Erlingsson_Binni.last>
+    <Male_Brynjolfur_Erlingsson_Binni.nick>宾尼</Male_Brynjolfur_Erlingsson_Binni.nick>
   </li>
   <li Gender="Male" first="Owen" last="Van Delst" nick="Owen">
-    <Male_Owen_VanDelst_Owen.first>Owen</Male_Owen_VanDelst_Owen.first>
-    <Male_Owen_VanDelst_Owen.last>Van Delst</Male_Owen_VanDelst_Owen.last>
-    <Male_Owen_VanDelst_Owen.nick>Owen</Male_Owen_VanDelst_Owen.nick>
+    <Male_Owen_VanDelst_Owen.first>欧文</Male_Owen_VanDelst_Owen.first>
+    <Male_Owen_VanDelst_Owen.last>范德尔斯特</Male_Owen_VanDelst_Owen.last>
+    <Male_Owen_VanDelst_Owen.nick>欧文</Male_Owen_VanDelst_Owen.nick>
   </li>
   <li Gender="Male" first="Cyle" last="Mejorado" nick="Fish">
-    <Male_Cyle_Mejorado_Fish.first>Cyle</Male_Cyle_Mejorado_Fish.first>
-    <Male_Cyle_Mejorado_Fish.last>Mejorado</Male_Cyle_Mejorado_Fish.last>
-    <Male_Cyle_Mejorado_Fish.nick>Fish</Male_Cyle_Mejorado_Fish.nick>
+    <Male_Cyle_Mejorado_Fish.first>希尔</Male_Cyle_Mejorado_Fish.first>
+    <Male_Cyle_Mejorado_Fish.last>梅霍拉多</Male_Cyle_Mejorado_Fish.last>
+    <Male_Cyle_Mejorado_Fish.nick>小鱼</Male_Cyle_Mejorado_Fish.nick>
   </li>
   <li Gender="Male" first="Dani" last="Calleja" nick="Dani">
-    <Male_Dani_Calleja_Dani.first>Dani</Male_Dani_Calleja_Dani.first>
-    <Male_Dani_Calleja_Dani.last>Calleja</Male_Dani_Calleja_Dani.last>
-    <Male_Dani_Calleja_Dani.nick>Dani</Male_Dani_Calleja_Dani.nick>
+    <Male_Dani_Calleja_Dani.first>达尼</Male_Dani_Calleja_Dani.first>
+    <Male_Dani_Calleja_Dani.last>卡列哈</Male_Dani_Calleja_Dani.last>
+    <Male_Dani_Calleja_Dani.nick>达尼</Male_Dani_Calleja_Dani.nick>
   </li>
   <li Gender="Male" first="Adelin" last="Droktar" nick="Pattoune">
-    <Male_Adelin_Droktar_Pattoune.first>Adelin</Male_Adelin_Droktar_Pattoune.first>
-    <Male_Adelin_Droktar_Pattoune.last>Droktar</Male_Adelin_Droktar_Pattoune.last>
-    <Male_Adelin_Droktar_Pattoune.nick>Pattoune</Male_Adelin_Droktar_Pattoune.nick>
+    <Male_Adelin_Droktar_Pattoune.first>阿德兰</Male_Adelin_Droktar_Pattoune.first>
+    <Male_Adelin_Droktar_Pattoune.last>德洛克塔尔</Male_Adelin_Droktar_Pattoune.last>
+    <Male_Adelin_Droktar_Pattoune.nick>帕图恩</Male_Adelin_Droktar_Pattoune.nick>
   </li>
 </Data>
