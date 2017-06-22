@@ -159,7 +159,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Chealynn" Category="First" Gender="Female">
-    <Translation>切琳</Translation>
+    <Translation>琪琳</Translation>
     <Fields>
       <Female_Chealynn_Huang_Cheabear.first />
     </Fields>
@@ -593,7 +593,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Molly" Category="First" Gender="Female">
-    <Translation>莫莉</Translation>
+    <Translation>茉莉</Translation>
     <Fields>
       <Female_Molly_Chen_Molly.first />
     </Fields>

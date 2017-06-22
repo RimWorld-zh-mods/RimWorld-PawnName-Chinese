@@ -208,7 +208,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Sheng" Category="First" Gender="Either">
-    <Translation>胜</Translation>
+    <Translation>笙</Translation>
     <Fields>
       <Either_Sheng_Huang_EMPTY.first />
     </Fields>

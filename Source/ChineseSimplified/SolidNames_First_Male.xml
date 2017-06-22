@@ -1128,7 +1128,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Chunhui" Category="First" Gender="Male">
-    <Translation>春辉</Translation>
+    <Translation>春晖</Translation>
     <Fields>
       <Male_Chunhui_Yang_EMPTY.first />
     </Fields>
@@ -2515,7 +2515,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Jae" Category="First" Gender="Male">
-    <Translation>简</Translation>
+    <Translation>宰</Translation>
     <Fields>
       <Male_Jae_Yang_EMPTY.first />
     </Fields>
@@ -2889,7 +2889,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Jiunwei" Category="First" Gender="Male">
-    <Translation>俊伟</Translation>
+    <Translation>俊文</Translation>
     <Fields>
       <Male_Jiunwei_Chen_Rooks.first />
     </Fields>
@@ -6211,7 +6211,7 @@
     </Fields>
   </SubMap>
   <SubMap Name="Wu" Category="First" Gender="Male">
-    <Translation>伍</Translation>
+    <Translation>武</Translation>
     <Fields>
       <Male_Wu_Xian_Amu.first />
       <Male_Wu_Peichih_Parker.first />
@@ -6264,13 +6264,13 @@
     </Fields>
   </SubMap>
   <SubMap Name="Yu Hua" Category="First" Gender="Male">
-    <Translation>宇华</Translation>
+    <Translation>裕华</Translation>
     <Fields>
       <Male_YuHua_Chen_EMPTY.first />
     </Fields>
   </SubMap>
   <SubMap Name="Yue" Category="First" Gender="Male">
-    <Translation>岳</Translation>
+    <Translation>越</Translation>
     <Fields>
       <Male_Yue_Ma_Mark.first />
     </Fields>

@@ -779,7 +779,7 @@
   <li Gender="Male" first="Asgeir" last="Ingvarsson" nick="Asgeir">
     <Male_Asgeir_Ingvarsson_Asgeir.first>阿斯盖尔</Male_Asgeir_Ingvarsson_Asgeir.first>
     <Male_Asgeir_Ingvarsson_Asgeir.last>因沃森</Male_Asgeir_Ingvarsson_Asgeir.last>
-    <Male_Asgeir_Ingvarsson_Asgeir.nick>阿斯吉尔</Male_Asgeir_Ingvarsson_Asgeir.nick>
+    <Male_Asgeir_Ingvarsson_Asgeir.nick>阿斯盖尔</Male_Asgeir_Ingvarsson_Asgeir.nick>
   </li>
   <li Gender="Male" first="Korwal" last="Ferrara" nick="Bomba">
     <Male_Korwal_Ferrara_Bomba.first>科沃尔</Male_Korwal_Ferrara_Bomba.first>
@@ -853,7 +853,7 @@
   <li Gender="Male" first="Nerk" last="Purderberk" nick="Nerk">
     <Male_Nerk_Purderberk_Nerk.first>尼尔克</Male_Nerk_Purderberk_Nerk.first>
     <Male_Nerk_Purderberk_Nerk.last>布尔德瑞克</Male_Nerk_Purderberk_Nerk.last>
-    <Male_Nerk_Purderberk_Nerk.nick>尼克尔</Male_Nerk_Purderberk_Nerk.nick>
+    <Male_Nerk_Purderberk_Nerk.nick>尼尔克</Male_Nerk_Purderberk_Nerk.nick>
   </li>
   <li Gender="Female" first="Kadence" last="Sherrill" nick="Kay">
     <Female_Kadence_Sherrill_Kay.first>卡登斯</Female_Kadence_Sherrill_Kay.first>
@@ -933,7 +933,7 @@
   <li Gender="Female" first="Kesa" last="Vinxon" nick="Kesa">
     <Female_Kesa_Vinxon_Kesa.first>卡萨</Female_Kesa_Vinxon_Kesa.first>
     <Female_Kesa_Vinxon_Kesa.last>维尼森</Female_Kesa_Vinxon_Kesa.last>
-    <Female_Kesa_Vinxon_Kesa.nick>卡莎</Female_Kesa_Vinxon_Kesa.nick>
+    <Female_Kesa_Vinxon_Kesa.nick>卡萨</Female_Kesa_Vinxon_Kesa.nick>
   </li>
   <li Gender="Male" first="Yarden" last="Raveh">
     <Male_Yarden_Raveh_EMPTY.first>亚登</Male_Yarden_Raveh_EMPTY.first>
@@ -4701,7 +4701,7 @@
   <li Gender="Male" first="Ang" last="Gao" nick="Codex">
     <Male_Ang_Gao_Codex.first>昂</Male_Ang_Gao_Codex.first>
     <Male_Ang_Gao_Codex.last>高</Male_Ang_Gao_Codex.last>
-    <Male_Ang_Gao_Codex.nick>法典</Male_Ang_Gao_Codex.nick>
+    <Male_Ang_Gao_Codex.nick>原典</Male_Ang_Gao_Codex.nick>
   </li>
   <li Gender="Male" first="Sadoon" last="Al-Obaidi" nick="Doon">
     <Male_Sadoon_Al-Obaidi_Doon.first>萨东</Male_Sadoon_Al-Obaidi_Doon.first>
@@ -5248,9 +5248,9 @@
     <Male_Dirk_Ehrhardt_Theo.nick>西奥</Male_Dirk_Ehrhardt_Theo.nick>
   </li>
   <li Gender="Male" first="Pira" last="Novikov" nick="Pira">
-    <Male_Pira_Novikov_Pira.first>皮拉</Male_Pira_Novikov_Pira.first>
-    <Male_Pira_Novikov_Pira.last>诺维科夫</Male_Pira_Novikov_Pira.last>
-    <Male_Pira_Novikov_Pira.nick>皮拉</Male_Pira_Novikov_Pira.nick>
+    <Male_Pira_Novikov_Pira.first>皮拉</Male_Pira_Novikov_Pira.first>
+    <Male_Pira_Novikov_Pira.last>诺维科夫</Male_Pira_Novikov_Pira.last>
+    <Male_Pira_Novikov_Pira.nick>皮拉</Male_Pira_Novikov_Pira.nick>
   </li>
   <li Gender="Male" first="Elliott" last="Callaway">
     <Male_Elliott_Callaway_EMPTY.first>埃利奥特</Male_Elliott_Callaway_EMPTY.first>
@@ -5298,9 +5298,9 @@
     <Male_Andrei_Baiu_Drei.nick>德雷伊</Male_Andrei_Baiu_Drei.nick>
   </li>
   <li Gender="Male" first="Donitz" last="Benger" nick="Donitz">
-	<Male_Donitz_Benger_Donitz.first>邓尼茨</Male_Donitz_Benger_Donitz.first>
-    <Male_Donitz_Benger_Donitz.last>本杰</Male_Donitz_Benger_Donitz.last>
-    <Male_Donitz_Benger_Donitz.nick>邓尼茨</Male_Donitz_Benger_Donitz.nick>
+    <Male_Donitz_Benger_Donitz.first>邓尼茨</Male_Donitz_Benger_Donitz.first>
+    <Male_Donitz_Benger_Donitz.last>本杰</Male_Donitz_Benger_Donitz.last>
+    <Male_Donitz_Benger_Donitz.nick>邓尼茨</Male_Donitz_Benger_Donitz.nick>
   </li>
   <li Gender="Female" first="Jane" last="West">
     <Female_Jane_West_EMPTY.first>简</Female_Jane_West_EMPTY.first>
