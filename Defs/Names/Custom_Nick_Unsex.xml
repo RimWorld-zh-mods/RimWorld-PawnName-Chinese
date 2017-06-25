@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <RandomNameDef>
+    <defName>Custom_Nick_Unsex</defName>
+    <slot>Nick</slot>
+    <gender>None</gender>
+    <shuffledNames>
+      <li>⑨</li><li>冬瓜</li><li>冬菇</li><li>小小</li><li>萌萌</li>
+      <li>大王</li><li>石头</li><li>电脑</li><li>卡密</li><li>括号</li>
+      <li>冰红茶</li><li>绿茶</li><li>乌龙茶</li><li>红茶</li><li>豆豆</li>
+      <li>鸵鸟</li><li>骆驼</li><li>熊猫</li><li>豆沙包</li><li>鹌鹑</li>
+      <li>鸽子</li><li>孔雀</li><li>勺子</li><li>萝卜</li><li>馒头</li>
+      <li>豆腐</li><li>蛋糕</li><li>火山</li><li>老鹰</li><li>狐狸</li>
+      <li>天然呆</li><li>面瘫</li><li>傲娇</li><li>三无</li><li>精灵</li>
+      <li>阴阳眼</li><li>三尾</li><li>六尾</li><li>九尾</li><li>青龙</li>
+      <li>白虎</li><li>朱雀</li><li>玄武</li><li>麒麟</li><li>凤凰</li>
+      <li>医生</li><li>警察</li><li>神</li><li>仙</li><li>圣人</li>
+      <li>雷神</li><li>死神</li><li>勇者</li><li>魔王</li><li>橙子</li>
+      <li>兰花</li><li>核桃</li><li>仓鼠</li><li>桃子</li><li>娃娃</li>
+      <li>黑猫</li><li>白猫</li><li>主席</li><li>总统</li>
+      <!--//二十四节气-->
+      <li>立春</li><li>雨水</li><li>惊蛰</li><li>春分</li><li>清明</li>
+      <li>谷雨</li><li>立夏</li><li>小满</li><li>芒种</li><li>夏至</li>
+      <li>小暑</li><li>大暑</li><li>立秋</li><li>处暑</li><li>白露</li>
+      <li>秋分</li><li>寒露</li><li>霜降</li><li>立冬</li><li>小雪</li>
+      <li>大雪</li><li>冬至</li><li>小寒</li><li>大寒</li>
+    </shuffledNames>
+  </RandomNameDef>
+
+</Defs>

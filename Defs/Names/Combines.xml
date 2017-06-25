@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <!-- Combine names -->
+
+  <CombineNameDef>
+    <defName>Combine_China_Male</defName>
+    <gender>Male</gender>
+    <amount>1024</amount>
+    <firstRandomNameDefs>
+      <li>Custom_China_First_Male</li>
+    </firstRandomNameDefs>
+    <lastRandomNameDefs>
+      <li>Custom_China_Last</li>
+    </lastRandomNameDefs>
+  </CombineNameDef>
+
+  <CombineNameDef>
+    <defName>Combine_China_Female</defName>
+    <gender>Female</gender>
+    <amount>1024</amount>
+    <firstRandomNameDefs>
+      <li>Custom_China_First_Female</li>
+    </firstRandomNameDefs>
+    <lastRandomNameDefs>
+      <li>Custom_China_Last</li>
+    </lastRandomNameDefs>
+  </CombineNameDef>
+
+  <CombineNameDef>
+    <defName>Combine_Japan_Male</defName>
+    <gender>Male</gender>
+    <amount>512</amount>
+    <firstRandomNameDefs>
+      <li>Custom_Japan_First_Male</li>
+    </firstRandomNameDefs>
+    <lastRandomNameDefs>
+      <li>Custom_Japan_Last</li>
+    </lastRandomNameDefs>
+  </CombineNameDef>
+
+  <CombineNameDef>
+    <defName>Custom_Japan_First_Female</defName>
+    <gender>Female</gender>
+    <amount>512</amount>
+    <firstRandomNameDefs>
+      <li>Custom_China_First_Female</li>
+    </firstRandomNameDefs>
+    <lastRandomNameDefs>
+      <li>Custom_Japan_Last</li>
+    </lastRandomNameDefs>
+  </CombineNameDef>
+
+</Defs>

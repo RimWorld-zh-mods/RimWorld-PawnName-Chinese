@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <RandomNameDef>
+    <defName>Custom_Nick_Female</defName>
+    <slot>Nick</slot>
+    <gender>Female</gender>
+    <shuffledNames>
+      <li>小蜜蜂</li><li>小龙女</li><li>小白兔</li><li>小仙女</li><li>公主</li>
+      <li>师太</li><li>太后</li><li>贵妃</li><li>姐姐</li><li>妹妹</li>
+      <li>小妹</li><li>大姐</li><li>大姐头</li><li>阿库娅</li><li>二丫</li>
+      <li>二妞</li><li>妞妞</li><li>妮妮</li><li>小圆</li><li>小缘</li>
+      <li>花木兰</li><li>魔法少女</li><li>魔女</li><li>巫女</li><li>喵喵</li>
+      <li>萝莉</li><li>红白</li><li>蓝白</li><li>妖精</li><li>西施</li>
+      <li>圆圆</li><li>泡芙</li><li>马卡龙</li><li>茉莉</li><li>玫瑰</li>
+      <li>蔷薇</li><li>樱桃</li><li>栗子</li><li>苏苏</li><li>红娘</li>
+      <li>金丝雀</li><li>泡泡</li><li>冰冰</li><li>Miss</li><li>琪琪</li>
+      <li>七七</li><li>小可爱</li><li>开心果</li><li>小狐狸</li><li>小雪</li>
+      <li>小百合</li><li>小丫</li><li>苹果</li><li>妃子</li><li>恐龙</li>
+      <li>小鸟</li><li>三娘</li><li>娘娘</li><li>叶子</li><li>黛玉</li>
+      <li>飞燕</li><li>大乔</li><li>小乔</li><li>貂蝉</li>
+    </shuffledNames>
+  </RandomNameDef>
+
+</Defs>

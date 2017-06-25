@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <RandomNameDef>
+    <defName>Custom_Japan_First_Male</defName>
+    <slot>First</slot>
+    <gender>Male</gender>
+    <shuffledNames>
+      <li>达平</li><li>真一郎</li><li>政治</li><li>昌宏</li><li>久太</li>
+      <li>典孝</li><li>刚一</li><li>义人</li><li>泉</li><li>健太郎</li>
+      <li>川仁</li><li>友二</li><li>昴</li><li>裕介</li><li>悠一</li>
+      <li>诚</li><li>健太</li><li>武人</li><li>启治</li><li>贤雄</li>
+      <li>界人</li><li>拓也</li><li>祯丞</li><li>正宗</li><li>京介</li>
+      <li>大辅</li><li>真</li><li>翔太</li><li>飒太</li><li>大辉</li>
+      <li>优夜</li><li>健一</li><li>瑠伟</li><li>崇</li><li>克幸</li>
+      <li>昌明</li><li>亮</li><li>士郎</li><li>纪彰</li><li>凛</li>
+      <li>顺一</li><li>绮礼</li><li>让治</li><li>延年</li><li>慎二</li>
+      <li>浩史</li><li>切嗣</li><li>力也</li><li>一成</li><li>光昭</li>
+      <li>宗一郎</li><li>和宏</li><li>忠久</li><li>一</li><li>时臣</li>
+      <li>龙太郎</li><li>伦也</li><li>伦太郎</li><li>真守</li><li>琉华</li>
+      <li>平</li><li>裕吾</li><li>昌纪</li><li>至</li><li>八幡</li>
+      <li>隼人</li><li>隆</li><li>义辉</li><li>修之</li><li>大雄</li>
+      <li>小夫</li><li>武</li><li>昂</li><li>英才</li><li>伸助</li>
+      <li>保典</li><li>贵</li><li>润</li><li>和彦</li><li>透</li>
+      <li>孝宏</li><li>贵纪</li><li>达也</li><li>结弦</li><li>秀树</li>
+      <li>良平</li><li>高松</li><li>大宙</li><li>俊</li><li>裕生</li>
+      <li>英一郎</li><li>光弘</li><li>宏树</li><li>雄三</li><li>祯史</li>
+      <li>刚彦</li><li>雄次</li><li>胜史</li><li>悠太</li><li>萨来伊</li>
+      <li>骏</li><li>彻也</li><li>健次郎</li><li>秀明</li><li>义行</li>
+      <li>嗣</li><li>美里</li><li>渚薰</li><li>彰</li><li>冬二</li>
+      <li>剑介</li><li>哲哉</li><li>雪</li><li>和哉</li><li>历彦</li>
+      <li>颂夫</li><li>博之</li><li>琢真</li><li>昭夫</li><li>光久</li>
+      <li>洋一</li><li>裕</li><li>浩康</li><li>诗郎</li><li>真宏</li>
+      <li>徹也</li>
+    </shuffledNames>
+  </RandomNameDef>
+
+</Defs>

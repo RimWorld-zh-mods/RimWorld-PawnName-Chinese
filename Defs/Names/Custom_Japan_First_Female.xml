@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <RandomNameDef>
+    <defName>Custom_Japan_First_Female</defName>
+    <slot>First</slot>
+    <gender>Female</gender>
+    <shuffledNames>
+      <li>沙绫</li><li>李依</li><li>夕实</li><li>千夏</li><li>麻美子</li>
+      <li>梨衣</li><li>祈</li><li>里美</li><li>由香里</li><li>裕香</li>
+      <li>由衣</li><li>佳奈</li><li>纱雾</li><li>茜</li><li>未奈美</li>
+      <li>村正</li><li>沙织</li><li>惠</li><li>衣吹</li><li>智惠</li>
+      <li>由依</li><li>初音</li><li>桐乃</li><li>彩奈</li><li>琉璃</li>
+      <li>香菜</li><li>仁美</li><li>麻奈实</li><li>聪美</li><li>绫濑</li>
+      <li>加奈子</li><li>佳乃</li><li>明乃</li><li>睦心</li><li>由气</li>
+      <li>麻理亚</li><li>忧希</li><li>莉子</li><li>英美里</li><li>乔吉</li>
+      <li>苗</li><li>邑子</li><li>夏织</li><li>未可子</li><li>阳子</li>
+      <li>茉美香</li><li>天</li><li>真鉴</li><li>真绫</li><li>笃</li>
+      <li>爱生</li><li>綾乃</li><li>寿子</li><li>亚希</li><li>步</li>
+      <li>菜子</li><li>彩香</li><li>绫子</li><li>樱</li><li>则子</li>
+      <li>美纪</li><li>舞以</li><li>悠</li><li>敦子</li><li>史绘</li>
+      <li>沙耶香</li><li>爱衣</li><li>纱友里</li><li>美智留</li><li>出海</li>
+      <li>真由理</li><li>红莉栖</li><li>麻美</li><li>萌郁</li><li>沙绪里</li>
+      <li>琉华</li><li>优</li><li>留未穗</li><li>晴子</li><li>铃羽</li>
+      <li>彩乃</li><li>绹</li><li>雪乃</li><li>结衣</li><li>奈央</li>
+      <li>静</li><li>凉香</li><li>彩加</li><li>沙希</li><li>亚美</li>
+      <li>姬菜</li><li>望</li><li>优美子</li><li>麻里奈</li><li>阳乃</li>
+      <li>麻衣</li><li>小町</li><li>碧</li><li>山葵</li><li>惠美</li>
+      <li>静香</li><li>由美</li><li>保子</li><li>玉子</li><li>琴乃</li>
+      <li>千秋</li><li>日和</li><li>真礼</li><li>美雪</li><li>理惠</li>
+      <li>由理</li><li>浩美</li><li>奏</li><li>英梨</li><li>雅美</li>
+      <li>久子</li><li>知惠</li><li>诗织</li><li>枫子</li><li>由美子</li>
+      <li>百合子</li><li>美咲</li><li>棱歌</li><li>绫音</li><li>实优羽</li>
+      <li>桐子</li><li>梨梨花</li><li>明日菜</li><li>千津</li><li>亚里亚</li>
+      <li>丽</li><li>明日香</li><li>优子</li><li>律子</li><li>由里子</li>
+      <li>雪</li><li>幸子</li><li>和子</li><li>真纪</li><li>彩音</li>
+    </shuffledNames>
+  </RandomNameDef>
+
+</Defs>

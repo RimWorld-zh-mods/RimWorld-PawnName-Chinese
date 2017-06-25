@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <RandomNameDef>
+    <defName>Custom_Nick_Male</defName>
+    <slot>Nick</slot>
+    <gender>Male</gender>
+    <shuffledNames>
+      <li>阿黄</li><li>阿兵</li><li>阿牛</li><li>阿飞</li><li>阿狗</li>
+      <li>阿龙</li><li>阿鸡</li><li>阿东</li><li>大黄</li><li>大仙</li>
+      <li>老狼</li><li>亲王</li><li>毒奶</li><li>大炮</li><li>大帝</li>
+      <li>飞机</li><li>坦克</li><li>单车</li><li>火车</li><li>键盘</li>
+      <li>鼠标</li><li>砖头</li><li>狗王</li><li>公子</li><li>和尚</li>
+      <li>皇帝</li><li>太上皇</li><li>哥哥</li><li>弟弟</li><li>小哥</li>
+      <li>小弟</li><li>大哥</li><li>大佬</li><li>大哥大</li><li>小日本</li>
+      <li>大锤</li><li>铁柱</li><li>二狗子</li><li>剩子</li><li>屎蛋</li>
+      <li>红牛</li><li>将军</li><li>皇叔</li><li>战士</li><li>法师</li>
+      <li>猎人</li><li>汪汪</li><li>剑圣</li><li>蛮子</li><li>水哥</li>
+      <li>大叔</li><li>B哥</li><li>诚哥</li><li>提督</li><li>少校</li>
+      <li>上尉</li><li>狗熊</li><li>老鼠</li><li>猴子</li><li>香蕉</li>
+      <li>刘星</li><li>首长</li><li>骑士</li><li>小霸王</li>
+    </shuffledNames>
+  </RandomNameDef>
+
+</Defs>
