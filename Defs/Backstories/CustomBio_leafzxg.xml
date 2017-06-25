@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <!-- leafzxg -->
+
+  <PawnBioDef>
+    <defName>CustomBio_leafzxg</defName>
+    <gender>Male</gender>
+    <name>
+      <first>飘零</first>
+      <last>落叶</last>
+      <nick>落叶飘零</nick>
+    </name>
+    <childhoodDef>CustomBS_leafzxg_Child</childhoodDef>
+    <adulthoodDef>CustomBS_leafzxg_Adult</adulthoodDef>
+  </PawnBioDef>
+
+  <BackstoryDef>
+    <defName>CustomBS_leafzxg_Child</defName>
+    <title>维度入侵幸存者</title>
+    <titleShort>幸存者</titleShort>
+    <baseDesc>NAME原本居住在帝国核心的闪耀世界，本该有一个幸福的童年。但是不幸发生了，亚空间恶魔的入侵摧毁了NAME的家园，NAME很幸运地活了下来，但只是艰难地维持着生命，辗转于各个星区的殖民地。NAME最后被帝国军队所救，这段悲惨的童年经历虽然让他变得意志坚强、工作高效，但是也磨灭了他的些许人性，使他变得冷血无情。</baseDesc>
+    <skillGains>
+      <li>
+        <key>Artistic</key>
+        <value>-5</value>
+      </li>
+      <li>
+        <key>Crafting</key>
+        <value>2</value>
+      </li>
+      <li>
+        <key>Construction</key>
+        <value>2</value>
+      </li>
+      <li>
+        <key>Shooting</key>
+        <value>3</value>
+      </li>
+    </skillGains>
+    <spawnCategories>
+      <li>Civil</li>
+    </spawnCategories>
+    <bodyTypeGlobal>Male</bodyTypeGlobal>
+    <forcedTraits>
+      <Bloodlust/>
+      <Industriousness>2</Industriousness>
+      <Neurotic>2</Neurotic>
+    </forcedTraits>
+  </BackstoryDef>
+
+  <BackstoryDef>
+    <defName>CustomBS_leafzxg_Adult</defName>
+    <title>星区总督</title>
+    <titleShort>总督</titleShort>
+    <baseDesc>NAME由于军功卓著，被帝国授予总督的头衔，NAME工作积极、认真负责，职位也一路高升，当上了帝国最大的一片星区的总督。然而统治如此大的一片星区让NAME感到巨大的压力，每日繁忙的事务也让他精神焦虑，身心疲惫。</baseDesc>
+    <skillGains>
+      <li>
+        <key>Social</key>
+        <value>3</value>
+      </li>
+      <li>
+        <key>Intellectual</key>
+        <value>3</value>
+      </li>
+    </skillGains>
+    <spawnCategories>
+      <li>Civil</li>
+      <li>Slave</li>
+      <li>Raider</li>
+      <li>Traveler</li>
+      <li>pirateKing</li>
+    </spawnCategories>
+    <bodyTypeGlobal>Male</bodyTypeGlobal>
+  </BackstoryDef>
+
+</Defs>

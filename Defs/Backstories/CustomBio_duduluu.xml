@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <!-- duduluu -->
+
+  <PawnBioDef>
+    <defName>CustomBio_duduluu</defName>
+    <gender>Female</gender>
+    <name>
+      <first>起灵</first>
+      <last>风</last>
+      <nick>大魔王</nick>
+    </name>
+    <childhoodDef>CustomBS_duduluu_Child</childhoodDef>
+    <adulthoodDef>CustomBS_duduluu_Adult</adulthoodDef>
+  </PawnBioDef>
+
+  <BackstoryDef>
+    <defName>CustomBS_duduluu_Child</defName>
+    <title>极客的小孩</title>
+    <titleShort>小极客</titleShort>
+    <baseDesc>NAME从小就非常聪明，喜好绘画、各种充满技术和挑战的事物，梦想着成为一名黑客。</baseDesc>
+    <skillGains>
+      <li>
+        <key>Social</key>
+        <value>-2</value>
+      </li>
+      <li>
+        <key>Crafting</key>
+        <value>1</value>
+      </li>
+      <li>
+        <key>Artistic</key>
+        <value>1</value>
+      </li>
+      <li>
+        <key>Intellectual</key>
+        <value>3</value>
+      </li>
+    </skillGains>
+    <workDisables>
+      <li>Hauling</li>
+      <li>Mining</li>
+    </workDisables>
+    <spawnCategories>
+      <li>Civil</li>
+    </spawnCategories>
+    <bodyTypeGlobal>Thin</bodyTypeGlobal>
+    <forcedTraits>
+      <TooSmart/>
+      <SpeedOffset>-1</SpeedOffset>
+      <Gay/>
+      <NightOwl/>
+    </forcedTraits>
+  </BackstoryDef>
+
+  <BackstoryDef>
+    <defName>CustomBS_duduluu_Adult</defName>
+    <title>前端程序员</title>
+    <titleShort>程序员</titleShort>
+    <baseDesc>上大学时，NAME翘掉了大部分的课，导致常常挂科和需要补考。作为一个技术宅，HE将这些时间花在了折腾各种电脑技术上。\n\n毕业后，NAME成为了一名平面设计师，但HE发现这并不是他想要的，经过一段时间的落魄后，最终通过自学成为了一名前端程序员。</baseDesc>
+    <skillGains>
+      <li>
+        <key>Social</key>
+        <value>-2</value>
+      </li>
+      <li>
+        <key>Cooking</key>
+        <value>5</value>
+      </li>
+      <li>
+        <key>Crafting</key>
+        <value>3</value>
+      </li>
+      <li>
+        <key>Artistic</key>
+        <value>3</value>
+      </li>
+      <li>
+        <key>Intellectual</key>
+        <value>3</value>
+      </li>
+    </skillGains>
+    <spawnCategories>
+      <li>Civil</li>
+      <li>Slave</li>
+      <li>Raider</li>
+      <li>Traveler</li>
+      <li>Trader</li>
+    </spawnCategories>
+    <bodyTypeGlobal>Thin</bodyTypeGlobal>
+  </BackstoryDef>
+
+</Defs>
