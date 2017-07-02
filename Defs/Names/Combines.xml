@@ -18,7 +18,7 @@
   <CombineNameDef>
     <defName>Combine_China_Female</defName>
     <gender>Female</gender>
-    <amount>1024</amount>
+    <amount>2048</amount>
     <firstRandomNameDefs>
       <li>Custom_China_First_Female</li>
     </firstRandomNameDefs>
@@ -30,7 +30,7 @@
   <CombineNameDef>
     <defName>Combine_Japan_Male</defName>
     <gender>Male</gender>
-    <amount>512</amount>
+    <amount>256</amount>
     <firstRandomNameDefs>
       <li>Custom_Japan_First_Male</li>
     </firstRandomNameDefs>
