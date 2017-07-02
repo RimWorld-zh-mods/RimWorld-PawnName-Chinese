@@ -4,7 +4,11 @@
   <author>duduluu</author>
   <url>http://RimWorld-zh.com</url>
 	<targetVersion>0.17.1557</targetVersion>
-  <description>&lt;color=#8c9eff&gt;&lt;b&gt;注意：需要安装 RimWorld Translation Framework 边缘世界翻译框架&lt;/b&gt;&lt;/color&gt;
+  <description>&lt;color=#8c9eff&gt;&lt;b&gt;========================================================&lt;/b&gt;&lt;/color&gt;
+&lt;color=#8c9eff&gt;&lt;b&gt;注意：需要安装 RimWorld Translation Framework 边缘世界翻译框架&lt;/b&gt;&lt;/color&gt;
+&lt;color=#8c9eff&gt;&lt;b&gt;注意：需要安装 RimWorld Translation Framework 边缘世界翻译框架&lt;/b&gt;&lt;/color&gt;
+&lt;color=#8c9eff&gt;&lt;b&gt;注意：需要安装 RimWorld Translation Framework 边缘世界翻译框架&lt;/b&gt;&lt;/color&gt;
+&lt;color=#8c9eff&gt;&lt;b&gt;========================================================&lt;/b&gt;&lt;/color&gt;
 
 将游戏中的人名翻译成中文，包括随机人名库和固定人名（DLC 创作回报 Creative Rewards）。
 并增加一些自定义人名和背景故事。
@@ -25,16 +29,10 @@
   > 总计：13471
 
 ### 新增姓名库
-
-#### 随机姓名库
-  - 中国姓名
-  - 日本姓名
-  - 一些昵称
-
-#### 固定姓名库
+  - 随机姓名库
   - 几个汉化组成员的人名与背景故事固定组合
   - 马特 '搞事' 弗里曼 人名与背景故事固定组合（由 rsxx4488 添加）
-  - 永信 '磁爆步兵' 永信 人名与背景故事固定组合
+  - 永信 '磁爆步兵' 杨 人名与背景故事固定组合
 
 ### 译者（按字母排序）
   - BOX (rsxx4488)
